@@ -1,0 +1,951 @@
+,start_year,team_id,team_name,id,first_name,last_name,primary_number,birth_date,current_age,birth_city,birth_state_province,birth_country,nationality,height,weight,active,alternate_captain,captain,rookie,shoots_catches,roster_status,position_name,position_type,position_abbreviation
+0,2020,1,New Jersey Devils,8477972,Josh,Jacobs,40,1996-02-15,25,Shelby Township,MI,USA,USA,"6' 2""",200,True,False,False,True,R,Y,Defenseman,Defenseman,D
+1,2020,1,New Jersey Devils,8478421,A.J.,Greer,42,1996-12-14,24,Joliette,QC,CAN,CAN,"6' 3""",210,True,False,False,False,L,Y,Left Wing,Forward,LW
+2,2020,1,New Jersey Devils,8474056,P.K.,Subban,76,1989-05-13,32,Toronto,ON,CAN,CAN,"6' 0""",210,True,True,False,False,R,Y,Defenseman,Defenseman,D
+3,2020,1,New Jersey Devils,8475809,Scott,Wedgewood,41,1992-08-14,28,Brampton,ON,CAN,CAN,"6' 2""",207,True,False,False,False,L,Y,Goalie,Goalie,G
+4,2020,1,New Jersey Devils,8476807,Matt,Tennyson,7,1990-04-23,31,Minneapolis,MN,USA,USA,"6' 2""",205,True,False,False,False,R,Y,Defenseman,Defenseman,D
+5,2020,1,New Jersey Devils,8476850,Ryan,Murray,22,1993-09-27,27,Regina,SK,CAN,CAN,"6' 1""",206,True,False,False,False,L,Y,Defenseman,Defenseman,D
+6,2020,1,New Jersey Devils,8476923,Damon,Severson,28,1994-08-07,26,Melville,SK,CAN,CAN,"6' 2""",205,True,True,False,False,R,Y,Defenseman,Defenseman,D
+7,2020,1,New Jersey Devils,8476941,Connor,Carrick,5,1994-04-13,27,Orland Park,IL,USA,USA,"5' 11""",192,True,False,False,False,R,Y,Defenseman,Defenseman,D
+8,2020,1,New Jersey Devils,8477180,Aaron,Dell,47,1989-05-04,32,Airdrie,AB,CAN,CAN,"6' 0""",209,True,False,False,False,L,Y,Goalie,Goalie,G
+9,2020,1,New Jersey Devils,8477341,Andreas,Johnsson,11,1994-11-21,26,Gävle,,SWE,SWE,"5' 10""",194,True,False,False,False,L,Y,Left Wing,Forward,LW
+10,2020,1,New Jersey Devils,8477355,Will,Butcher,8,1995-01-06,26,Sun Prairie,WI,USA,USA,"5' 10""",190,True,False,False,False,L,Y,Defenseman,Defenseman,D
+11,2020,1,New Jersey Devils,8477425,Miles,Wood,44,1995-09-13,25,Buffalo,NY,USA,USA,"6' 2""",195,True,True,False,False,L,Y,Left Wing,Forward,LW
+12,2020,1,New Jersey Devils,8478399,Jonas,Siegenthaler,71,1997-05-06,24,Zurich,,CHE,CHE,"6' 3""",211,True,False,False,False,L,Y,Defenseman,Defenseman,D
+13,2020,1,New Jersey Devils,8478401,Pavel,Zacha,37,1997-04-06,24,Brno,,CZE,CZE,"6' 3""",210,True,False,False,False,L,Y,Center,Forward,C
+14,2020,1,New Jersey Devils,8478406,Mackenzie,Blackwood,29,1996-12-09,24,Thunder Bay,ON,CAN,CAN,"6' 4""",225,True,False,False,False,L,Y,Goalie,Goalie,G
+15,2020,1,New Jersey Devils,8478447,Nicholas,Merkley,39,1997-05-23,24,Calgary,AB,CAN,CAN,"5' 10""",194,True,False,False,True,L,Y,Right Wing,Forward,RW
+16,2020,1,New Jersey Devils,8479407,Jesper,Bratt,63,1998-07-30,22,Stockholm,,SWE,SWE,"5' 10""",175,True,False,False,False,L,Y,Left Wing,Forward,LW
+17,2020,1,New Jersey Devils,8479414,Nathan,Bastian,14,1997-12-06,23,Kitchener,ON,CAN,CAN,"6' 4""",205,True,False,False,True,R,Y,Right Wing,Forward,RW
+18,2020,1,New Jersey Devils,8479415,Michael,McLeod,20,1998-02-03,23,Mississauga,ON,CAN,CAN,"6' 2""",188,True,False,False,False,R,Y,Center,Forward,C
+19,2020,1,New Jersey Devils,8479511,Janne,Kuokkanen,59,1998-05-25,23,Oulunsalo,,FIN,FIN,"6' 1""",193,True,False,False,True,L,Y,Left Wing,Forward,LW
+20,2020,1,New Jersey Devils,8479573,Mikhail,Maltsev,23,1998-03-12,23,St. Petersburg,,RUS,RUS,"6' 3""",198,True,False,False,True,L,Y,Left Wing,Forward,LW
+21,2020,1,New Jersey Devils,8480002,Nico,Hischier,13,1999-01-04,22,Brig,,CHE,CHE,"6' 1""",175,True,False,True,False,L,Y,Center,Forward,C
+22,2020,1,New Jersey Devils,8480003,Jesper,Boqvist,90,1998-10-30,22,Falun,,SWE,SWE,"6' 0""",180,True,False,False,False,L,Y,Center,Forward,C
+23,2020,1,New Jersey Devils,8480883,Ty,Smith,24,2000-03-24,21,Lloydminster,AB,CAN,CAN,"5' 11""",175,True,False,False,True,L,Y,Defenseman,Defenseman,D
+24,2020,1,New Jersey Devils,8481068,Yegor,Sharangovich,17,1998-06-06,23,Minsk,,BLR,BLR,"6' 2""",196,True,False,False,True,L,Y,Center,Forward,C
+25,2020,1,New Jersey Devils,8481559,Jack,Hughes,86,2001-05-14,20,Orlando,FL,USA,USA,"5' 11""",176,True,False,False,False,L,Y,Center,Forward,C
+26,2020,2,New York Islanders,8475314,Anders,Lee,27,1990-07-03,31,Edina,MN,USA,USA,"6' 3""",235,True,False,True,False,L,Y,Left Wing,Forward,LW
+27,2020,2,New York Islanders,8470187,Johnny,Boychuk,55,1984-01-19,37,Edmonton,AB,CAN,CAN,"6' 2""",227,True,False,False,False,R,Y,Defenseman,Defenseman,D
+28,2020,2,New York Islanders,8471217,Andrew,Ladd,16,1985-12-12,35,Maple Ridge,BC,CAN,CAN,"6' 3""",205,True,False,False,False,L,Y,Left Wing,Forward,LW
+29,2020,2,New York Islanders,8470601,Braydon,Coburn,45,1985-02-27,36,Shaunavon,SK,CAN,CAN,"6' 5""",224,True,False,False,False,L,Y,Defenseman,Defenseman,D
+30,2020,2,New York Islanders,8471233,Travis,Zajac,14,1985-05-13,36,Winnipeg,MB,CAN,CAN,"6' 2""",185,True,False,False,False,R,Y,Center,Forward,C
+31,2020,2,New York Islanders,8471239,Cory,Schneider,35,1986-03-18,35,Marblehead,MA,USA,USA,"6' 3""",200,True,False,False,False,L,Y,Goalie,Goalie,G
+32,2020,2,New York Islanders,8472382,Andy,Greene,4,1982-10-30,38,Trenton,MI,USA,USA,"5' 11""",190,True,False,False,False,L,Y,Defenseman,Defenseman,D
+33,2020,2,New York Islanders,8473463,Leo,Komarov,47,1987-01-23,34,Narva,,EST,FIN,"6' 0""",208,True,False,False,False,L,Y,Right Wing,Forward,RW
+34,2020,2,New York Islanders,8473504,Cal,Clutterbuck,15,1987-11-18,33,Welland,ON,CAN,CAN,"5' 11""",215,True,False,False,False,R,Y,Right Wing,Forward,RW
+35,2020,2,New York Islanders,8473575,Semyon,Varlamov,40,1988-04-27,33,Samara,,RUS,RUS,"6' 2""",215,True,False,False,False,L,Y,Goalie,Goalie,G
+36,2020,2,New York Islanders,8474066,Thomas,Hickey,34,1989-02-08,32,Calgary,AB,CAN,CAN,"6' 0""",186,True,False,False,False,L,Y,Defenseman,Defenseman,D
+37,2020,2,New York Islanders,8474573,Josh,Bailey,12,1989-10-02,31,Bowmanville,ON,CAN,CAN,"6' 1""",200,True,False,False,False,L,Y,Right Wing,Forward,RW
+38,2020,2,New York Islanders,8474586,Jordan,Eberle,7,1990-05-15,31,Regina,SK,CAN,CAN,"5' 11""",187,True,False,False,False,R,Y,Right Wing,Forward,RW
+39,2020,2,New York Islanders,8474709,Matt,Martin,17,1989-05-08,32,Windsor,ON,CAN,CAN,"6' 4""",220,True,False,False,False,L,Y,Left Wing,Forward,LW
+40,2020,2,New York Islanders,8475151,Kyle,Palmieri,21,1991-02-01,30,Smithtown,NY,USA,USA,"5' 11""",185,True,False,False,False,R,Y,Right Wing,Forward,RW
+41,2020,2,New York Islanders,8475181,Nick,Leddy,2,1991-03-20,30,Eden Prairie,MN,USA,USA,"6' 0""",207,True,False,False,False,L,Y,Defenseman,Defenseman,D
+42,2020,2,New York Islanders,8475231,Casey,Cizikas,53,1991-02-27,30,Toronto,ON,CAN,CAN,"5' 11""",195,True,False,False,False,L,Y,Center,Forward,C
+43,2020,2,New York Islanders,8475754,Brock,Nelson,29,1991-10-15,29,Warroad,MN,USA,USA,"6' 4""",212,True,False,False,False,L,Y,Center,Forward,C
+44,2020,2,New York Islanders,8476419,Jean-Gabriel,Pageau,44,1992-11-11,28,Ottawa,ON,CAN,CAN,"5' 10""",180,True,False,False,False,R,Y,Center,Forward,C
+45,2020,2,New York Islanders,8476429,Scott,Mayfield,24,1992-10-14,28,St. Louis,MO,USA,USA,"6' 5""",220,True,False,False,False,R,Y,Defenseman,Defenseman,D
+46,2020,2,New York Islanders,8476917,Adam,Pelech,3,1994-08-16,26,Toronto,ON,CAN,CAN,"6' 3""",205,True,False,False,False,L,Y,Defenseman,Defenseman,D
+47,2020,2,New York Islanders,8477506,Ryan,Pulock,6,1994-10-06,26,Dauphin,MB,CAN,CAN,"6' 2""",215,True,False,False,False,R,Y,Defenseman,Defenseman,D
+48,2020,2,New York Islanders,8477527,Ross,Johnston,32,1994-02-18,27,Charlottetown,PE,CAN,CAN,"6' 5""",235,True,False,False,False,L,Y,Left Wing,Forward,LW
+49,2020,2,New York Islanders,8477936,Michael,Dal Colle,28,1996-06-20,25,Woodbridge,ON,CAN,CAN,"6' 3""",200,True,False,False,False,L,Y,Left Wing,Forward,LW
+50,2020,2,New York Islanders,8478009,Ilya,Sorokin,30,1995-08-04,25,Mezhdurechensk,,RUS,RUS,"6' 3""",190,True,False,False,True,L,Y,Goalie,Goalie,G
+51,2020,2,New York Islanders,8478367,Cole,Bardreau,34,1993-07-22,27,Fairport,NY,USA,USA,"5' 10""",185,True,False,False,False,R,Y,Center,Forward,C
+52,2020,2,New York Islanders,8478445,Mathew,Barzal,13,1997-05-26,24,Coquitlam,BC,CAN,CAN,"6' 0""",187,True,False,False,False,R,Y,Center,Forward,C
+53,2020,2,New York Islanders,8478463,Anthony,Beauvillier,18,1997-06-08,24,Sorel-Tracy,QC,CAN,CAN,"5' 11""",182,True,False,False,False,L,Y,Left Wing,Forward,LW
+54,2020,2,New York Islanders,8478512,Austin,Czarnik,11,1992-12-12,28,Detroit,MI,USA,USA,"5' 9""",175,True,False,False,False,R,Y,Center,Forward,C
+55,2020,2,New York Islanders,8478857,Dmytro,Timashov,41,1996-10-01,24,Kirovograd,,UKR,UKR,"5' 10""",198,True,False,False,False,L,Y,Left Wing,Forward,LW
+56,2020,2,New York Islanders,8478965,Ken,Appleby,55,1995-04-10,26,North Bay,ON,CAN,CAN,"6' 4""",210,True,False,False,True,L,Y,Goalie,Goalie,G
+57,2020,2,New York Islanders,8479356,Kieffer,Bellows,20,1998-06-10,23,Edina,MN,USA,USA,"6' 0""",195,True,False,False,True,L,Y,Left Wing,Forward,LW
+58,2020,2,New York Islanders,8479526,Otto,Koivula,21,1998-09-01,22,Nokia,,FIN,FIN,"6' 5""",223,True,False,False,True,L,Y,Left Wing,Forward,LW
+59,2020,2,New York Islanders,8479583,Anatoli,Golyshev,38,1995-02-14,26,Perm,,RUS,RUS,"5' 8""",178,True,False,False,True,L,Y,Left Wing,Forward,LW
+60,2020,2,New York Islanders,8480071,Robin,Salo,4,1998-10-13,22,Espoo,,FIN,FIN,"6' 1""",187,True,False,False,True,L,Y,Defenseman,Defenseman,D
+61,2020,2,New York Islanders,8480222,Sebastian,Aho,25,1996-02-17,25,Umea,,SWE,SWE,"5' 10""",184,True,False,False,True,L,Y,Defenseman,Defenseman,D
+62,2020,2,New York Islanders,8480306,Grant,Hutton,45,1995-07-25,25,Carmel,IN,USA,USA,"6' 3""",205,True,False,False,True,R,Y,Defenseman,Defenseman,D
+63,2020,2,New York Islanders,8480789,Oliver,Wahlstrom,26,2000-06-13,21,Quincy,MA,USA,USA,"6' 2""",205,True,False,False,True,R,Y,Right Wing,Forward,RW
+64,2020,2,New York Islanders,8480826,Bode,Wilde,46,2000-01-24,21,Montreal,QC,CAN,CAN,"6' 3""",195,True,False,False,True,R,Y,Defenseman,Defenseman,D
+65,2020,2,New York Islanders,8480865,Noah,Dobson,8,2000-01-07,21,Summerside,PE,CAN,CAN,"6' 4""",195,True,False,False,False,R,Y,Defenseman,Defenseman,D
+66,2020,2,New York Islanders,8481541,Samuel,Bolduc,48,2000-12-09,20,Laval,QC,CAN,CAN,"6' 4""",213,True,False,False,True,L,Y,Defenseman,Defenseman,D
+67,2020,2,New York Islanders,8481601,Simon,Holmstrom,74,2001-05-24,20,Tranas,,SWE,SWE,"6' 1""",200,True,False,False,True,L,Y,Right Wing,Forward,RW
+68,2020,3,New York Rangers,8474090,Brendan,Smith,42,1989-02-08,32,Mimico,ON,CAN,CAN,"6' 2""",200,True,False,False,False,L,Y,Defenseman,Defenseman,D
+69,2020,3,New York Rangers,8475184,Chris,Kreider,20,1991-04-30,30,Boxford,MA,USA,USA,"6' 3""",217,True,True,False,False,L,Y,Left Wing,Forward,LW
+70,2020,3,New York Rangers,8475868,Anthony,Bitetto,22,1990-07-15,30,Island Park,NY,USA,USA,"6' 1""",210,True,False,False,False,L,Y,Defenseman,Defenseman,D
+71,2020,3,New York Rangers,8476234,Keith,Kinkaid,71,1989-07-04,32,Farmingville,NY,USA,USA,"6' 3""",186,True,False,False,False,L,Y,Goalie,Goalie,G
+72,2020,3,New York Rangers,8476278,Colin,Blackwell,43,1993-03-28,28,Lawrence,MA,USA,USA,"5' 9""",190,True,False,False,False,R,Y,Center,Forward,C
+73,2020,3,New York Rangers,8476458,Ryan,Strome,16,1993-07-11,28,Mississauga,ON,CAN,CAN,"6' 1""",193,True,False,False,False,R,Y,Center,Forward,C
+74,2020,3,New York Rangers,8476459,Mika,Zibanejad,93,1993-04-18,28,Stockholm,,SWE,SWE,"6' 2""",208,True,True,False,False,R,Y,Center,Forward,C
+75,2020,3,New York Rangers,8476858,Phillip,Di Giuseppe,33,1993-10-09,27,Toronto,ON,CAN,CAN,"6' 0""",193,True,False,False,False,L,Y,Left Wing,Forward,LW
+76,2020,3,New York Rangers,8476885,Jacob,Trouba,8,1994-02-26,27,Rochester,MI,USA,USA,"6' 3""",209,True,True,False,False,R,Y,Defenseman,Defenseman,D
+77,2020,3,New York Rangers,8477402,Pavel,Buchnevich,89,1995-04-17,26,Cherepovets,,RUS,RUS,"6' 3""",197,True,False,False,False,L,Y,Right Wing,Forward,RW
+78,2020,3,New York Rangers,8478048,Igor,Shesterkin,31,1995-12-30,25,Moscow,,RUS,RUS,"6' 2""",182,True,False,False,True,L,Y,Goalie,Goalie,G
+79,2020,3,New York Rangers,8478550,Artemi,Panarin,10,1991-10-30,29,Korkino,,RUS,RUS,"5' 11""",170,True,True,False,False,R,Y,Left Wing,Forward,LW
+80,2020,3,New York Rangers,8479291,Kevin,Rooney,17,1993-05-21,28,Canton,MA,USA,USA,"6' 2""",190,True,False,False,False,L,Y,Center,Forward,C
+81,2020,3,New York Rangers,8479323,Adam,Fox,23,1998-02-17,23,Jericho,NY,USA,USA,"5' 11""",181,True,False,False,False,R,Y,Defenseman,Defenseman,D
+82,2020,3,New York Rangers,8479324,Ryan,Lindgren,55,1998-02-11,23,Burnsville,MN,USA,USA,"6' 0""",191,True,False,False,False,L,Y,Defenseman,Defenseman,D
+83,2020,3,New York Rangers,8479328,Julien,Gauthier,12,1997-10-15,23,Pointe-aux-Trembles,QC,CAN,CAN,"6' 4""",227,True,False,False,True,R,Y,Right Wing,Forward,RW
+84,2020,3,New York Rangers,8479333,Libor,Hajek,25,1998-02-04,23,Smrcek,,CZE,CZE,"6' 2""",203,True,False,False,False,L,Y,Defenseman,Defenseman,D
+85,2020,3,New York Rangers,8479353,Brett,Howden,21,1998-03-29,23,Calgary,AB,CAN,CAN,"6' 3""",200,True,False,False,False,L,Y,Center,Forward,C
+86,2020,3,New York Rangers,8480078,Filip,Chytil,72,1999-09-05,21,Kromeriz,,CZE,CZE,"6' 2""",206,True,False,False,False,L,Y,Center,Forward,C
+87,2020,3,New York Rangers,8480382,Alexandar,Georgiev,40,1996-02-10,25,Ruse,,BGR,RUS,"6' 1""",178,True,False,False,False,L,Y,Goalie,Goalie,G
+88,2020,3,New York Rangers,8480817,K'Andre,Miller,79,2000-01-21,21,St. Paul,MN,USA,USA,"6' 5""",210,True,False,False,True,L,Y,Defenseman,Defenseman,D
+89,2020,3,New York Rangers,8480833,Vitali,Kravtsov,74,1999-12-23,21,Vladivostok,,RUS,RUS,"6' 3""",189,True,False,False,True,L,Y,Right Wing,Forward,RW
+90,2020,3,New York Rangers,8481554,Kaapo,Kakko,24,2001-02-13,20,Turku,,FIN,FIN,"6' 3""",199,True,False,False,False,L,Y,Right Wing,Forward,RW
+91,2020,3,New York Rangers,8481708,Zac,Jones,6,2000-10-18,20,Richmond,VA,USA,USA,"5' 11""",185,True,False,False,True,L,Y,Defenseman,Defenseman,D
+92,2020,3,New York Rangers,8482109,Alexis,Lafrenière,13,2001-10-11,19,St-Eustache,QC,CAN,CAN,"6' 2""",193,True,False,False,True,L,Y,Left Wing,Forward,LW
+93,2020,4,Philadelphia Flyers,8480028,Morgan,Frost,48,1999-05-14,22,Aurora,ON,CAN,CAN,"5' 11""",170,True,False,False,True,L,I,Center,Forward,C
+94,2020,4,Philadelphia Flyers,8470880,Brian,Elliott,37,1985-04-09,36,Newmarket,ON,CAN,CAN,"6' 2""",209,True,False,False,False,L,Y,Goalie,Goalie,G
+95,2020,4,Philadelphia Flyers,8473512,Claude,Giroux,28,1988-01-12,33,Hearst,ON,CAN,CAN,"5' 11""",185,True,False,True,False,R,Y,Center,Forward,C
+96,2020,4,Philadelphia Flyers,8474027,Justin,Braun,61,1987-02-10,34,Minneapolis,MN,USA,USA,"6' 2""",205,True,False,False,False,R,Y,Defenseman,Defenseman,D
+97,2020,4,Philadelphia Flyers,8474037,James,van Riemsdyk,25,1989-05-04,32,Middletown,NJ,USA,USA,"6' 3""",217,True,False,False,False,L,Y,Left Wing,Forward,LW
+98,2020,4,Philadelphia Flyers,8474161,Jakub,Voracek,93,1989-08-15,31,Kladno,,CZE,CZE,"6' 2""",214,True,False,False,False,L,Y,Right Wing,Forward,RW
+99,2020,4,Philadelphia Flyers,8475763,Kevin,Hayes,13,1992-05-08,29,Dorchester,MA,USA,USA,"6' 5""",216,True,False,False,False,L,Y,Center,Forward,C
+100,2020,4,Philadelphia Flyers,8476461,Sean,Couturier,14,1992-12-07,28,Phoenix,AZ,USA,CAN,"6' 3""",211,True,False,False,False,L,Y,Center,Forward,C
+101,2020,4,Philadelphia Flyers,8476872,Scott,Laughton,21,1994-05-30,27,Oakville,ON,CAN,CAN,"6' 1""",190,True,False,False,False,L,Y,Center,Forward,C
+102,2020,4,Philadelphia Flyers,8476906,Shayne,Gostisbehere,53,1993-04-20,28,Pembroke Pines,FL,USA,USA,"5' 11""",180,True,False,False,False,L,Y,Defenseman,Defenseman,D
+103,2020,4,Philadelphia Flyers,8477462,Robert,Hagg,8,1995-02-08,26,Uppsala,,SWE,SWE,"6' 2""",204,True,False,False,False,L,Y,Defenseman,Defenseman,D
+104,2020,4,Philadelphia Flyers,8477502,Samuel,Morin,55,1995-07-12,26,Lac-Beauport,QC,CAN,CAN,"6' 6""",202,True,False,False,True,L,Y,Left Wing,Forward,LW
+105,2020,4,Philadelphia Flyers,8477948,Travis,Sanheim,6,1996-03-29,25,Elkhorn,MB,CAN,CAN,"6' 3""",181,True,False,False,False,L,Y,Defenseman,Defenseman,D
+106,2020,4,Philadelphia Flyers,8477979,Nicolas,Aube-Kubel,62,1996-05-10,25,Slave Lake,AB,CAN,CAN,"5' 11""",187,True,False,False,False,R,Y,Right Wing,Forward,RW
+107,2020,4,Philadelphia Flyers,8478067,Oskar,Lindblom,23,1996-08-15,24,Gävle,,SWE,SWE,"6' 1""",191,True,False,False,False,L,Y,Left Wing,Forward,LW
+108,2020,4,Philadelphia Flyers,8478439,Travis,Konecny,11,1997-03-11,24,London,ON,CAN,CAN,"5' 10""",175,True,False,False,False,R,Y,Right Wing,Forward,RW
+109,2020,4,Philadelphia Flyers,8478500,Ivan,Provorov,9,1997-01-13,24,Yaroslavl,,RUS,RUS,"6' 1""",201,True,False,False,False,L,Y,Defenseman,Defenseman,D
+110,2020,4,Philadelphia Flyers,8479026,Philippe,Myers,5,1997-01-25,24,Moncton,NB,CAN,CAN,"6' 5""",210,True,False,False,False,R,Y,Defenseman,Defenseman,D
+111,2020,4,Philadelphia Flyers,8479312,Alex,Lyon,34,1992-12-09,28,Baudette,MN,USA,USA,"6' 1""",201,True,False,False,False,L,Y,Goalie,Goalie,G
+112,2020,4,Philadelphia Flyers,8479358,Carsen,Twarynski,81,1997-11-24,23,St. Albert,AB,CAN,CAN,"6' 2""",198,True,False,False,True,L,Y,Left Wing,Forward,LW
+113,2020,4,Philadelphia Flyers,8479394,Carter,Hart,79,1998-08-13,22,Sherwood Park,AB,CAN,CAN,"6' 2""",181,True,False,False,False,L,Y,Goalie,Goalie,G
+114,2020,4,Philadelphia Flyers,8479550,Tanner,Laczynski,58,1997-06-01,24,Minooka,IL,USA,USA,"6' 1""",190,True,False,False,True,R,Y,Center,Forward,C
+115,2020,4,Philadelphia Flyers,8479974,Nolan,Patrick,19,1998-09-19,22,Winnipeg,MB,CAN,CAN,"6' 2""",198,True,False,False,False,R,Y,Center,Forward,C
+116,2020,4,Philadelphia Flyers,8480797,Joel,Farabee,86,2000-02-25,21,Syracuse,NY,USA,USA,"6' 0""",164,True,False,False,False,L,Y,Left Wing,Forward,LW
+117,2020,4,Philadelphia Flyers,8482654,Jackson,Cates,59,1997-09-26,23,STILLWATER,MN,USA,USA,"6' 0""",190,True,False,False,False,L,Y,Center,Forward,C
+118,2020,5,Pittsburgh Penguins,8470604,Jeff,Carter,77,1985-01-01,36,London,ON,CAN,CAN,"6' 3""",219,True,False,False,False,R,Y,Center,Forward,C
+119,2020,5,Pittsburgh Penguins,8471215,Evgeni,Malkin,71,1986-07-31,34,Magnitogorsk,,RUS,RUS,"6' 3""",195,True,True,False,False,L,Y,Center,Forward,C
+120,2020,5,Pittsburgh Penguins,8471675,Sidney,Crosby,87,1987-08-07,33,Cole Harbour,NS,CAN,CAN,"5' 11""",200,True,False,True,False,L,Y,Center,Forward,C
+121,2020,5,Pittsburgh Penguins,8471724,Kris,Letang,58,1987-04-24,34,Montreal,QC,CAN,CAN,"6' 0""",201,True,True,False,False,R,Y,Defenseman,Defenseman,D
+122,2020,5,Pittsburgh Penguins,8474098,Colton,Sceviour,7,1989-04-20,32,Red Deer,AB,CAN,CAN,"6' 0""",190,True,False,False,False,R,Y,Right Wing,Forward,RW
+123,2020,5,Pittsburgh Penguins,8475208,Brian,Dumoulin,8,1991-09-06,29,Biddeford,ME,USA,USA,"6' 4""",207,True,False,False,False,L,Y,Defenseman,Defenseman,D
+124,2020,5,Pittsburgh Penguins,8475722,Jason,Zucker,16,1992-01-16,29,Newport Beach,CA,USA,USA,"5' 11""",192,True,False,False,False,L,Y,Left Wing,Forward,LW
+125,2020,5,Pittsburgh Penguins,8475810,Bryan,Rust,17,1992-05-11,29,Pontiac,MI,USA,USA,"5' 11""",192,True,False,False,False,R,Y,Right Wing,Forward,RW
+126,2020,5,Pittsburgh Penguins,8476509,Maxime,Lagace,31,1993-01-12,28,Saint-Augustin,QC,CAN,CAN,"6' 2""",190,True,False,False,False,L,Y,Goalie,Goalie,G
+127,2020,5,Pittsburgh Penguins,8476873,Mark,Jankowski,14,1994-09-13,26,Hamilton,ON,CAN,CAN,"6' 4""",212,True,False,False,False,L,Y,Center,Forward,C
+128,2020,5,Pittsburgh Penguins,8476875,Mike,Matheson,5,1994-02-27,27,Pointe-Claire,QC,CAN,CAN,"6' 2""",188,True,False,False,False,L,Y,Defenseman,Defenseman,D
+129,2020,5,Pittsburgh Penguins,8476879,Cody,Ceci,4,1993-12-21,27,Ottawa,ON,CAN,CAN,"6' 2""",210,True,False,False,False,R,Y,Defenseman,Defenseman,D
+130,2020,5,Pittsburgh Penguins,8476927,Teddy,Blueger,53,1994-08-15,26,Riga,,LVA,LVA,"6' 0""",185,True,False,False,False,L,Y,Center,Forward,C
+131,2020,5,Pittsburgh Penguins,8477244,Chad,Ruhwedel,2,1990-05-07,31,San Diego,CA,USA,USA,"5' 11""",191,True,False,False,False,R,Y,Defenseman,Defenseman,D
+132,2020,5,Pittsburgh Penguins,8477404,Jake,Guentzel,59,1994-10-06,26,Omaha,NE,USA,USA,"5' 11""",180,True,False,False,False,L,Y,Left Wing,Forward,LW
+133,2020,5,Pittsburgh Penguins,8477465,Tristan,Jarry,35,1995-04-29,26,Surrey,BC,CAN,CAN,"6' 2""",194,True,False,False,False,L,Y,Goalie,Goalie,G
+134,2020,5,Pittsburgh Penguins,8477919,Frederick,Gaudreau,11,1993-05-01,28,Bromont,QC,CAN,CAN,"6' 0""",179,True,False,False,False,R,Y,Center,Forward,C
+135,2020,5,Pittsburgh Penguins,8477953,Kasperi,Kapanen,42,1996-07-23,24,Kuopio,,FIN,FIN,"6' 1""",194,True,False,False,False,R,Y,Right Wing,Forward,RW
+136,2020,5,Pittsburgh Penguins,8477955,Jared,McCann,19,1996-05-31,25,Stratford,ON,CAN,CAN,"6' 1""",185,True,False,False,False,L,Y,Left Wing,Forward,LW
+137,2020,5,Pittsburgh Penguins,8477969,Marcus,Pettersson,28,1996-05-08,25,Skellefteå,,SWE,SWE,"6' 3""",177,True,False,False,False,L,Y,Defenseman,Defenseman,D
+138,2020,5,Pittsburgh Penguins,8478017,Mark,Friedman,52,1995-12-25,25,Toronto,ON,CAN,CAN,"5' 11""",185,True,False,False,True,R,Y,Defenseman,Defenseman,D
+139,2020,5,Pittsburgh Penguins,8478043,Sam,Lafferty,18,1995-03-06,26,Hollidaysburg,PA,USA,USA,"6' 1""",195,True,False,False,False,R,Y,Right Wing,Forward,RW
+140,2020,5,Pittsburgh Penguins,8478074,Anthony,Angello,57,1996-03-06,25,Albany,NY,USA,USA,"6' 5""",210,True,False,False,True,R,Y,Right Wing,Forward,RW
+141,2020,5,Pittsburgh Penguins,8478507,John,Marino,6,1997-05-21,24,North Easton,MA,USA,USA,"6' 1""",181,True,False,False,False,R,Y,Defenseman,Defenseman,D
+142,2020,5,Pittsburgh Penguins,8478542,Evan,Rodrigues,9,1993-07-28,27,Toronto,ON,CAN,CAN,"5' 11""",184,True,False,False,False,R,Y,Center,Forward,C
+143,2020,5,Pittsburgh Penguins,8479193,Casey,DeSmith,1,1991-08-13,29,Rochester,NH,USA,USA,"6' 0""",181,True,False,False,False,L,Y,Goalie,Goalie,G
+144,2020,5,Pittsburgh Penguins,8479293,Brandon,Tanev,13,1991-12-31,29,Toronto,ON,CAN,CAN,"6' 0""",180,True,False,False,False,L,Y,Left Wing,Forward,LW
+145,2020,5,Pittsburgh Penguins,8479512,Kasper,Bjorkqvist,20,1997-07-10,24,Espoo,,FIN,FIN,"6' 1""",198,True,False,False,True,L,Y,Right Wing,Forward,RW
+146,2020,5,Pittsburgh Penguins,8479944,Zach,Aston-Reese,12,1994-08-10,26,Staten Island,NY,USA,USA,"6' 0""",204,True,False,False,False,L,Y,Left Wing,Forward,LW
+147,2020,5,Pittsburgh Penguins,8480058,Pierre-Olivier,Joseph,73,1999-07-01,22,Laval,QC,CAN,CAN,"6' 2""",185,True,False,False,True,L,Y,Defenseman,Defenseman,D
+148,2020,5,Pittsburgh Penguins,8480394,Alex,D'Orio,33,1999-04-28,22,Sherbrooke,QC,CAN,CAN,"6' 2""",209,True,False,False,True,R,Y,Goalie,Goalie,G
+149,2020,5,Pittsburgh Penguins,8480945,Juuso,Riikola,50,1993-11-09,27,Joensuu,,FIN,FIN,"6' 0""",189,True,False,False,False,L,Y,Defenseman,Defenseman,D
+150,2020,5,Pittsburgh Penguins,8482055,Drew,O'Connor,10,1998-06-09,23,Chatham,NJ,USA,USA,"6' 3""",200,True,False,False,True,L,Y,Left Wing,Forward,LW
+151,2020,5,Pittsburgh Penguins,8482241,Radim,Zohorna,67,1996-04-29,25,Havlickuv,,CZE,CZE,"6' 6""",220,True,False,False,True,L,Y,Left Wing,Forward,LW
+152,2020,6,Boston Bruins,8475186,John,Moore,27,1990-11-19,30,Winnetka,IL,USA,USA,"6' 2""",210,True,False,False,False,L,Y,Defenseman,Defenseman,D
+153,2020,6,Boston Bruins,8470638,Patrice,Bergeron,37,1985-07-24,35,L'Ancienne-Lorette,QC,CAN,CAN,"6' 1""",195,True,False,True,False,R,Y,Center,Forward,C
+154,2020,6,Boston Bruins,8470860,Jaroslav,Halak,41,1985-05-13,36,Bratislava,,SVK,SVK,"5' 11""",185,True,False,False,False,L,Y,Goalie,Goalie,G
+155,2020,6,Boston Bruins,8471276,David,Krejci,46,1986-04-28,35,Sternberk,,CZE,CZE,"6' 0""",188,True,True,False,False,R,Y,Center,Forward,C
+156,2020,6,Boston Bruins,8471695,Tuukka,Rask,40,1987-03-10,34,Savonlinna,,FIN,FIN,"6' 3""",176,True,False,False,False,L,Y,Goalie,Goalie,G
+157,2020,6,Boston Bruins,8473419,Brad,Marchand,63,1988-05-11,33,Halifax,NS,CAN,CAN,"5' 9""",181,True,True,False,False,L,Y,Left Wing,Forward,LW
+158,2020,6,Boston Bruins,8475225,Craig,Smith,12,1989-09-05,31,Madison,WI,USA,USA,"6' 0""",206,True,False,False,False,R,Y,Center,Forward,C
+159,2020,6,Boston Bruins,8475735,Greg,McKegg,18,1992-06-17,29,St. Thomas,ON,CAN,CAN,"6' 0""",194,True,False,False,False,L,Y,Center,Forward,C
+160,2020,6,Boston Bruins,8475745,Charlie,Coyle,13,1992-03-02,29,East Weymouth,MA,USA,USA,"6' 3""",213,True,False,False,False,R,Y,Center,Forward,C
+161,2020,6,Boston Bruins,8475780,Chris,Wagner,14,1991-05-27,30,Walpole,MA,USA,USA,"6' 0""",197,True,False,False,False,R,Y,Right Wing,Forward,RW
+162,2020,6,Boston Bruins,8475791,Taylor,Hall,71,1991-11-14,29,Calgary,AB,CAN,CAN,"6' 1""",206,True,False,False,False,L,Y,Left Wing,Forward,LW
+163,2020,6,Boston Bruins,8475797,Jarred,Tinordi,84,1992-02-20,29,MILLERSVILLE,MD,USA,USA,"6' 6""",205,True,False,False,False,L,Y,Defenseman,Defenseman,D
+164,2020,6,Boston Bruins,8476191,Kevan,Miller,86,1987-11-15,33,Los Angeles,CA,USA,USA,"6' 2""",210,True,False,False,False,R,Y,Defenseman,Defenseman,D
+165,2020,6,Boston Bruins,8476374,Sean,Kuraly,52,1993-01-20,28,Dublin,OH,USA,USA,"6' 2""",213,True,False,False,False,L,Y,Center,Forward,C
+166,2020,6,Boston Bruins,8476422,Mike,Reilly,6,1993-07-13,28,Chicago,IL,USA,USA,"6' 1""",199,True,False,False,False,L,Y,Defenseman,Defenseman,D
+167,2020,6,Boston Bruins,8476891,Matt,Grzelcyk,48,1994-01-05,27,Charlestown,MA,USA,USA,"5' 9""",174,True,False,False,False,L,Y,Defenseman,Defenseman,D
+168,2020,6,Boston Bruins,8477320,Anton,Blidh,81,1995-03-14,26,Molnlycke,,SWE,SWE,"6' 0""",185,True,False,False,False,L,Y,Left Wing,Forward,LW
+169,2020,6,Boston Bruins,8477365,Connor,Clifton,75,1995-04-28,26,Long Branch,NJ,USA,USA,"5' 11""",195,True,False,False,False,R,Y,Defenseman,Defenseman,D
+170,2020,6,Boston Bruins,8477508,Curtis,Lazar,20,1995-02-02,26,Salmon Arm,BC,CAN,CAN,"6' 0""",193,True,False,False,False,R,Y,Center,Forward,C
+171,2020,6,Boston Bruins,8477941,Nick,Ritchie,21,1995-12-05,25,Orangeville,ON,CAN,CAN,"6' 2""",230,True,False,False,False,L,Y,Left Wing,Forward,LW
+172,2020,6,Boston Bruins,8477956,David,Pastrnak,88,1996-05-25,25,Havirov,,CZE,CZE,"6' 0""",194,True,False,False,False,R,Y,Right Wing,Forward,RW
+173,2020,6,Boston Bruins,8478131,Ondrej,Kase,28,1995-11-08,25,Kadan,,CZE,CZE,"6' 0""",190,True,False,False,False,R,Y,Right Wing,Forward,RW
+174,2020,6,Boston Bruins,8478415,Jakub,Zboril,67,1997-02-21,24,Brno,,CZE,CZE,"6' 0""",195,True,False,False,True,L,Y,Defenseman,Defenseman,D
+175,2020,6,Boston Bruins,8478435,Dan,Vladar,80,1997-08-20,23,Prague,,CZE,CZE,"6' 5""",185,True,False,False,True,L,Y,Goalie,Goalie,G
+176,2020,6,Boston Bruins,8478443,Brandon,Carlo,25,1996-11-26,24,Colorado Springs,CO,USA,USA,"6' 5""",227,True,False,False,False,R,Y,Defenseman,Defenseman,D
+177,2020,6,Boston Bruins,8478468,Jeremy,Lauzon,55,1997-04-28,24,Val-d'Or,QC,CAN,CAN,"6' 1""",204,True,False,False,False,L,Y,Defenseman,Defenseman,D
+178,2020,6,Boston Bruins,8478473,Callum,Booth,70,1997-05-21,24,Montreal,QC,CAN,CAN,"6' 4""",191,True,False,False,True,L,Y,Goalie,Goalie,G
+179,2020,6,Boston Bruins,8478485,Zach,Senyshyn,19,1997-03-30,24,Ottawa,ON,CAN,CAN,"6' 1""",207,True,False,False,True,R,Y,Right Wing,Forward,RW
+180,2020,6,Boston Bruins,8478498,Jake,DeBrusk,74,1996-10-17,24,Edmonton,AB,CAN,CAN,"6' 0""",194,True,False,False,False,L,Y,Left Wing,Forward,LW
+181,2020,6,Boston Bruins,8478888,Cameron,Hughes,53,1996-10-09,24,Edmonton,AB,CAN,CAN,"5' 11""",160,True,False,False,True,L,Y,Center,Forward,C
+182,2020,6,Boston Bruins,8479325,Charlie,McAvoy,73,1997-12-21,23,Long Beach,NY,USA,USA,"6' 0""",208,True,False,False,False,R,Y,Defenseman,Defenseman,D
+183,2020,6,Boston Bruins,8479365,Trent,Frederic,11,1998-02-11,23,St. Louis,MO,USA,USA,"6' 2""",203,True,False,False,True,L,Y,Center,Forward,C
+184,2020,6,Boston Bruins,8479546,Oskar,Steen,62,1998-03-09,23,Karlstad,,SWE,SWE,"5' 9""",188,True,False,False,True,R,Y,Center,Forward,C
+185,2020,6,Boston Bruins,8480001,Urho,Vaakanainen,58,1999-01-01,22,Joensuu,,FIN,FIN,"6' 1""",185,True,False,False,True,L,Y,Defenseman,Defenseman,D
+186,2020,6,Boston Bruins,8480021,Jack,Studnicka,23,1999-02-18,22,Windsor,ON,CAN,CAN,"6' 1""",171,True,False,False,True,R,Y,Center,Forward,C
+187,2020,6,Boston Bruins,8480280,Jeremy,Swayman,1,1998-11-24,22,Anchorage,AK,USA,USA,"6' 2""",187,True,False,False,True,L,Y,Goalie,Goalie,G
+188,2020,6,Boston Bruins,8480901,Karson,Kuhlman,83,1995-09-26,25,Esko,MN,USA,USA,"5' 10""",190,True,False,False,False,R,Y,Center,Forward,C
+189,2020,6,Boston Bruins,8482059,Nick,Wolff,,1996-07-21,24,Eagan,MN,USA,USA,"6' 5""",229,True,False,False,True,L,Y,Defenseman,Defenseman,D
+190,2020,6,Boston Bruins,8482072,Jack,Ahcan,54,1997-05-18,24,Savage,MN,USA,USA,"5' 8""",178,True,False,False,True,L,Y,Defenseman,Defenseman,D
+191,2020,7,Buffalo Sabres,8476878,Zemgus,Girgensons,28,1994-01-05,27,Riga,,LVA,LVA,"6' 2""",213,True,False,False,False,L,I,Left Wing,Forward,LW
+192,2020,7,Buffalo Sabres,8476931,Jake,McCabe,19,1993-10-12,27,Eau Claire,WI,USA,USA,"6' 1""",204,True,True,False,False,L,Y,Defenseman,Defenseman,D
+193,2020,7,Buffalo Sabres,8478403,Jack,Eichel,9,1996-10-28,24,North Chelmsford,MA,USA,USA,"6' 2""",213,True,False,True,False,R,I,Center,Forward,C
+194,2020,7,Buffalo Sabres,8475869,Brandon,Davidson,88,1991-08-21,29,Taber,AB,CAN,CAN,"6' 2""",209,True,False,False,False,L,Y,Defenseman,Defenseman,D
+195,2020,7,Buffalo Sabres,8473449,Kyle,Okposo,21,1988-04-16,33,St. Paul,MN,USA,USA,"6' 0""",220,True,True,False,False,R,Y,Right Wing,Forward,RW
+196,2020,7,Buffalo Sabres,8474682,Dustin,Tokarski,31,1989-09-16,31,Watson,SK,CAN,CAN,"6' 0""",198,True,False,False,False,L,Y,Goalie,Goalie,G
+197,2020,7,Buffalo Sabres,8475236,Cody,Eakin,20,1991-05-24,30,Winnipeg,MB,CAN,CAN,"6' 0""",196,True,False,False,False,L,Y,Center,Forward,C
+198,2020,7,Buffalo Sabres,8475622,Carter,Hutton,40,1985-12-19,35,Thunder Bay,ON,CAN,CAN,"6' 0""",208,True,False,False,False,L,Y,Goalie,Goalie,G
+199,2020,7,Buffalo Sabres,8475625,Matt,Irwin,44,1987-11-29,33,Victoria,BC,CAN,CAN,"6' 2""",189,True,False,False,False,L,Y,Defenseman,Defenseman,D
+200,2020,7,Buffalo Sabres,8475772,Riley,Sheahan,15,1991-12-07,29,St. Catharines,ON,CAN,CAN,"6' 2""",216,True,False,False,False,L,Y,Center,Forward,C
+201,2020,7,Buffalo Sabres,8475784,Jeff,Skinner,53,1992-05-16,29,Toronto,ON,CAN,CAN,"5' 11""",197,True,False,False,False,L,Y,Left Wing,Forward,LW
+202,2020,7,Buffalo Sabres,8476356,Tobias,Rieder,13,1993-01-10,28,Landshut,,DEU,DEU,"5' 11""",189,True,False,False,False,L,Y,Left Wing,Forward,LW
+203,2020,7,Buffalo Sabres,8476525,Colin,Miller,33,1992-10-29,28,Sault Ste. Marie,ON,CAN,CAN,"6' 1""",199,True,False,False,False,R,Y,Defenseman,Defenseman,D
+204,2020,7,Buffalo Sabres,8476999,Linus,Ullmark,35,1993-07-31,27,Lugnvik,,SWE,SWE,"6' 4""",215,True,False,False,False,L,Y,Goalie,Goalie,G
+205,2020,7,Buffalo Sabres,8477499,Rasmus,Ristolainen,55,1994-10-27,26,Turku,,FIN,FIN,"6' 4""",221,True,False,False,False,R,Y,Defenseman,Defenseman,D
+206,2020,7,Buffalo Sabres,8477933,Sam,Reinhart,23,1995-11-06,25,West Vancouver,BC,CAN,CAN,"6' 2""",193,True,False,False,False,R,Y,Right Wing,Forward,RW
+207,2020,7,Buffalo Sabres,8478075,Anders,Bjork,96,1996-08-05,24,Mequon,WI,USA,USA,"6' 0""",197,True,False,False,False,L,Y,Left Wing,Forward,LW
+208,2020,7,Buffalo Sabres,8478109,Victor,Olofsson,68,1995-07-18,25,Ornskoldsvik,,SWE,SWE,"5' 11""",182,True,False,False,False,L,Y,Left Wing,Forward,LW
+209,2020,7,Buffalo Sabres,8478840,Will,Borgen,3,1996-12-19,24,Moorhead,MN,USA,USA,"6' 3""",205,True,False,False,True,R,Y,Defenseman,Defenseman,D
+210,2020,7,Buffalo Sabres,8479335,Rasmus,Asplund,74,1997-12-03,23,Filipstad,,SWE,SWE,"5' 11""",189,True,False,False,False,L,Y,Center,Forward,C
+211,2020,7,Buffalo Sabres,8479420,Tage,Thompson,72,1997-10-30,23,Phoenix,AZ,USA,USA,"6' 7""",219,True,False,False,False,R,Y,Right Wing,Forward,RW
+212,2020,7,Buffalo Sabres,8479465,Drake,Caggiula,91,1994-06-20,27,Pickering,ON,CAN,CAN,"5' 10""",176,True,False,False,False,L,Y,Center,Forward,C
+213,2020,7,Buffalo Sabres,8479999,Casey,Mittelstadt,37,1998-11-22,22,Eden Prairie,MN,USA,USA,"6' 1""",196,True,False,False,False,L,Y,Center,Forward,C
+214,2020,7,Buffalo Sabres,8480035,Henri,Jokiharju,10,1999-06-17,22,Oulu,,FIN,FIN,"6' 0""",199,True,False,False,False,R,Y,Defenseman,Defenseman,D
+215,2020,7,Buffalo Sabres,8480045,Ukko-Pekka,Luukkonen,1,1999-03-09,22,Espoo,,FIN,FIN,"6' 4""",220,True,False,False,True,L,Y,Goalie,Goalie,G
+216,2020,7,Buffalo Sabres,8480196,Jacob,Bryson,78,1997-11-18,23,London,ON,CAN,CAN,"5' 9""",175,True,False,False,True,L,Y,Defenseman,Defenseman,D
+217,2020,7,Buffalo Sabres,8480839,Rasmus,Dahlin,26,2000-04-13,21,Lidkoping,,SWE,SWE,"6' 3""",207,True,False,False,False,L,Y,Defenseman,Defenseman,D
+218,2020,7,Buffalo Sabres,8481528,Dylan,Cozens,24,2001-02-09,20,Whitehorse,YT,CAN,CAN,"6' 3""",188,True,False,False,True,R,Y,Center,Forward,C
+219,2020,7,Buffalo Sabres,8482626,Stefanos,Lekkas,34,1996-01-17,25,Elburn,IL,USA,USA,"6' 0""",181,True,False,False,False,L,Y,Goalie,Goalie,G
+220,2020,8,Montréal Canadiens,8477494,Jonathan,Drouin,92,1995-03-28,26,Ste-Agathe,QC,CAN,CAN,"5' 11""",201,True,False,False,False,L,Y,Left Wing,Forward,LW
+221,2020,8,Montréal Canadiens,8470595,Eric,Staal,21,1984-10-29,36,Thunder Bay,ON,CAN,CAN,"6' 4""",195,True,False,False,False,L,Y,Center,Forward,C
+222,2020,8,Montréal Canadiens,8470621,Corey,Perry,94,1985-05-16,36,Peterborough,ON,CAN,CAN,"6' 3""",206,True,False,False,False,R,Y,Right Wing,Forward,RW
+223,2020,8,Montréal Canadiens,8470642,Shea,Weber,6,1985-08-14,35,Sicamous,BC,CAN,CAN,"6' 4""",229,True,False,True,False,R,Y,Defenseman,Defenseman,D
+224,2020,8,Montréal Canadiens,8471679,Carey,Price,31,1987-08-16,33,Anahim Lake,BC,CAN,CAN,"6' 3""",220,True,False,False,False,L,Y,Goalie,Goalie,G
+225,2020,8,Montréal Canadiens,8473507,Jeff,Petry,26,1987-12-09,33,Ann Arbor,MI,USA,USA,"6' 3""",208,True,False,False,False,R,Y,Defenseman,Defenseman,D
+226,2020,8,Montréal Canadiens,8473564,Michael,Frolik,67,1988-02-17,33,Kladno,,CZE,CZE,"6' 1""",186,True,False,False,False,L,Y,Right Wing,Forward,RW
+227,2020,8,Montréal Canadiens,8474038,Paul,Byron,41,1989-04-27,32,Ottawa,ON,CAN,CAN,"5' 9""",165,True,True,False,False,L,Y,Left Wing,Forward,LW
+228,2020,8,Montréal Canadiens,8474596,Jake,Allen,34,1990-08-07,30,Fredericton,NB,CAN,CAN,"6' 2""",190,True,False,False,False,L,Y,Goalie,Goalie,G
+229,2020,8,Montréal Canadiens,8475193,Tomas,Tatar,90,1990-12-01,30,Ilava,,SVK,SVK,"5' 10""",173,True,False,False,False,L,Y,Left Wing,Forward,LW
+230,2020,8,Montréal Canadiens,8475279,Ben,Chiarot,8,1991-05-09,30,Hamilton,ON,CAN,CAN,"6' 3""",234,True,False,False,False,L,Y,Defenseman,Defenseman,D
+231,2020,8,Montréal Canadiens,8475726,Tyler,Toffoli,73,1992-04-24,29,Scarborough,ON,CAN,CAN,"6' 0""",198,True,False,False,False,R,Y,Right Wing,Forward,RW
+232,2020,8,Montréal Canadiens,8475750,Jon,Merrill,28,1992-02-03,29,Oklahoma City,OK,USA,USA,"6' 3""",195,True,False,False,False,L,Y,Defenseman,Defenseman,D
+233,2020,8,Montréal Canadiens,8475848,Brendan,Gallagher,11,1992-05-06,29,Edmonton,AB,CAN,CAN,"5' 9""",183,True,True,False,False,R,Y,Right Wing,Forward,RW
+234,2020,8,Montréal Canadiens,8476441,Joel,Edmundson,44,1993-06-28,28,Brandon,MB,CAN,CAN,"6' 4""",227,True,False,False,False,L,Y,Defenseman,Defenseman,D
+235,2020,8,Montréal Canadiens,8476443,Xavier,Ouellet,61,1993-07-29,27,Bayonne,,FRA,FRA,"6' 0""",199,True,False,False,False,L,Y,Defenseman,Defenseman,D
+236,2020,8,Montréal Canadiens,8476469,Joel,Armia,40,1993-05-31,28,Pori,,FIN,FIN,"6' 3""",212,True,False,False,False,R,Y,Right Wing,Forward,RW
+237,2020,8,Montréal Canadiens,8476479,Phillip,Danault,24,1993-02-24,28,Victoriaville,QC,CAN,CAN,"6' 1""",200,True,False,False,False,L,Y,Center,Forward,C
+238,2020,8,Montréal Canadiens,8476967,Brett,Kulak,77,1994-01-06,27,Edmonton,AB,CAN,CAN,"6' 1""",192,True,False,False,False,L,Y,Defenseman,Defenseman,D
+239,2020,8,Montréal Canadiens,8476979,Erik,Gustafsson,32,1992-03-14,29,Nynashamn,,SWE,SWE,"6' 0""",197,True,False,False,False,L,Y,Defenseman,Defenseman,D
+240,2020,8,Montréal Canadiens,8476981,Josh,Anderson,17,1994-05-07,27,Burlington,ON,CAN,CAN,"6' 3""",226,True,False,False,False,R,Y,Right Wing,Forward,RW
+241,2020,8,Montréal Canadiens,8477476,Artturi,Lehkonen,62,1995-07-04,26,Piikkio,,FIN,FIN,"5' 11""",178,True,False,False,False,L,Y,Left Wing,Forward,LW
+242,2020,8,Montréal Canadiens,8478133,Jake,Evans,71,1996-06-02,25,Toronto,ON,CAN,CAN,"6' 0""",183,True,False,False,True,R,Y,Center,Forward,C
+243,2020,8,bluesal Canadiens,8479292,Charlie,Lindgren,39,1993-12-18,27,Lakeville,MN,USA,USA,"6' 1""",182,True,False,False,False,R,Y,Goalie,Goalie,G
+244,2020,8,Montréal Canadiens,8480018,Nick,Suzuki,14,1999-08-10,21,London,ON,CAN,CAN,"5' 11""",208,True,False,False,False,R,Y,Center,Forward,C
+245,2020,8,Montréal Canadiens,8480829,Jesperi,Kotkaniemi,15,2000-07-06,21,Pori,,FIN,FIN,"6' 2""",201,True,False,False,False,L,Y,Center,Forward,C
+246,2020,8,Montréal Canadiens,8481014,Alexander,Romanov,27,2000-01-06,21,Moscow,,RUS,RUS,"6' 0""",208,True,False,False,True,L,Y,Defenseman,Defenseman,D
+247,2020,8,Montréal Canadiens,8481540,Cole,Caufield,22,2001-01-02,20,Mosinee,WI,USA,USA,"5' 7""",162,True,False,False,True,R,Y,Right Wing,Forward,RW
+248,2020,9,Ottawa Senators,8474613,Derek,Stepan,21,1990-06-18,31,Hastings,MN,USA,USA,"5' 11""",196,True,False,False,False,R,I,Center,Forward,C
+249,2020,9,Ottawa Senators,8475766,Austin,Watson,16,1992-01-13,29,Ann Arbor,MI,USA,USA,"6' 4""",198,True,False,False,False,R,I,Left Wing,Forward,LW
+250,2020,9,Ottawa Senators,8478916,Joey,Daccord,34,1996-08-19,24,Boston,MA,USA,USA,"6' 2""",197,True,False,False,True,L,I,Goalie,Goalie,G
+251,2020,9,Ottawa Senators,8474230,Micheal,Haley,38,1986-03-30,35,Guelph,ON,CAN,CAN,"5' 11""",213,True,False,False,False,L,Y,Left Wing,Forward,LW
+252,2020,9,Ottawa Senators,8473573,Artem,Anisimov,51,1988-05-24,33,Yaroslavl,,RUS,RUS,"6' 4""",199,True,False,False,False,L,Y,Center,Forward,C
+253,2020,9,Ottawa Senators,8474149,Evgenii,Dadonov,63,1989-03-12,32,Chelyabinsk,,RUS,RUS,"5' 11""",185,True,False,False,False,L,Y,Right Wing,Forward,RW
+254,2020,9,Ottawa Senators,8476288,Ryan,Dzingel,10,1992-03-09,29,Wheaton,IL,USA,USA,"6' 0""",190,True,False,False,False,L,Y,Left Wing,Forward,LW
+255,2020,9,Ottawa Senators,8476341,Anton,Forsberg,31,1992-11-27,28,HARNOSAND,,SWE,SWE,"6' 2""",176,True,False,False,False,L,Y,Goalie,Goalie,G
+256,2020,9,Ottawa Senators,8476899,Matt,Murray,30,1994-05-25,27,Thunder Bay,ON,CAN,CAN,"6' 4""",178,True,False,False,False,L,Y,Goalie,Goalie,G
+257,2020,9,Ottawa Senators,8476919,Chris,Tierney,71,1994-07-01,27,Keswick,ON,CAN,CAN,"6' 1""",204,True,False,False,False,L,Y,Center,Forward,C
+258,2020,9,Ottawa Senators,8477015,Connor,Brown,28,1994-01-14,27,Toronto,ON,CAN,CAN,"6' 0""",185,True,False,False,False,R,Y,Right Wing,Forward,RW
+259,2020,9,Ottawa Senators,8477384,Josh,Brown,3,1994-01-21,27,London,ON,CAN,CAN,"6' 5""",221,True,False,False,False,R,Y,Defenseman,Defenseman,D
+260,2020,9,Ottawa Senators,8477405,Marcus,Hogberg,1,1994-11-25,26,Orebro,,SWE,SWE,"6' 5""",222,True,False,False,True,L,Y,Goalie,Goalie,G
+261,2020,9,Ottawa Senators,8477426,Nick,Paul,21,1995-03-20,26,Mississauga,ON,CAN,CAN,"6' 3""",225,True,False,False,False,L,Y,Left Wing,Forward,LW
+262,2020,9,Ottawa Senators,8478020,Michael,Amadio,29,1996-05-13,25,Sault Ste. Marie,ON,CAN,CAN,"6' 1""",204,True,False,False,False,R,Y,Center,Forward,C
+263,2020,9,Ottawa Senators,8478400,Colin,White,36,1997-01-30,24,Boston,MA,USA,USA,"6' 1""",197,True,False,False,False,R,Y,Center,Forward,C
+264,2020,9,Ottawa Senators,8478469,Thomas,Chabot,72,1997-01-30,24,Sainte-Marie,QC,CAN,CAN,"6' 2""",190,True,False,False,False,L,Y,Defenseman,Defenseman,D
+265,2020,9,Ottawa Senators,8479376,Victor,Mete,98,1998-06-07,23,Woodbridge,ON,CAN,CAN,"5' 9""",184,True,False,False,False,L,Y,Defenseman,Defenseman,D
+266,2020,9,Ottawa Senators,8479458,Nikita,Zaitsev,22,1991-10-29,29,Moscow,,RUS,RUS,"6' 2""",199,True,False,False,False,R,Y,Defenseman,Defenseman,D
+267,2020,9,Ottawa Senators,8480029,Alex,Formenton,59,1999-09-13,21,Barrie,ON,CAN,CAN,"6' 2""",184,True,False,False,True,L,Y,Left Wing,Forward,LW
+268,2020,9,Ottawa Senators,8480064,Josh,Norris,9,1999-05-05,22,Oxford,MI,USA,USA,"6' 1""",201,True,False,False,True,L,Y,Center,Forward,C
+269,2020,9,Ottawa Senators,8480073,Erik,Brannstrom,26,1999-09-02,21,Eksjo,,SWE,SWE,"5' 9""",181,True,False,False,False,L,Y,Defenseman,Defenseman,D
+270,2020,9,Ottawa Senators,8480208,Drake,Batherson,19,1998-04-27,23,Fort Wayne,IN,USA,USA,"6' 1""",204,True,False,False,False,R,Y,Right Wing,Forward,RW
+271,2020,9,Ottawa Senators,8480801,Brady,Tkachuk,7,1999-09-16,21,Scottsdale,AZ,USA,USA,"6' 4""",211,True,False,False,False,L,Y,Left Wing,Forward,LW
+272,2020,9,Ottawa Senators,8480879,Jacob,Bernard-Docker,48,2000-06-30,21,Canmore,AB,CAN,CAN,"6' 0""",190,True,False,False,True,R,Y,Defenseman,Defenseman,D
+273,2020,9,Ottawa Senators,8481596,Shane,Pinto,57,2000-11-12,20,Franklin Square,NY,USA,USA,"6' 2""",192,True,False,False,True,R,Y,Center,Forward,C
+274,2020,9,Ottawa Senators,8482116,Tim,Stützle,18,2002-01-15,19,Viersen,,DEU,DEU,"6' 1""",187,True,False,False,True,L,Y,Left Wing,Forward,LW
+275,2020,9,Ottawa Senators,8482245,Artem,Zub,2,1995-10-03,25,Khabarovsk,,RUS,RUS,"6' 2""",203,True,False,False,True,R,Y,Defenseman,Defenseman,D
+276,2020,10,Toronto Maple Leafs,8466138,Joe,Thornton,97,1979-07-02,42,London,ON,CAN,CAN,"6' 4""",220,True,False,False,False,L,Y,Center,Forward,C
+277,2020,10,Toronto Maple Leafs,8469455,Jason,Spezza,19,1983-06-13,38,Toronto,ON,CAN,CAN,"6' 3""",216,True,False,False,False,R,Y,Center,Forward,C
+278,2020,10,Toronto Maple Leafs,8473422,Nick,Foligno,71,1987-10-31,33,Buffalo,NY,USA,USA,"6' 0""",211,True,False,False,False,L,Y,Left Wing,Forward,LW
+279,2020,10,Toronto Maple Leafs,8474062,Riley,Nash,20,1989-05-09,32,Consort,AB,CAN,CAN,"6' 2""",188,True,False,False,False,R,Y,Center,Forward,C
+280,2020,10,Toronto Maple Leafs,8474162,Jake,Muzzin,8,1989-02-21,32,Woodstock,ON,CAN,CAN,"6' 3""",217,True,True,False,False,L,Y,Defenseman,Defenseman,D
+281,2020,10,Toronto Maple Leafs,8474190,Wayne,Simmonds,24,1988-08-26,32,Scarborough,ON,CAN,CAN,"6' 2""",185,True,False,False,False,R,Y,Right Wing,Forward,RW
+282,2020,10,Toronto Maple Leafs,8474567,Zach,Bogosian,22,1990-07-15,30,Massena,NY,USA,USA,"6' 2""",200,True,False,False,False,R,Y,Defenseman,Defenseman,D
+283,2020,10,Toronto Maple Leafs,8474636,Michael,Hutchinson,30,1990-03-02,31,Barrie,ON,CAN,CAN,"6' 3""",198,True,False,False,False,R,Y,Goalie,Goalie,G
+284,2020,10,Toronto Maple Leafs,8474673,TJ,Brodie,78,1990-06-07,31,Chatham,ON,CAN,CAN,"6' 1""",185,True,False,False,False,L,Y,Defenseman,Defenseman,D
+285,2020,10,Toronto Maple Leafs,8475166,John,Tavares,91,1990-09-20,30,Mississauga,ON,CAN,CAN,"6' 1""",215,True,False,True,False,L,Y,Center,Forward,C
+286,2020,10,Toronto Maple Leafs,8475716,Martin,Marincin,52,1992-02-18,29,Kosice,,SVK,SVK,"6' 5""",217,True,False,False,False,L,Y,Defenseman,Defenseman,D
+287,2020,10,Toronto Maple Leafs,8475718,Justin,Holl,3,1992-01-30,29,Tonka Bay,MN,USA,USA,"6' 4""",210,True,False,False,False,R,Y,Defenseman,Defenseman,D
+288,2020,10,Toronto Maple Leafs,8475786,Zach,Hyman,11,1992-06-09,29,Toronto,ON,CAN,CAN,"6' 1""",211,True,True,False,False,R,Y,Left Wing,Forward,LW
+289,2020,10,Toronto Maple Leafs,8475789,Jack,Campbell,36,1992-01-09,29,Port Huron,MI,USA,USA,"6' 2""",197,True,False,False,False,L,Y,Goalie,Goalie,G
+290,2020,10,Toronto Maple Leafs,8475883,Frederik,Andersen,31,1989-10-02,31,Herning,,DNK,DNK,"6' 4""",238,True,False,False,False,L,Y,Goalie,Goalie,G
+291,2020,10,Toronto Maple Leafs,8476474,Stefan,Noesen,26,1993-02-12,28,Plano,TX,USA,USA,"6' 1""",205,True,False,False,False,R,Y,Right Wing,Forward,RW
+292,2020,10,Toronto Maple Leafs,8476851,Alex,Galchenyuk,12,1994-02-12,27,MILWAUKEE,WI,USA,USA,"6' 1""",194,True,False,False,False,L,Y,Center,Forward,C
+293,2020,10,Toronto Maple Leafs,8476853,Morgan,Rielly,44,1994-03-09,27,Vancouver,BC,CAN,CAN,"6' 1""",219,True,True,False,False,L,Y,Defenseman,Defenseman,D
+294,2020,10,Toronto Maple Leafs,8477018,Ben,Hutton,55,1993-04-20,28,Brockville,ON,CAN,CAN,"6' 2""",206,True,False,False,False,L,Y,Defenseman,Defenseman,D
+295,2020,10,Toronto Maple Leafs,8477021,Alexander,Kerfoot,15,1994-08-11,26,Vancouver,BC,CAN,CAN,"5' 10""",185,True,False,False,False,L,Y,Center,Forward,C
+296,2020,10,Toronto Maple Leafs,8477149,Scott,Sabourin,49,1992-07-30,28,Orleans,ON,CAN,CAN,"6' 3""",208,True,False,False,False,R,Y,Right Wing,Forward,RW
+297,2020,10,Toronto Maple Leafs,8477939,William,Nylander,88,1996-05-01,25,Calgary,AB,CAN,SWE,"6' 0""",196,True,False,False,False,R,Y,Right Wing,Forward,RW
+298,2020,10,Toronto Maple Leafs,8478115,Pierre,Engvall,47,1996-05-31,25,Ljungby,,SWE,SWE,"6' 5""",214,True,False,False,False,L,Y,Left Wing,Forward,LW
+299,2020,10,Toronto Maple Leafs,8478408,Travis,Dermott,23,1996-12-22,24,Newmarket,ON,CAN,CAN,"6' 0""",205,True,False,False,False,L,Y,Defenseman,Defenseman,D
+300,2020,10,Toronto Maple Leafs,8478483,Mitchell,Marner,16,1997-05-05,24,Markham,ON,CAN,CAN,"6' 0""",175,True,True,False,False,R,Y,Right Wing,Forward,RW
+301,2020,10,Toronto Maple Leafs,8478843,Denis,Malgin,62,1997-01-18,24,Olten,,CHE,CHE,"5' 9""",177,True,False,False,False,R,Y,Center,Forward,C
+302,2020,10,Toronto Maple Leafs,8479290,Kalle,Kossila,48,1993-04-14,28,Kauniainen,,FIN,FIN,"5' 11""",182,True,False,False,False,L,Y,Center,Forward,C
+303,2020,10,Toronto Maple Leafs,8479318,Auston,Matthews,34,1997-09-17,23,San Ramon,CA,USA,USA,"6' 3""",220,True,True,False,False,L,Y,Center,Forward,C
+304,2020,10,Toronto Maple Leafs,8479361,Joseph,Woll,60,1998-07-12,23,Dardenne Prairie,MO,USA,USA,"6' 4""",203,True,False,False,True,L,Y,Goalie,Goalie,G
+305,2020,10,Toronto Maple Leafs,8479496,David,Rittich,33,1992-08-19,28,Jihlava,,CZE,CZE,"6' 3""",206,True,False,False,False,L,Y,Goalie,Goalie,G
+306,2020,10,Toronto Maple Leafs,8480157,Calle,Rosen,48,1994-02-02,27,Vaxjo,,SWE,SWE,"6' 1""",186,True,False,False,False,L,Y,Defenseman,Defenseman,D
+307,2020,10,Toronto Maple Leafs,8480439,Mac,Hollowell,81,1998-09-26,22,Niagara Falls,ON,CAN,CAN,"5' 9""",170,True,False,False,True,R,Y,Defenseman,Defenseman,D
+308,2020,10,Toronto Maple Leafs,8480873,Rasmus,Sandin,38,2000-03-07,21,Uppsala,,SWE,SWE,"5' 11""",183,True,False,False,False,L,Y,Defenseman,Defenseman,D
+309,2020,10,Toronto Maple Leafs,8481001,Veini,Vehvilainen,35,1997-02-13,24,Jyväskylä,,FIN,FIN,"6' 0""",181,True,False,False,True,L,Y,Goalie,Goalie,G
+310,2020,10,Toronto Maple Leafs,8481624,Ilya,Mikheyev,65,1994-10-10,26,Omsk,,RUS,RUS,"6' 3""",195,True,False,False,False,L,Y,Right Wing,Forward,RW
+311,2020,12,Carolina Hurricanes,8473503,James,Reimer,47,1988-03-15,33,Morweena,MB,CAN,CAN,"6' 2""",220,True,False,False,False,L,Y,Goalie,Goalie,G
+312,2020,12,Carolina Hurricanes,8473533,Jordan,Staal,11,1988-09-10,32,Thunder Bay,ON,CAN,CAN,"6' 4""",220,True,False,True,False,L,Y,Center,Forward,C
+313,2020,12,Carolina Hurricanes,8474581,Jake,Gardiner,51,1990-07-04,31,Minnetonka,MN,USA,USA,"6' 2""",203,True,False,False,False,L,Y,Defenseman,Defenseman,D
+314,2020,12,Carolina Hurricanes,8475213,Drew,Shore,29,1991-01-29,30,Denver,CO,USA,USA,"6' 2""",209,True,False,False,False,R,Y,Center,Forward,C
+315,2020,12,Carolina Hurricanes,8475799,Nino,Niederreiter,21,1992-09-08,28,Chur,,CHE,CHE,"6' 2""",218,True,False,False,False,L,Y,Right Wing,Forward,RW
+316,2020,12,Carolina Hurricanes,8475825,Jani,Hakanpaa,58,1992-03-31,29,Kirkkonummi,,FIN,FIN,"6' 5""",218,True,False,False,False,R,Y,Defenseman,Defenseman,D
+317,2020,12,Carolina Hurricanes,8475852,Petr,Mrazek,34,1992-02-14,29,Ostrava,,CZE,CZE,"6' 1""",190,True,False,False,False,L,Y,Goalie,Goalie,G
+318,2020,12,Carolina Hurricanes,8475855,Jesper,Fast,71,1991-12-02,29,Nassjo,,SWE,SWE,"6' 1""",191,True,False,False,False,R,Y,Right Wing,Forward,RW
+319,2020,12,Carolina Hurricanes,8476323,Max,McCormick,28,1992-05-01,29,De Pere,WI,USA,USA,"5' 11""",188,True,False,False,False,L,Y,Left Wing,Forward,LW
+320,2020,12,Carolina Hurricanes,8476389,Vincent,Trocheck,16,1993-07-11,28,Pittsburgh,PA,USA,USA,"5' 10""",183,True,False,False,False,R,Y,Center,Forward,C
+321,2020,12,Carolina Hurricanes,8476462,Dougie,Hamilton,19,1993-06-17,28,Toronto,ON,CAN,CAN,"6' 6""",229,True,False,False,False,R,Y,Defenseman,Defenseman,D
+322,2020,12,Carolina Hurricanes,8476869,Brady,Skjei,76,1994-03-26,27,Lakeville,MN,USA,USA,"6' 3""",210,True,False,False,False,L,Y,Defenseman,Defenseman,D
+323,2020,12,Carolina Hurricanes,8476882,Teuvo,Teravainen,86,1994-09-11,26,Helsinki,,FIN,FIN,"5' 11""",191,True,False,False,False,L,Y,Left Wing,Forward,LW
+324,2020,12,Carolina Hurricanes,8476921,Jordan,Martinook,48,1992-07-25,28,Brandon,MB,CAN,CAN,"6' 0""",196,True,True,False,False,L,Y,Left Wing,Forward,LW
+325,2020,12,Carolina Hurricanes,8476934,Brock,McGinn,23,1994-02-02,27,Fergus,ON,CAN,CAN,"6' 0""",187,True,False,False,False,L,Y,Left Wing,Forward,LW
+326,2020,12,Carolina Hurricanes,8476958,Jaccob,Slavin,74,1994-05-01,27,Denver,CO,USA,USA,"6' 3""",207,True,True,False,False,L,Y,Defenseman,Defenseman,D
+327,2020,12,Carolina Hurricanes,8476975,Cedric,Paquette,18,1993-08-13,27,Gaspe,QC,CAN,CAN,"6' 0""",204,True,False,False,False,L,Y,Center,Forward,C
+328,2020,12,Carolina Hurricanes,8477046,Joakim,Ryan,33,1993-06-17,28,Rumson,NJ,USA,USA,"5' 11""",185,True,False,False,False,L,Y,Defenseman,Defenseman,D
+329,2020,12,Carolina Hurricanes,8477312,Antoine,Bibeau,35,1994-05-01,27,Victoriaville,QC,CAN,CAN,"6' 3""",205,True,False,False,False,L,Y,Goalie,Goalie,G
+330,2020,12,Carolina Hurricanes,8477488,Brett,Pesce,22,1994-11-15,26,Tarrytown,NY,USA,USA,"6' 3""",206,True,False,False,False,R,Y,Defenseman,Defenseman,D
+331,2020,12,Carolina Hurricanes,8477968,Alex,Nedeljkovic,39,1996-01-07,25,Parma,OH,USA,USA,"6' 0""",189,True,False,False,True,L,Y,Goalie,Goalie,G
+332,2020,12,Carolina Hurricanes,8477981,Roland,McKeown,55,1996-01-20,25,Listowel,ON,CAN,CAN,"6' 1""",195,True,False,False,True,R,Y,Defenseman,Defenseman,D
+333,2020,12,Carolina Hurricanes,8477998,Warren,Foegele,13,1996-04-01,25,Markham,ON,CAN,CAN,"6' 2""",198,True,False,False,False,L,Y,Left Wing,Forward,LW
+334,2020,12,Carolina Hurricanes,8478427,Sebastian,Aho,20,1997-07-26,23,Rauma,,FIN,FIN,"6' 0""",176,True,False,False,False,L,Y,Center,Forward,C
+335,2020,12,Carolina Hurricanes,8478904,Steven,Lorentz,78,1996-04-13,25,Kitchener,ON,CAN,CAN,"6' 4""",206,True,False,False,True,L,Y,Center,Forward,C
+336,2020,12,Carolina Hurricanes,8479320,Maxime,Lajoie,42,1997-11-05,23,Quebec City,QC,CAN,CAN,"6' 1""",196,True,False,False,False,L,Y,Defenseman,Defenseman,D
+337,2020,12,Carolina Hurricanes,8479402,Jake,Bean,24,1998-06-09,23,Calgary,AB,CAN,CAN,"6' 1""",186,True,False,False,True,L,Y,Defenseman,Defenseman,D
+338,2020,12,Carolina Hurricanes,8479987,Morgan,Geekie,67,1998-07-20,22,Strathclair,MB,CAN,CAN,"6' 3""",192,True,False,False,True,R,Y,Center,Forward,C
+339,2020,12,Carolina Hurricanes,8480039,Martin,Necas,88,1999-01-15,22,Nove Mesto na Morave,,CZE,CZE,"6' 2""",189,True,False,False,False,R,Y,Center,Forward,C
+340,2020,12,Carolina Hurricanes,8480466,Joey,Keane,44,1999-07-02,22,Chicago,IL,USA,USA,"6' 0""",187,True,False,False,True,R,Y,Defenseman,Defenseman,D
+341,2020,12,Carolina Hurricanes,8480830,Andrei,Svechnikov,37,2000-03-26,21,Barnaul,,RUS,RUS,"6' 2""",195,True,False,False,False,L,Y,Right Wing,Forward,RW
+342,2020,12,Carolina Hurricanes,8481576,Ryan,Suzuki,61,2001-05-28,20,London,ON,CAN,CAN,"6' 0""",176,True,False,False,True,L,Y,Center,Forward,C
+343,2020,13,Florida Panthers,8477932,Aaron,Ekblad,5,1996-02-07,25,Windsor,ON,CAN,CAN,"6' 4""",215,True,True,False,False,R,I,Defenseman,Defenseman,D
+344,2020,13,Florida Panthers,8471735,Keith,Yandle,3,1986-09-09,34,Boston,MA,USA,USA,"6' 1""",192,True,True,False,False,L,Y,Defenseman,Defenseman,D
+345,2020,13,Florida Panthers,8471873,Anton,Stralman,6,1986-08-01,34,Tibro,,SWE,SWE,"5' 11""",186,True,False,False,False,R,Y,Defenseman,Defenseman,D
+346,2020,13,Florida Panthers,8471887,Patric,Hornqvist,70,1987-01-01,34,Sollentuna,,SWE,SWE,"5' 11""",189,True,True,False,False,R,Y,Right Wing,Forward,RW
+347,2020,13,Florida Panthers,8475246,Kevin,Connauton,44,1990-02-23,31,Edmonton,AB,CAN,CAN,"6' 2""",205,True,False,False,False,L,Y,Defenseman,Defenseman,D
+348,2020,13,Florida Panthers,8475462,Radko,Gudas,7,1990-06-05,31,Prague,,CZE,CZE,"6' 0""",208,True,False,False,False,R,Y,Defenseman,Defenseman,D
+349,2020,13,Florida Panthers,8475683,Sergei,Bobrovsky,72,1988-09-20,32,Novokuznetsk,,RUS,RUS,"6' 2""",182,True,False,False,False,L,Y,Goalie,Goalie,G
+350,2020,13,Florida Panthers,8476293,Scott,Wilson,26,1992-04-24,29,Oakville,ON,CAN,CAN,"5' 11""",177,True,False,False,False,L,Y,Center,Forward,C
+351,2020,13,Florida Panthers,8476456,Jonathan,Huberdeau,11,1993-06-04,28,Saint-Jerome,QC,CAN,CAN,"6' 1""",202,True,True,False,False,L,Y,Left Wing,Forward,LW
+352,2020,13,Florida Panthers,8476904,Chris,Driedger,60,1994-05-18,27,Winnipeg,MB,CAN,CAN,"6' 4""",208,True,False,False,False,L,Y,Goalie,Goalie,G
+353,2020,13,Florida Panthers,8477038,Nikita,Gusev,97,1992-07-08,29,Moscow,,RUS,RUS,"5' 9""",163,True,False,False,False,R,Y,Left Wing,Forward,LW
+354,2020,13,Florida Panthers,8477346,MacKenzie,Weegar,52,1994-01-07,27,Ottawa,ON,CAN,CAN,"6' 0""",200,True,False,False,False,R,Y,Defenseman,Defenseman,D
+355,2020,13,Florida Panthers,8477407,Anthony,Duclair,91,1995-08-26,25,Pointe-Claire,QC,CAN,CAN,"5' 11""",197,True,False,False,False,L,Y,Left Wing,Forward,LW
+356,2020,13,Florida Panthers,8477409,Carter,Verhaeghe,23,1995-08-14,25,Toronto,ON,CAN,CAN,"6' 2""",180,True,False,False,False,L,Y,Center,Forward,C
+357,2020,13,Florida Panthers,8477475,Philippe,Desrosiers,95,1995-08-16,25,Saint-Hyacinthe,QC,CAN,CAN,"6' 1""",201,True,False,False,True,L,Y,Goalie,Goalie,G
+358,2020,13,Florida Panthers,8477493,Aleksander,Barkov,16,1995-09-02,25,Tampere,,FIN,FIN,"6' 3""",215,True,False,True,False,L,Y,Center,Forward,C
+359,2020,13,Florida Panthers,8477505,Alex,Wennberg,21,1994-09-22,26,Stockholm,,SWE,SWE,"6' 2""",197,True,False,False,False,L,Y,Center,Forward,C
+360,2020,13,Florida Panthers,8477935,Sam,Bennett,9,1996-06-20,25,Holland Landing,ON,CAN,CAN,"6' 1""",195,True,False,False,False,L,Y,Center,Forward,C
+361,2020,13,Florida Panthers,8477986,Brandon,Montour,62,1994-04-11,27,Brantford,ON,CAN,CAN,"6' 0""",194,True,False,False,False,R,Y,Defenseman,Defenseman,D
+362,2020,13,Florida Panthers,8477996,Juho,Lammikko,83,1996-01-29,25,Noormarkku,,FIN,FIN,"6' 2""",191,True,False,False,False,L,Y,Center,Forward,C
+363,2020,13,Florida Panthers,8478055,Gustav,Forsling,42,1996-06-12,25,Linkoping,,SWE,SWE,"6' 0""",186,True,False,False,False,L,Y,Defenseman,Defenseman,D
+364,2020,13,Florida Panthers,8478366,Frank,Vatrano,77,1994-03-14,27,East Longmeadow,MA,USA,USA,"5' 11""",197,True,False,False,False,L,Y,Center,Forward,C
+365,2020,13,Florida Panthers,8478454,Noah,Juulsen,58,1997-04-02,24,Surrey,BC,CAN,CAN,"6' 2""",201,True,False,False,False,R,Y,Defenseman,Defenseman,D
+366,2020,13,Florida Panthers,8478470,Sam,Montembeault,33,1996-10-30,24,Becancour,QC,CAN,CAN,"6' 3""",199,True,False,False,False,L,Y,Goalie,Goalie,G
+367,2020,13,Florida Panthers,8478569,Noel,Acciari,55,1991-12-01,29,Johnston,RI,USA,USA,"5' 10""",209,True,False,False,False,R,Y,Center,Forward,C
+368,2020,13,Florida Panthers,8478906,Markus,Nutivaara,65,1994-06-06,27,Oulu,,FIN,FIN,"6' 1""",187,True,False,False,False,L,Y,Defenseman,Defenseman,D
+369,2020,13,Florida Panthers,8478975,Mason,Marchment,19,1995-06-18,26,Uxbridge,ON,CAN,CAN,"6' 4""",209,True,False,False,True,L,Y,Left Wing,Forward,LW
+370,2020,13,Florida Panthers,8479066,Ryan,Lomberg,94,1994-12-09,26,Richmond Hill,ON,CAN,CAN,"5' 9""",187,True,False,False,True,L,Y,Left Wing,Forward,LW
+371,2020,13,Florida Panthers,8480015,Owen,Tippett,74,1999-02-16,22,Peterborough,ON,CAN,CAN,"6' 1""",207,True,False,False,True,R,Y,Right Wing,Forward,RW
+372,2020,13,Florida Panthers,8480037,Aleksi,Heponiemi,20,1999-01-09,22,Tampere,,FIN,FIN,"5' 10""",155,True,False,False,True,L,Y,Center,Forward,C
+373,2020,13,Florida Panthers,8480185,Eetu,Luostarinen,27,1998-09-02,22,Siilinjarvi,,FIN,FIN,"6' 3""",190,True,False,False,True,L,Y,Center,Forward,C
+374,2020,13,Florida Panthers,8480844,Grigori,Denisenko,14,2000-06-24,21,Novosibirsk,,RUS,RUS,"5' 11""",186,True,False,False,True,R,Y,Left Wing,Forward,LW
+375,2020,13,Florida Panthers,8481206,John,Ludvig,53,2000-08-02,20,Liberec,,CZE,CZE,"6' 1""",213,True,False,False,True,L,Y,Defenseman,Defenseman,D
+376,2020,13,Florida Panthers,8481442,Brady,Keeper,25,1996-06-05,25,Cross Lake,MB,CAN,CAN,"6' 2""",197,True,False,False,True,R,Y,Defenseman,Defenseman,D
+377,2020,13,Florida Panthers,8481519,Spencer,Knight,30,2001-04-19,20,Darien,CT,USA,USA,"6' 3""",192,True,False,False,True,L,Y,Goalie,Goalie,G
+378,2020,13,Florida Panthers,8481609,Vladislav,Kolyachonok,64,2001-05-26,20,Minsk,,BLR,BLR,"6' 1""",193,True,False,False,True,L,Y,Defenseman,Defenseman,D
+379,2020,13,Florida Panthers,8481655,Cole,Schwindt,79,2001-04-25,20,Kitchener,ON,CAN,CAN,"6' 2""",182,True,False,False,True,R,Y,Center,Forward,C
+380,2020,13,Florida Panthers,8482641,Matt,Kiersted,8,1998-04-14,23,Elk River,MN,USA,USA,"6' 0""",181,True,False,False,False,L,Y,Defenseman,Defenseman,D
+381,2020,14,Tampa Bay Lightning,8470147,Curtis,McElhinney,35,1983-05-23,38,London,ON,CAN,CAN,"6' 1""",210,True,False,False,False,L,Y,Goalie,Goalie,G
+382,2020,14,Tampa Bay Lightning,8473986,Alex,Killorn,17,1989-09-14,31,Halifax,NS,CAN,CAN,"6' 1""",199,True,False,False,False,L,Y,Left Wing,Forward,LW
+383,2020,14,Tampa Bay Lightning,8474034,Pat,Maroon,14,1988-04-23,33,St. Louis,MO,USA,USA,"6' 3""",238,True,False,False,False,L,Y,Left Wing,Forward,LW
+384,2020,14,Tampa Bay Lightning,8474151,Ryan,McDonagh,27,1989-06-13,32,St. Paul,MN,USA,USA,"6' 1""",215,True,False,False,False,L,Y,Defenseman,Defenseman,D
+385,2020,14,Tampa Bay Lightning,8474564,Steven,Stamkos,91,1990-02-07,31,Markham,ON,CAN,CAN,"6' 1""",193,True,False,True,False,R,Y,Center,Forward,C
+386,2020,14,Tampa Bay Lightning,8474568,Luke,Schenn,2,1989-11-02,31,Saskatoon,SK,CAN,CAN,"6' 2""",225,True,False,False,False,R,Y,Defenseman,Defenseman,D
+387,2020,14,Tampa Bay Lightning,8474870,Tyler,Johnson,9,1990-07-29,30,Spokane,WA,USA,USA,"5' 8""",185,True,False,False,False,R,Y,Center,Forward,C
+388,2020,14,Tampa Bay Lightning,8475167,Victor,Hedman,77,1990-12-18,30,Ornskoldsvik,,SWE,SWE,"6' 6""",241,True,False,False,False,L,Y,Defenseman,Defenseman,D
+389,2020,14,Tampa Bay Lightning,8475233,David,Savard,58,1990-10-22,30,St-Hyacinthe,QC,CAN,CAN,"6' 2""",233,True,False,False,False,R,Y,Defenseman,Defenseman,D
+390,2020,14,Tampa Bay Lightning,8476292,Ondrej,Palat,18,1991-03-28,30,Frydek-Mistek,,CZE,CZE,"6' 0""",194,True,False,False,False,L,Y,Left Wing,Forward,LW
+391,2020,14,Tampa Bay Lightning,8476368,Fredrik,Claesson,3,1992-11-24,28,Stockholm,,SWE,SWE,"6' 1""",196,True,False,False,False,L,Y,Defenseman,Defenseman,D
+392,2020,14,Tampa Bay Lightning,8476399,Blake,Coleman,20,1991-11-28,29,Plano,TX,USA,USA,"5' 11""",207,True,False,False,False,L,Y,Center,Forward,C
+393,2020,14,Tampa Bay Lightning,8476444,Christopher,Gibson,33,1992-12-27,28,Karkkila,,FIN,FIN,"6' 2""",217,True,False,False,False,L,Y,Goalie,Goalie,G
+394,2020,14,Tampa Bay Lightning,8476453,Nikita,Kucherov,86,1993-06-17,28,Maykop,,RUS,RUS,"5' 11""",183,True,False,False,False,L,Y,Right Wing,Forward,RW
+395,2020,14,Tampa Bay Lightning,8476624,Barclay,Goodrow,19,1993-02-26,28,Toronto,ON,CAN,CAN,"6' 2""",203,True,False,False,False,L,Y,Center,Forward,C
+396,2020,14,Tampa Bay Lightning,8476826,Yanni,Gourde,37,1991-12-15,29,Saint-Narcisse,QC,CAN,CAN,"5' 9""",173,True,False,False,False,L,Y,Center,Forward,C
+397,2020,14,Tampa Bay Lightning,8476883,Andrei,Vasilevskiy,88,1994-07-25,26,Tyumen,,RUS,RUS,"6' 3""",225,True,False,False,False,L,Y,Goalie,Goalie,G
+398,2020,14,Tampa Bay Lightning,8478010,Brayden,Point,21,1996-03-13,25,Calgary,AB,CAN,CAN,"5' 10""",183,True,False,False,False,R,Y,Center,Forward,C
+399,2020,14,Tampa Bay Lightning,8478049,Ben,Thomas,56,1996-05-28,25,Calgary,AB,CAN,CAN,"6' 1""",187,True,False,False,True,R,Y,Defenseman,Defenseman,D
+400,2020,14,Tampa Bay Lightning,8478069,Daniel,Walcott,85,1994-02-19,27,Ile Perrot,QC,CAN,CAN,"6' 1""",175,True,False,False,False,L,Y,Left Wing,Forward,LW
+401,2020,14,Tampa Bay Lightning,8478416,Erik,Cernak,81,1997-05-28,24,Kosice,,SVK,SVK,"6' 3""",230,True,False,False,False,R,Y,Defenseman,Defenseman,D
+402,2020,14,Tampa Bay Lightning,8478472,Mathieu,Joseph,7,1997-02-09,24,Laval,QC,CAN,CAN,"6' 1""",190,True,False,False,False,L,Y,Right Wing,Forward,RW
+403,2020,14,Tampa Bay Lightning,8478477,Mitchell,Stephens,67,1997-02-05,24,Peterborough,ON,CAN,CAN,"5' 11""",190,True,False,False,False,R,Y,Center,Forward,C
+404,2020,14,Tampa Bay Lightning,8478519,Anthony,Cirelli,71,1997-07-15,23,Etobicoke,ON,CAN,CAN,"6' 0""",191,True,False,False,False,L,Y,Center,Forward,C
+405,2020,14,Tampa Bay Lightning,8479383,Boris,Katchouk,41,1998-06-18,23,Waterloo,ON,CAN,CAN,"6' 2""",206,True,False,False,True,L,Y,Left Wing,Forward,LW
+406,2020,14,Tampa Bay Lightning,8479410,Mikhail,Sergachev,98,1998-06-25,23,Nizhnekamsk,,RUS,RUS,"6' 3""",216,True,False,False,False,L,Y,Defenseman,Defenseman,D
+407,2020,14,Tampa Bay Lightning,8479525,Ross,Colton,79,1996-09-11,24,Robbinsville,NJ,USA,USA,"6' 0""",191,True,False,False,True,L,Y,Center,Forward,C
+408,2020,14,Tampa Bay Lightning,8479718,Alex,Barre-Boulet,60,1997-05-21,24,Montmagny,QC,CAN,CAN,"5' 10""",180,True,False,False,True,L,Y,Center,Forward,C
+409,2020,14,Tampa Bay Lightning,8479984,Cal,Foote,52,1998-12-13,22,Denver,CO,USA,USA,"6' 4""",227,True,False,False,True,R,Y,Defenseman,Defenseman,D
+410,2020,14,Tampa Bay Lightning,8480172,Jan,Rutta,44,1990-07-29,30,Pisek,,CZE,CZE,"6' 3""",204,True,False,False,False,R,Y,Defenseman,Defenseman,D
+411,2020,15,Washington Capitals,8465009,Zdeno,Chara,33,1977-03-18,44,Trencin,,SVK,SVK,"6' 9""",250,True,False,False,False,L,Y,Defenseman,Defenseman,D
+412,2020,15,Washington Capitals,8467950,Craig,Anderson,31,1981-05-21,40,Park Ridge,IL,USA,USA,"6' 2""",186,True,False,False,False,L,Y,Goalie,Goalie,G
+413,2020,15,Washington Capitals,8471214,Alex,Ovechkin,8,1985-09-17,35,Moscow,,RUS,RUS,"6' 3""",238,True,False,True,False,R,Y,Left Wing,Forward,LW
+414,2020,15,Washington Capitals,8471698,T.J.,Oshie,77,1986-12-23,34,Everett,WA,USA,USA,"5' 11""",196,True,False,False,False,R,Y,Right Wing,Forward,RW
+415,2020,15,Washington Capitals,8473563,Nicklas,Backstrom,19,1987-11-23,33,Gävle,,SWE,SWE,"6' 1""",206,True,True,False,False,L,Y,Center,Forward,C
+416,2020,15,Washington Capitals,8474176,Carl,Hagelin,62,1988-08-23,32,Sodertalje,,SWE,SWE,"5' 11""",185,True,False,False,False,L,Y,Left Wing,Forward,LW
+417,2020,15,Washington Capitals,8474189,Lars,Eller,20,1989-05-08,32,Rodovre,,DNK,DNK,"6' 2""",208,True,False,False,False,L,Y,Center,Forward,C
+418,2020,15,Washington Capitals,8474590,John,Carlson,74,1990-01-10,31,Natick,MA,USA,USA,"6' 3""",215,True,True,False,False,R,Y,Defenseman,Defenseman,D
+419,2020,15,Washington Capitals,8474602,Justin,Schultz,2,1990-07-06,31,Kelowna,BC,CAN,CAN,"6' 2""",186,True,False,False,False,R,Y,Defenseman,Defenseman,D
+420,2020,15,Washington Capitals,8475200,Dmitry,Orlov,9,1991-07-23,29,Novokuznetsk,,RUS,RUS,"5' 11""",211,True,False,False,False,L,Y,Defenseman,Defenseman,D
+421,2020,15,Washington Capitals,8475324,Nick,Jensen,3,1990-09-21,30,Rogers,MN,USA,USA,"6' 1""",205,True,False,False,False,R,Y,Defenseman,Defenseman,D
+422,2020,15,Washington Capitals,8475343,Nic,Dowd,26,1990-05-27,31,Huntsville,AL,USA,USA,"6' 1""",192,True,False,False,False,R,Y,Center,Forward,C
+423,2020,15,Washington Capitals,8475455,Brenden,Dillon,4,1990-11-13,30,New Westminster,BC,CAN,CAN,"6' 4""",220,True,False,False,False,L,Y,Defenseman,Defenseman,D
+424,2020,15,Washington Capitals,8475744,Evgeny,Kuznetsov,92,1992-05-19,29,Chelyabinsk,,RUS,RUS,"6' 1""",205,True,False,False,False,L,Y,Center,Forward,C
+425,2020,15,Washington Capitals,8476880,Tom,Wilson,43,1994-03-29,27,Toronto,ON,CAN,CAN,"6' 4""",220,True,False,False,False,R,Y,Right Wing,Forward,RW
+426,2020,15,Washington Capitals,8477290,Michael,Raffl,17,1988-12-01,32,Villach,,AUT,AUT,"6' 0""",200,True,False,False,False,L,Y,Left Wing,Forward,LW
+427,2020,15,Washington Capitals,8477511,Anthony,Mantha,39,1994-09-16,26,Longueuil,QC,CAN,CAN,"6' 5""",234,True,False,False,False,L,Y,Right Wing,Forward,RW
+428,2020,15,Washington Capitals,8477839,Conor,Sheary,73,1992-06-08,29,Winchester,MA,USA,USA,"5' 9""",178,True,False,False,False,L,Y,Left Wing,Forward,LW
+429,2020,15,Washington Capitals,8477845,Trevor,van Riemsdyk,57,1991-07-24,29,Middletown,NJ,USA,USA,"6' 3""",188,True,False,False,False,R,Y,Defenseman,Defenseman,D
+430,2020,15,Washington Capitals,8477903,Garnet,Hathaway,21,1991-11-23,29,Kennebunkport,ME,USA,USA,"6' 2""",212,True,False,False,False,R,Y,Right Wing,Forward,RW
+431,2020,15,Washington Capitals,8477970,Vitek,Vanecek,41,1996-01-09,25,Havlickuv Brod,,CZE,CZE,"6' 2""",187,True,False,False,True,L,Y,Goalie,Goalie,G
+432,2020,15,Washington Capitals,8478466,Daniel,Sprong,10,1997-03-17,24,Amsterdam,,NLD,NLD,"6' 0""",200,True,False,False,False,R,Y,Right Wing,Forward,RW
+433,2020,15,Washington Capitals,8478492,Ilya,Samsonov,30,1997-02-22,24,Magnitogorsk,,RUS,RUS,"6' 3""",200,True,False,False,False,L,Y,Goalie,Goalie,G
+434,2020,15,Washington Capitals,8479482,Michal,Kempny,6,1990-09-08,30,Hodonin,,CZE,CZE,"6' 1""",195,True,False,False,False,L,Y,Defenseman,Defenseman,D
+435,2020,16,Chicago Blackhawks,8470607,Brent,Seabrook,7,1985-04-20,36,Richmond,BC,CAN,CAN,"6' 3""",220,True,True,False,False,R,Y,Defenseman,Defenseman,D
+436,2020,16,Chicago Blackhawks,8474250,Zack,Smith,15,1988-04-05,33,Maple Creek,SK,CAN,CAN,"6' 2""",208,True,False,False,False,L,Y,Center,Forward,C
+437,2020,16,Chicago Blackhawks,8476381,Andrew,Shaw,65,1991-07-20,29,Belleville,ON,CAN,CAN,"5' 11""",182,True,True,False,False,R,I,Right Wing,Forward,RW
+438,2020,16,Chicago Blackhawks,8473604,Jonathan,Toews,19,1988-04-29,33,Winnipeg,MB,CAN,CAN,"6' 2""",201,True,False,True,False,L,Y,Center,Forward,C
+439,2020,16,Chicago Blackhawks,8479423,Alex,Nylander,92,1998-03-02,23,Calgary,AB,CAN,CAN,"6' 1""",192,True,False,False,False,R,Y,Left Wing,Forward,LW
+440,2020,16,Chicago Blackhawks,8474141,Patrick,Kane,88,1988-11-19,32,Buffalo,NY,USA,USA,"5' 10""",177,True,True,False,False,L,Y,Right Wing,Forward,RW
+441,2020,16,Chicago Blackhawks,8475177,Calvin,de Haan,44,1991-05-09,30,Carp,ON,CAN,CAN,"6' 1""",195,True,False,False,False,L,Y,Defenseman,Defenseman,D
+442,2020,16,Chicago Blackhawks,8475792,Brett,Connolly,20,1992-05-02,29,Campbell River,BC,CAN,CAN,"6' 3""",198,True,False,False,False,R,Y,Right Wing,Forward,RW
+443,2020,16,Chicago Blackhawks,8476473,Connor,Murphy,5,1993-03-26,28,Dublin,OH,USA,USA,"6' 4""",212,True,True,False,False,R,Y,Defenseman,Defenseman,D
+444,2020,16,Chicago Blackhawks,8476876,Malcolm,Subban,30,1993-12-21,27,Toronto,ON,CAN,CAN,"6' 2""",215,True,False,False,False,L,Y,Goalie,Goalie,G
+445,2020,16,Chicago Blackhawks,8476994,Vinnie,Hinostroza,28,1994-04-03,27,Chicago,IL,USA,USA,"5' 9""",177,True,False,False,False,R,Y,Left Wing,Forward,LW
+446,2020,16,Chicago Blackhawks,8477330,Dominik,Kubalik,8,1995-08-21,25,Plzen,,CZE,CZE,"6' 2""",179,True,False,False,False,L,Y,Left Wing,Forward,LW
+447,2020,16,Chicago Blackhawks,8477507,Nikita,Zadorov,16,1995-04-16,26,Moscow,,RUS,RUS,"6' 6""",235,True,False,False,False,L,Y,Defenseman,Defenseman,D
+448,2020,16,Chicago Blackhawks,8477846,Ryan,Carpenter,22,1991-01-18,30,Oviedo,FL,USA,USA,"6' 0""",200,True,False,False,False,R,Y,Center,Forward,C
+449,2020,16,Chicago Blackhawks,8478440,Dylan,Strome,17,1997-03-07,24,Mississauga,ON,CAN,CAN,"6' 3""",200,True,False,False,False,L,Y,Center,Forward,C
+450,2020,16,Chicago Blackhawks,8478452,Caleb,Jones,82,1997-06-06,24,Arlington,TX,USA,USA,"6' 1""",194,True,False,False,False,L,Y,Defenseman,Defenseman,D
+451,2020,16,Chicago Blackhawks,8478874,Adam,Gaudette,11,1996-10-03,24,Braintree,MA,USA,USA,"6' 1""",170,True,False,False,False,R,Y,Center,Forward,C
+452,2020,16,Chicago Blackhawks,8479337,Alex,DeBrincat,12,1997-12-18,23,Farmington Hills,MI,USA,USA,"5' 7""",165,True,True,False,False,R,Y,Left Wing,Forward,LW
+453,2020,16,Chicago Blackhawks,8479388,Riley,Stillman,61,1998-03-09,23,Peterborough,ON,CAN,CAN,"6' 1""",196,True,False,False,False,L,Y,Defenseman,Defenseman,D
+454,2020,16,Chicago Blackhawks,8479542,Brandon,Hagel,38,1998-08-27,22,Saskatoon,SK,CAN,CAN,"5' 11""",174,True,False,False,True,L,Y,Left Wing,Forward,LW
+455,2020,16,Chicago Blackhawks,8480025,MacKenzie,Entwistle,58,1999-07-14,22,Georgetown,ON,CAN,CAN,"6' 3""",184,True,False,False,True,R,Y,Right Wing,Forward,RW
+456,2020,16,Chicago Blackhawks,8480070,Ian,Mitchell,51,1999-01-18,22,St. Albert,AB,CAN,CAN,"5' 11""",173,True,False,False,True,R,Y,Defenseman,Defenseman,D
+457,2020,16,Chicago Blackhawks,8480144,David,Kampf,64,1995-01-12,26,Chomutov,,CZE,CZE,"6' 2""",188,True,False,False,False,L,Y,Center,Forward,C
+458,2020,16,Chicago Blackhawks,8480293,Wyatt,Kalynuk,48,1997-04-14,24,Brandon,MB,CAN,CAN,"6' 1""",180,True,False,False,True,L,Y,Defenseman,Defenseman,D
+459,2020,16,Chicago Blackhawks,8480420,Collin,Delia,60,1994-06-20,27,Rancho Cucamonga,CA,USA,USA,"6' 2""",208,True,False,False,False,L,Y,Goalie,Goalie,G
+460,2020,16,Chicago Blackhawks,8480459,Pius,Suter,24,1996-05-24,25,Zurich,,CHE,CHE,"5' 11""",176,True,False,False,True,L,Y,Center,Forward,C
+461,2020,16,Chicago Blackhawks,8480798,Philipp,Kurashev,23,1999-10-12,21,Munsingen,,CHE,CHE,"6' 0""",190,True,False,False,True,L,Y,Center,Forward,C
+462,2020,16,Chicago Blackhawks,8480814,Nicolas,Beaudin,74,1999-10-07,21,Chateauguay,QC,CAN,CAN,"5' 11""",168,True,False,False,True,L,Y,Defenseman,Defenseman,D
+463,2020,16,Chicago Blackhawks,8480831,Alec,Regula,75,2000-08-06,20,West Bloomfield,MI,USA,USA,"6' 4""",208,True,False,False,True,R,Y,Defenseman,Defenseman,D
+464,2020,16,Chicago Blackhawks,8480871,Adam,Boqvist,27,2000-08-15,20,Falun,,SWE,SWE,"5' 11""",179,True,False,False,False,R,Y,Defenseman,Defenseman,D
+465,2020,16,Chicago Blackhawks,8480947,Kevin,Lankinen,32,1995-04-28,26,Helsinki,,FIN,FIN,"6' 2""",185,True,False,False,True,L,Y,Goalie,Goalie,G
+466,2020,16,Chicago Blackhawks,8481523,Kirby,Dach,77,2001-01-21,20,Fort Saskatchewan,AB,CAN,CAN,"6' 4""",197,True,False,False,False,R,Y,Center,Forward,C
+467,2020,16,Chicago Blackhawks,8482635,Mike,Hardman,86,1999-02-05,22,Hanover,MA,USA,USA,"6' 2""",205,True,False,False,True,L,Y,Left Wing,Forward,LW
+468,2020,17,Detroit Red Wings,8471676,Bobby,Ryan,54,1987-03-17,34,Cherry Hill,NJ,USA,USA,"6' 2""",208,True,False,False,False,R,Y,Right Wing,Forward,RW
+469,2020,17,Detroit Red Wings,8477479,Tyler,Bertuzzi,59,1995-02-24,26,Sudbury,ON,CAN,CAN,"6' 1""",199,True,False,False,False,L,Y,Left Wing,Forward,LW
+470,2020,17,Detroit Red Wings,8477952,Robby,Fabbri,14,1996-01-22,25,Mississauga,ON,CAN,CAN,"5' 10""",190,True,False,False,False,L,Y,Center,Forward,C
+471,2020,17,Detroit Red Wings,8470047,Valtteri,Filppula,51,1984-03-20,37,Vantaa,,FIN,FIN,"6' 0""",189,True,False,False,False,L,Y,Center,Forward,C
+472,2020,17,Detroit Red Wings,8470144,Frans,Nielsen,81,1984-04-24,37,Herning,,DNK,DNK,"6' 1""",186,True,True,False,False,L,Y,Center,Forward,C
+473,2020,17,Detroit Red Wings,8471306,Thomas,Greiss,29,1986-01-29,35,Fussen,,DEU,DEU,"6' 2""",232,True,False,False,False,L,Y,Goalie,Goalie,G
+474,2020,17,Detroit Red Wings,8471686,Marc,Staal,18,1987-01-13,34,Thunder Bay,ON,CAN,CAN,"6' 4""",209,True,False,False,False,L,Y,Defenseman,Defenseman,D
+475,2020,17,Detroit Red Wings,8471794,Darren,Helm,43,1987-01-21,34,St. Andrews,MB,CAN,CAN,"6' 0""",192,True,False,False,False,L,Y,Left Wing,Forward,LW
+476,2020,17,Detroit Red Wings,8473415,Alex,Biega,3,1988-04-04,33,Montreal,QC,CAN,CAN,"5' 10""",199,True,False,False,False,R,Y,Defenseman,Defenseman,D
+477,2020,17,Detroit Red Wings,8473541,Jonathan,Bernier,45,1988-08-07,32,Laval,QC,CAN,CAN,"6' 0""",185,True,False,False,False,L,Y,Goalie,Goalie,G
+478,2020,17,Detroit Red Wings,8474040,Sam,Gagner,89,1989-08-10,31,London,ON,CAN,CAN,"5' 11""",200,True,False,False,False,R,Y,Center,Forward,C
+479,2020,17,Detroit Red Wings,8475209,Richard,Panik,24,1991-02-07,30,Martin,,SVK,SVK,"6' 2""",203,True,False,False,False,L,Y,Right Wing,Forward,RW
+480,2020,17,Detroit Red Wings,8476480,Vladislav,Namestnikov,92,1992-11-22,28,Zhukovskiy,,RUS,RUS,"6' 0""",183,True,False,False,False,L,Y,Center,Forward,C
+481,2020,17,Detroit Red Wings,8476822,Luke,Glendening,41,1989-04-28,32,Grand Rapids,MI,USA,USA,"5' 11""",191,True,True,False,False,R,Y,Center,Forward,C
+482,2020,17,Detroit Red Wings,8477043,Christian,Djoos,44,1994-08-06,26,Gothenburg,,SWE,SWE,"6' 0""",180,True,False,False,False,L,Y,Defenseman,Defenseman,D
+483,2020,17,Detroit Red Wings,8477215,Danny,DeKeyser,65,1990-03-07,31,Detroit,MI,USA,USA,"6' 3""",190,True,False,False,False,L,Y,Defenseman,Defenseman,D
+484,2020,17,Detroit Red Wings,8477454,Adam,Erne,73,1995-04-20,26,New Haven,CT,USA,USA,"6' 1""",212,True,False,False,False,L,Y,Left Wing,Forward,LW
+485,2020,17,Detroit Red Wings,8477944,Jakub,Vrana,15,1996-02-28,25,Prague,,CZE,CZE,"6' 0""",197,True,False,False,False,L,Y,Left Wing,Forward,LW
+486,2020,17,Detroit Red Wings,8477946,Dylan,Larkin,71,1996-07-30,24,Waterford,MI,USA,USA,"6' 1""",198,True,False,True,False,L,Y,Center,Forward,C
+487,2020,17,Detroit Red Wings,8478431,Evgeny,Svechnikov,37,1996-10-31,24,Yuzhno-Sakhalinsk,,RUS,RUS,"6' 3""",208,True,False,False,True,L,Y,Right Wing,Forward,RW
+488,2020,17,Detroit Red Wings,8479395,Dennis,Cholowski,21,1998-02-15,23,Langley,BC,CAN,CAN,"6' 2""",197,True,False,False,False,L,Y,Defenseman,Defenseman,D
+489,2020,17,Detroit Red Wings,8479425,Filip,Hronek,17,1997-11-02,23,Hradec Králové,,CZE,CZE,"6' 0""",183,True,False,False,False,R,Y,Defenseman,Defenseman,D
+490,2020,17,Detroit Red Wings,8479442,Troy,Stecher,70,1994-04-07,27,Richmond,BC,CAN,CAN,"5' 10""",186,True,False,False,False,R,Y,Defenseman,Defenseman,D
+491,2020,17,Detroit Red Wings,8479992,Michael,Rasmussen,27,1999-04-17,22,Surrey,BC,CAN,CAN,"6' 6""",229,True,False,False,False,L,Y,Center,Forward,C
+492,2020,17,Detroit Red Wings,8480184,Gustav,Lindstrom,28,1998-10-20,22,Ostervala,,SWE,SWE,"6' 2""",190,True,False,False,True,R,Y,Defenseman,Defenseman,D
+493,2020,17,Detroit Red Wings,8480821,Filip,Zadina,11,1999-11-27,21,Pardubice,,CZE,CZE,"6' 0""",189,True,False,False,False,L,Y,Right Wing,Forward,RW
+494,2020,17,Detroit Red Wings,8482240,Mathias,Brome,86,1994-07-29,26,Orby,,SWE,SWE,"6' 0""",183,True,False,False,False,L,Y,Left Wing,Forward,LW
+495,2020,18,Nashville Predators,8474579,Luca,Sbisa,55,1990-01-30,31,Ozieri,,ITA,CHE,"6' 3""",206,True,False,False,False,L,Y,Defenseman,Defenseman,D
+496,2020,18,Nashville Predators,8470755,Brad,Richardson,15,1985-02-04,36,Belleville,ON,CAN,CAN,"6' 0""",190,True,False,False,False,L,Y,Right Wing,Forward,RW
+497,2020,18,Nashville Predators,8471469,Pekka,Rinne,35,1982-11-03,38,Kempele,,FIN,FIN,"6' 5""",217,True,False,False,False,L,Y,Goalie,Goalie,G
+498,2020,18,Nashville Predators,8474600,Roman,Josi,59,1990-06-01,31,Bern,,CHE,CHE,"6' 1""",201,True,False,True,False,L,Y,Defenseman,Defenseman,D
+499,2020,18,Nashville Predators,8474697,Mark,Borowiecki,90,1989-07-12,32,Ottawa,ON,CAN,CAN,"6' 2""",204,True,False,False,False,L,Y,Defenseman,Defenseman,D
+500,2020,18,Nashville Predators,8475168,Matt,Duchene,95,1991-01-16,30,Haliburton,ON,CAN,CAN,"5' 11""",195,True,False,False,False,L,Y,Center,Forward,C
+501,2020,18,Nashville Predators,8475176,Ryan,Ellis,4,1991-01-03,30,Hamilton,ON,CAN,CAN,"5' 10""",180,True,True,False,False,R,Y,Defenseman,Defenseman,D
+502,2020,18,Nashville Predators,8475218,Mattias,Ekholm,14,1990-05-24,31,Borlange,,SWE,SWE,"6' 4""",215,True,True,False,False,L,Y,Defenseman,Defenseman,D
+503,2020,18,Nashville Predators,8475287,Erik,Haula,56,1991-03-23,30,Pori,,FIN,FIN,"6' 0""",193,True,False,False,False,L,Y,Left Wing,Forward,LW
+504,2020,18,Nashville Predators,8475714,Calle,Jarnkrok,19,1991-09-25,29,Gävle,,SWE,SWE,"5' 11""",186,True,False,False,False,R,Y,Center,Forward,C
+505,2020,18,Nashville Predators,8475790,Erik,Gudbranson,44,1992-01-07,29,Ottawa,ON,CAN,CAN,"6' 5""",222,True,False,False,False,R,Y,Defenseman,Defenseman,D
+506,2020,18,Nashville Predators,8475793,Ryan,Johansen,92,1992-07-31,28,Vancouver,BC,CAN,CAN,"6' 3""",218,True,True,False,False,R,Y,Center,Forward,C
+507,2020,18,Nashville Predators,8475798,Mikael,Granlund,64,1992-02-26,29,Oulu,,FIN,FIN,"5' 10""",185,True,False,False,False,L,Y,Center,Forward,C
+508,2020,18,Nashville Predators,8476393,Nick,Cousins,21,1993-07-20,27,Belleville,ON,CAN,CAN,"5' 11""",183,True,False,False,False,L,Y,Center,Forward,C
+509,2020,18,Nashville Predators,8476428,Rocco,Grimaldi,23,1993-02-08,28,Anaheim,CA,USA,USA,"5' 6""",180,True,False,False,False,R,Y,Right Wing,Forward,RW
+510,2020,18,Nashville Predators,8476887,Filip,Forsberg,9,1994-08-13,26,Ostervala,,SWE,SWE,"6' 1""",205,True,True,False,False,R,Y,Left Wing,Forward,LW
+511,2020,18,Nashville Predators,8476925,Colton,Sissons,10,1993-11-05,27,North Vancouver,BC,CAN,CAN,"6' 1""",200,True,False,False,False,R,Y,Center,Forward,C
+512,2020,18,Nashville Predators,8476988,Matt,Benning,5,1994-05-25,27,Edmonton,AB,CAN,CAN,"6' 1""",203,True,False,False,False,R,Y,Defenseman,Defenseman,D
+513,2020,18,Nashville Predators,8477343,Tyler,Lewington,2,1994-12-05,26,Edmonton,AB,CAN,CAN,"6' 2""",200,True,False,False,True,R,Y,Defenseman,Defenseman,D
+514,2020,18,Nashville Predators,8477424,Juuse,Saros,74,1995-04-19,26,Forssa,,FIN,FIN,"5' 11""",180,True,False,False,False,L,Y,Goalie,Goalie,G
+515,2020,18,Nashville Predators,8477433,Ben,Harpur,17,1995-01-12,26,Hamilton,ON,CAN,CAN,"6' 6""",231,True,False,False,False,L,Y,Defenseman,Defenseman,D
+516,2020,18,Nashville Predators,8477446,Michael,McCarron,47,1995-03-07,26,Grosse Pointe,MI,USA,USA,"6' 6""",232,True,False,False,False,R,Y,Right Wing,Forward,RW
+517,2020,18,Nashville Predators,8478508,Yakov,Trenin,13,1997-01-13,24,Chelyabinsk,,RUS,RUS,"6' 2""",201,True,False,False,True,L,Y,Center,Forward,C
+518,2020,18,Nashville Predators,8478851,Alexandre,Carrier,45,1996-10-08,24,Quebec City,QC,CAN,CAN,"5' 11""",174,True,False,False,True,R,Y,Defenseman,Defenseman,D
+519,2020,18,Nashville Predators,8479288,Kasimir,Kaskisuo,73,1993-10-02,27,Vantaa,,FIN,FIN,"6' 3""",203,True,False,False,False,L,Y,Goalie,Goalie,G
+520,2020,18,Nashville Predators,8479316,Luke,Kunin,11,1997-12-04,23,Chesterfield,MO,USA,USA,"6' 0""",197,True,False,False,False,R,Y,Center,Forward,C
+521,2020,18,Nashville Predators,8479371,Dante,Fabbro,57,1998-06-20,23,Coquitlam,BC,CAN,CAN,"6' 0""",189,True,False,False,False,R,Y,Defenseman,Defenseman,D
+522,2020,18,Nashville Predators,8479514,Rem,Pitlick,16,1997-04-02,24,Ottawa,ON,CAN,CAN,"5' 11""",196,True,False,False,True,L,Y,Center,Forward,C
+523,2020,18,Nashville Predators,8479602,Jeremy,Davies,38,1996-12-04,24,Sainte-Anne-de-Bellevue,QC,CAN,CAN,"5' 11""",180,True,False,False,True,L,Y,Defenseman,Defenseman,D
+524,2020,18,Nashville Predators,8479661,Tanner,Jeannot,84,1997-05-29,24,Estevan,SK,CAN,CAN,"6' 2""",208,True,False,False,True,L,Y,Left Wing,Forward,LW
+525,2020,18,Nashville Predators,8479671,Mathieu,Olivier,25,1997-02-11,24,Biloxi,MS,USA,USA,"6' 2""",210,True,False,False,True,R,Y,Right Wing,Forward,RW
+526,2020,18,Nashville Predators,8480009,Eeli,Tolvanen,28,1999-04-22,22,Vihti,,FIN,FIN,"5' 10""",191,True,False,False,True,L,Y,Right Wing,Forward,RW
+527,2020,18,Nashville Predators,8480063,David,Farrance,22,1999-06-23,22,Rochester,NY,USA,USA,"5' 11""",189,True,False,False,True,L,Y,Defenseman,Defenseman,D
+528,2020,18,Nashville Predators,8481577,Philip,Tomasino,26,2001-07-28,19,Mississauga,ON,CAN,CAN,"6' 0""",179,True,False,False,True,R,Y,Center,Forward,C
+529,2020,19,St. Louis Blues,8476897,Oskar,Sundqvist,70,1994-03-23,27,Boden,,SWE,SWE,"6' 3""",209,True,False,False,False,R,Y,Center,Forward,C
+530,2020,19,St. Louis Blues,8474102,David,Perron,57,1988-05-28,33,Sherbrooke,QC,CAN,CAN,"6' 0""",200,True,False,False,False,R,Y,Left Wing,Forward,LW
+531,2020,19,St. Louis Blues,8474145,Robert,Bortuzzo,41,1989-03-18,32,Thunder Bay,ON,CAN,CAN,"6' 4""",216,True,False,False,False,R,Y,Defenseman,Defenseman,D
+532,2020,19,St. Louis Blues,8474618,Marco,Scandella,6,1990-02-23,31,Montreal,QC,CAN,CAN,"6' 3""",212,True,False,False,False,L,Y,Defenseman,Defenseman,D
+533,2020,19,St. Louis Blues,8474884,Mike,Hoffman,68,1989-11-24,31,Kitchener,ON,CAN,CAN,"6' 0""",182,True,False,False,False,L,Y,Center,Forward,C
+534,2020,19,St. Louis Blues,8475098,Tyler,Bozak,21,1986-03-19,35,Regina,SK,CAN,CAN,"6' 1""",199,True,False,False,False,R,Y,Center,Forward,C
+535,2020,19,St. Louis Blues,8475158,Ryan,O'Reilly,90,1991-02-07,30,Clinton,ON,CAN,CAN,"6' 1""",216,True,False,True,False,L,Y,Center,Forward,C
+536,2020,19,St. Louis Blues,8475160,Kyle,Clifford,13,1991-01-13,30,Ayr,ON,CAN,CAN,"6' 2""",211,True,False,False,False,L,Y,Left Wing,Forward,LW
+537,2020,19,St. Louis Blues,8475170,Brayden,Schenn,10,1991-08-22,29,Saskatoon,SK,CAN,CAN,"6' 1""",200,True,True,False,False,L,Y,Center,Forward,C
+538,2020,19,St. Louis Blues,8475753,Justin,Faulk,72,1992-03-20,29,South St. Paul,MN,USA,USA,"6' 0""",217,True,False,False,False,R,Y,Defenseman,Defenseman,D
+539,2020,19,St. Louis Blues,8475765,Vladimir,Tarasenko,91,1991-12-13,29,Yaroslavl,,RUS,RUS,"6' 0""",225,True,True,False,False,L,Y,Right Wing,Forward,RW
+540,2020,19,St. Louis Blues,8475768,Jaden,Schwartz,17,1992-06-25,29,Wilcox,SK,CAN,CAN,"5' 10""",190,True,False,False,False,L,Y,Left Wing,Forward,LW
+541,2020,19,St. Louis Blues,8476412,Jordan,Binnington,50,1993-07-11,28,Richmond Hill,ON,CAN,CAN,"6' 1""",174,True,False,False,False,L,Y,Goalie,Goalie,G
+542,2020,19,St. Louis Blues,8476792,Torey,Krug,47,1991-04-12,30,Livonia,MI,USA,USA,"5' 9""",186,True,False,False,False,L,Y,Defenseman,Defenseman,D
+543,2020,19,St. Louis Blues,8476892,Colton,Parayko,55,1993-05-12,28,St. Albert,AB,CAN,CAN,"6' 6""",230,True,True,False,False,R,Y,Defenseman,Defenseman,D
+544,2020,19,St. Louis Blues,8476907,Mackenzie,MacEachern,28,1994-03-09,27,Bloomfield Hills,MI,USA,USA,"6' 2""",190,True,False,False,False,L,Y,Left Wing,Forward,LW
+545,2020,19,St. Louis Blues,8477463,Steven,Santini,36,1995-03-07,26,Bronxville,NY,USA,USA,"6' 2""",205,True,False,False,False,R,Y,Defenseman,Defenseman,D
+546,2020,19,St. Louis Blues,8477482,Zach,Sanford,12,1994-11-09,26,Salem,MA,USA,USA,"6' 4""",207,True,False,False,False,L,Y,Left Wing,Forward,LW
+547,2020,19,St. Louis Blues,8477964,Ivan,Barbashev,49,1995-12-14,25,Moscow,,RUS,RUS,"6' 0""",187,True,False,False,False,L,Y,Center,Forward,C
+548,2020,19,St. Louis Blues,8478013,Jake,Walman,46,1996-02-20,25,Toronto,ON,CAN,CAN,"6' 1""",210,True,False,False,True,L,Y,Defenseman,Defenseman,D
+549,2020,19,St. Louis Blues,8478024,Ville,Husso,35,1995-02-06,26,Helsinki,,FIN,FIN,"6' 3""",205,True,False,False,True,L,Y,Goalie,Goalie,G
+550,2020,19,St. Louis Blues,8478104,Sammy,Blais,9,1996-06-17,25,Montmagny,QC,CAN,CAN,"6' 2""",205,True,False,False,False,L,Y,Left Wing,Forward,LW
+551,2020,19,St. Louis Blues,8478407,Vince,Dunn,29,1996-10-29,24,Mississauga,ON,CAN,CAN,"6' 0""",203,True,False,False,False,L,Y,Defenseman,Defenseman,D
+552,2020,19,St. Louis Blues,8478859,Niko,Mikkola,77,1996-04-27,25,,,FIN,FIN,"6' 4""",185,True,False,False,True,L,Y,Defenseman,Defenseman,D
+553,2020,19,St. Louis Blues,8479385,Jordan,Kyrou,25,1998-05-05,23,Toronto,ON,CAN,CAN,"6' 0""",195,True,False,False,False,R,Y,Center,Forward,C
+554,2020,19,St. Louis Blues,8480011,Klim,Kostin,37,1999-05-05,22,Penza,,RUS,RUS,"6' 3""",212,True,False,False,True,L,Y,Center,Forward,C
+555,2020,19,St. Louis Blues,8480023,Robert,Thomas,18,1999-07-02,22,Aurora,ON,CAN,CAN,"6' 0""",188,True,False,False,False,R,Y,Center,Forward,C
+556,2020,20,Calgary Flames,8474736,Zac,Rinaldo,36,1990-06-15,31,Mississauga,ON,CAN,CAN,"5' 10""",192,True,False,False,False,L,Y,Center,Forward,C
+557,2020,20,Calgary Flames,8481501,Artyom,Zagidulin,50,1995-08-08,25,Magnitogorsk,,RUS,RUS,"6' 2""",180,True,False,False,True,L,Y,Goalie,Goalie,G
+558,2020,20,Calgary Flames,8470966,Mark,Giordano,5,1983-10-03,37,Toronto,ON,CAN,CAN,"6' 1""",200,True,False,True,False,L,Y,Defenseman,Defenseman,D
+559,2020,20,Calgary Flames,8473473,Milan,Lucic,17,1988-06-07,33,Vancouver,BC,CAN,CAN,"6' 3""",231,True,False,False,False,L,Y,Left Wing,Forward,LW
+560,2020,20,Calgary Flames,8474150,Mikael,Backlund,11,1989-03-17,32,Vasteras,,SWE,SWE,"6' 0""",200,True,False,False,False,L,Y,Center,Forward,C
+561,2020,20,Calgary Flames,8474593,Jacob,Markstrom,25,1990-01-31,31,Gävle,,SWE,SWE,"6' 6""",206,True,False,False,False,L,Y,Goalie,Goalie,G
+562,2020,20,Calgary Flames,8474628,Michael,Stone,26,1990-06-07,31,Winnipeg,MB,CAN,CAN,"6' 3""",210,True,False,False,False,R,Y,Defenseman,Defenseman,D
+563,2020,20,Calgary Flames,8475278,Byron,Froese,38,1991-03-12,30,Winkler,MB,CAN,CAN,"6' 1""",202,True,False,False,False,R,Y,Center,Forward,C
+564,2020,20,Calgary Flames,8475690,Christopher,Tanev,8,1989-12-20,31,Toronto,ON,CAN,CAN,"6' 2""",197,True,False,False,False,R,Y,Defenseman,Defenseman,D
+565,2020,20,Calgary Flames,8475807,Joakim,Nordstrom,20,1992-02-25,29,Stockholm,,SWE,SWE,"6' 1""",194,True,False,False,False,L,Y,Center,Forward,C
+566,2020,20,Calgary Flames,8475839,Louis,Domingue,70,1992-03-06,29,St-Hyacinthe,QC,CAN,CAN,"6' 3""",208,True,False,False,False,R,Y,Goalie,Goalie,G
+567,2020,20,Calgary Flames,8476300,Nikita,Nesterov,89,1993-03-28,28,Chelyabinsk,,RUS,RUS,"5' 11""",191,True,False,False,False,L,Y,Defenseman,Defenseman,D
+568,2020,20,Calgary Flames,8476346,Johnny,Gaudreau,13,1993-08-13,27,Salem,NJ,USA,USA,"5' 9""",165,True,False,False,False,L,Y,Left Wing,Forward,LW
+569,2020,20,Calgary Flames,8476410,Josh,Leivo,27,1993-05-26,28,Innisfil,ON,CAN,CAN,"6' 2""",192,True,False,False,False,R,Y,Left Wing,Forward,LW
+570,2020,20,Calgary Flames,8476439,Brett,Ritchie,24,1993-07-01,28,Orangeville,ON,CAN,CAN,"6' 4""",220,True,False,False,False,R,Y,Right Wing,Forward,RW
+571,2020,20,Calgary Flames,8477210,Buddy,Robinson,53,1991-09-30,29,Bellmawr,NJ,USA,USA,"6' 6""",232,True,False,False,False,R,Y,Right Wing,Forward,RW
+572,2020,20,Calgary Flames,8477496,Elias,Lindholm,28,1994-12-02,26,Boden,,SWE,SWE,"6' 1""",195,True,False,False,False,R,Y,Center,Forward,C
+573,2020,20,Calgary Flames,8477497,Sean,Monahan,23,1994-10-12,26,Brampton,ON,CAN,CAN,"6' 2""",200,True,False,False,False,L,Y,Center,Forward,C
+574,2020,20,Calgary Flames,8478233,Andrew,Mangiapane,88,1996-04-04,25,Toronto,ON,CAN,CAN,"5' 10""",184,True,False,False,False,L,Y,Left Wing,Forward,LW
+575,2020,20,Calgary Flames,8478396,Noah,Hanifin,55,1997-01-25,24,Boston,MA,USA,USA,"6' 3""",215,True,False,False,False,L,Y,Defenseman,Defenseman,D
+576,2020,20,Calgary Flames,8478397,Rasmus,Andersson,4,1996-10-27,24,Malmö,,SWE,SWE,"6' 1""",214,True,False,False,False,R,Y,Defenseman,Defenseman,D
+577,2020,20,Calgary Flames,8478430,Oliver,Kylington,58,1997-05-19,24,Stockholm,,SWE,SWE,"6' 0""",183,True,False,False,False,L,Y,Defenseman,Defenseman,D
+578,2020,20,Calgary Flames,8478446,Glenn,Gawdin,42,1997-03-25,24,Richmond,BC,CAN,CAN,"6' 1""",191,True,False,False,True,R,Y,Center,Forward,C
+579,2020,20,Calgary Flames,8478585,Derek,Ryan,10,1986-12-29,34,Spokane,WA,USA,USA,"5' 10""",185,True,False,False,False,R,Y,Center,Forward,C
+580,2020,20,Calgary Flames,8478866,Dominik,Simon,81,1994-08-08,26,Prague,,CZE,CZE,"5' 11""",190,True,False,False,False,L,Y,Center,Forward,C
+581,2020,20,Calgary Flames,8479314,Matthew,Tkachuk,19,1997-12-11,23,Scottsdale,AZ,USA,USA,"6' 2""",202,True,False,False,False,L,Y,Left Wing,Forward,LW
+582,2020,20,Calgary Flames,8479346,Dillon,Dube,29,1998-07-20,22,Golden,BC,CAN,CAN,"5' 11""",187,True,False,False,False,L,Y,Center,Forward,C
+583,2020,20,Calgary Flames,8479547,Matthew,Phillips,41,1998-04-06,23,Calgary,AB,CAN,CAN,"5' 7""",140,True,False,False,True,R,Y,Center,Forward,C
+584,2020,20,Calgary Flames,8479976,Juuso,Valimaki,6,1998-10-06,22,Tampere,,FIN,FIN,"6' 2""",212,True,False,False,True,L,Y,Defenseman,Defenseman,D
+585,2020,20,Calgary Flames,8480008,Adam,Ruzicka,63,1999-05-11,22,Bratislava,,SVK,SVK,"6' 4""",202,True,False,False,True,L,Y,Center,Forward,C
+586,2020,20,Calgary Flames,8482067,Connor,Mackey,3,1996-09-12,24,Tower Lake,IL,USA,USA,"6' 2""",190,True,False,False,True,L,Y,Defenseman,Defenseman,D
+587,2020,21,Colorado Avalanche,8473446,Erik,Johnson,6,1988-03-21,33,Bloomington,MN,USA,USA,"6' 4""",225,True,True,False,False,R,Y,Defenseman,Defenseman,D
+588,2020,21,Colorado Avalanche,8474685,Matt,Calvert,11,1989-12-24,31,Brandon,MB,CAN,CAN,"5' 11""",186,True,False,False,False,L,Y,Left Wing,Forward,LW
+589,2020,21,Colorado Avalanche,8480925,Pavel,Francouz,39,1990-06-03,31,Plzen,,CZE,CZE,"6' 0""",179,True,False,False,False,R,Y,Goalie,Goalie,G
+590,2020,21,Colorado Avalanche,8471227,Devan,Dubnyk,40,1986-05-04,35,Regina,SK,CAN,CAN,"6' 6""",224,True,False,False,False,L,Y,Goalie,Goalie,G
+591,2020,21,Colorado Avalanche,8471262,Carl,Soderberg,34,1985-10-12,35,Malmö,,SWE,SWE,"6' 3""",210,True,False,False,False,L,Y,Center,Forward,C
+592,2020,21,Colorado Avalanche,8475172,Nazem,Kadri,91,1990-10-06,30,London,ON,CAN,CAN,"6' 0""",192,True,False,False,False,L,Y,Center,Forward,C
+593,2020,21,Colorado Avalanche,8475747,Patrik,Nemeth,24,1992-02-08,29,Stockholm,,SWE,SWE,"6' 3""",228,True,False,False,False,L,Y,Defenseman,Defenseman,D
+594,2020,21,Colorado Avalanche,8475820,Joonas,Donskoi,72,1992-04-13,29,Raahe,,FIN,FIN,"6' 0""",190,True,False,False,False,R,Y,Right Wing,Forward,RW
+595,2020,21,Colorado Avalanche,8475831,Philipp,Grubauer,31,1991-11-25,29,Rosenheim,,DEU,DEU,"6' 1""",188,True,False,False,False,L,Y,Goalie,Goalie,G
+596,2020,21,Colorado Avalanche,8476438,Brandon,Saad,20,1992-10-27,28,Pittsburgh,PA,USA,USA,"6' 1""",206,True,False,False,False,L,Y,Left Wing,Forward,LW
+597,2020,21,Colorado Avalanche,8476455,Gabriel,Landeskog,92,1992-11-23,28,Stockholm,,SWE,SWE,"6' 1""",215,True,False,True,False,L,Y,Left Wing,Forward,LW
+598,2020,21,Colorado Avalanche,8477070,Liam,O'Brien,38,1994-07-29,26,Halifax,NS,CAN,CAN,"6' 1""",213,True,False,False,False,L,Y,Center,Forward,C
+599,2020,21,Colorado Avalanche,8477126,Jayson,Megna,12,1990-02-01,31,Fort Lauderdale,FL,USA,USA,"6' 1""",195,True,False,False,False,R,Y,Center,Forward,C
+600,2020,21,Colorado Avalanche,8477435,Ryan,Graves,27,1995-05-21,26,Yarmouth,NS,CAN,CAN,"6' 5""",220,True,False,False,False,L,Y,Defenseman,Defenseman,D
+601,2020,21,Colorado Avalanche,8477444,Andre,Burakovsky,95,1995-02-09,26,Klagenfurt,,AUT,SWE,"6' 3""",201,True,False,False,False,L,Y,Left Wing,Forward,LW
+602,2020,21,Colorado Avalanche,8477456,J.T.,Compher,37,1995-04-08,26,Northbrook,IL,USA,USA,"6' 0""",190,True,False,False,False,R,Y,Left Wing,Forward,LW
+603,2020,21,Colorado Avalanche,8477492,Nathan,MacKinnon,29,1995-09-01,25,Halifax,NS,CAN,CAN,"6' 0""",200,True,True,False,False,R,Y,Center,Forward,C
+604,2020,21,Colorado Avalanche,8477501,Valeri,Nichushkin,13,1995-03-04,26,Chelyabinsk,,RUS,RUS,"6' 4""",210,True,False,False,False,L,Y,Right Wing,Forward,RW
+605,2020,21,Colorado Avalanche,8477930,Pierre-Edouard,Bellemare,41,1985-03-06,36,Le Blanc-Mesnil,,FRA,FRA,"6' 0""",198,True,False,False,False,L,Y,Center,Forward,C
+606,2020,21,Colorado Avalanche,8477992,Jonas,Johansson,35,1995-09-19,25,Gävle,,SWE,SWE,"6' 5""",220,True,False,False,True,L,Y,Goalie,Goalie,G
+607,2020,21,Colorado Avalanche,8478038,Devon,Toews,7,1994-02-21,27,Abbotsford,BC,CAN,CAN,"6' 1""",191,True,False,False,False,L,Y,Defenseman,Defenseman,D
+608,2020,21,Colorado Avalanche,8478420,Mikko,Rantanen,96,1996-10-29,24,Nousiainen,,FIN,FIN,"6' 4""",215,True,False,False,False,L,Y,Right Wing,Forward,RW
+609,2020,21,Colorado Avalanche,8478502,Dennis,Gilbert,9,1996-10-30,24,Buffalo,NY,USA,USA,"6' 2""",216,True,False,False,True,L,Y,Defenseman,Defenseman,D
+610,2020,21,Colorado Avalanche,8479252,Dan,Renouf,2,1994-06-01,27,Pickering,ON,CAN,CAN,"6' 3""",198,True,False,False,False,L,Y,Defenseman,Defenseman,D
+611,2020,21,Colorado Avalanche,8479370,Tyson,Jost,17,1998-03-14,23,St. Albert,AB,CAN,CAN,"5' 11""",187,True,False,False,False,L,Y,Center,Forward,C
+612,2020,21,Colorado Avalanche,8479398,Samuel,Girard,49,1998-05-12,23,Roberval,QC,CAN,CAN,"5' 10""",170,True,False,False,False,L,Y,Defenseman,Defenseman,D
+613,2020,21,Colorado Avalanche,8479439,Jacob,MacDonald,26,1993-02-26,28,Portland,OR,USA,USA,"6' 0""",204,True,False,False,False,L,Y,Defenseman,Defenseman,D
+614,2020,21,Colorado Avalanche,8479982,Conor,Timmins,22,1998-09-18,22,St. Catharines,ON,CAN,CAN,"6' 2""",185,True,False,False,True,R,Y,Defenseman,Defenseman,D
+615,2020,21,Colorado Avalanche,8480069,Cale,Makar,8,1998-10-30,22,Calgary,AB,CAN,CAN,"5' 11""",187,True,False,False,False,R,Y,Defenseman,Defenseman,D
+616,2020,21,Colorado Avalanche,8480748,Kiefer,Sherwood,44,1995-03-31,26,Columbus,OH,USA,USA,"6' 0""",194,True,False,False,False,R,Y,Left Wing,Forward,LW
+617,2020,21,Colorado Avalanche,8480846,Sampo,Ranta,75,2000-05-31,21,Naantali,,FIN,FIN,"6' 2""",195,True,False,False,True,L,Y,Left Wing,Forward,LW
+618,2020,21,Colorado Avalanche,8481186,Logan,O'Connor,25,1996-08-14,24,Missouri City,TX,USA,USA,"6' 0""",175,True,False,False,True,R,Y,Right Wing,Forward,RW
+619,2020,21,Colorado Avalanche,8481524,Bowen,Byram,4,2001-06-13,20,Cranbrook,BC,CAN,CAN,"6' 1""",190,True,False,False,True,L,Y,Defenseman,Defenseman,D
+620,2020,21,Colorado Avalanche,8481618,Alex,Newhook,18,2001-01-28,20,St. John's,NL,CAN,CAN,"5' 10""",190,True,False,False,True,L,Y,Center,Forward,C
+621,2020,22,Edmonton Oilers,8469608,Mike,Smith,41,1982-03-22,39,Kingston,ON,CAN,CAN,"6' 5""",220,True,False,False,False,L,Y,Goalie,Goalie,G
+622,2020,22,Edmonton Oilers,8470281,Duncan,Keith,2,1983-07-16,37,Winnipeg,MB,CAN,CAN,"6' 1""",192,True,False,False,False,L,Y,Defenseman,Defenseman,D
+623,2020,22,Edmonton Oilers,8471707,James,Neal,18,1987-09-03,33,Whitby,ON,CAN,CAN,"6' 3""",212,True,False,False,False,L,Y,Left Wing,Forward,LW
+624,2020,22,Edmonton Oilers,8471729,Kris,Russell,4,1987-05-02,34,Caroline,AB,CAN,CAN,"5' 10""",170,True,False,False,False,L,Y,Defenseman,Defenseman,D
+625,2020,22,Edmonton Oilers,8471774,Alex,Stalock,32,1987-07-28,33,Saint Paul,MN,USA,USA,"5' 11""",170,True,False,False,False,L,Y,Goalie,Goalie,G
+626,2020,22,Edmonton Oilers,8474068,Kyle,Turris,8,1989-08-14,31,New Westminster,BC,CAN,CAN,"6' 1""",190,True,False,False,False,R,Y,Center,Forward,C
+627,2020,22,Edmonton Oilers,8474589,Tyler,Ennis,63,1989-10-06,31,Edmonton,AB,CAN,CAN,"5' 9""",161,True,False,False,False,L,Y,Center,Forward,C
+628,2020,22,Edmonton Oilers,8475156,Mikko,Koskinen,19,1988-07-18,32,Vantaa,,FIN,FIN,"6' 7""",202,True,False,False,False,L,Y,Goalie,Goalie,G
+629,2020,22,Edmonton Oilers,8475163,Alex,Chiasson,39,1990-10-01,30,Montreal,QC,CAN,CAN,"6' 4""",208,True,False,False,False,R,Y,Right Wing,Forward,RW
+630,2020,22,Edmonton Oilers,8475178,Zack,Kassian,44,1991-01-24,30,Windsor,ON,CAN,CAN,"6' 3""",211,True,False,False,False,R,Y,Right Wing,Forward,RW
+631,2020,22,Edmonton Oilers,8475179,Dmitry,Kulikov,70,1990-10-29,30,Lipetsk,,RUS,RUS,"6' 1""",204,True,False,False,False,L,Y,Defenseman,Defenseman,D
+632,2020,22,Edmonton Oilers,8475197,Tyson,Barrie,22,1991-07-26,29,Victoria,BC,CAN,CAN,"5' 11""",197,True,False,False,False,R,Y,Defenseman,Defenseman,D
+633,2020,22,Edmonton Oilers,8476326,Josh,Archibald,15,1992-10-06,28,Regina,SK,CAN,CAN,"5' 10""",176,True,False,False,False,R,Y,Right Wing,Forward,RW
+634,2020,22,Edmonton Oilers,8476454,Ryan,Nugent-Hopkins,93,1993-04-12,28,Burnaby,BC,CAN,CAN,"6' 0""",184,True,True,False,False,L,Y,Center,Forward,C
+635,2020,22,Edmonton Oilers,8476457,Adam,Larsson,6,1992-11-12,28,Skellefteå,,SWE,SWE,"6' 3""",208,True,True,False,False,R,Y,Defenseman,Defenseman,D
+636,2020,22,Edmonton Oilers,8476886,Slater,Koekkoek,20,1994-02-18,27,Winchester,ON,CAN,CAN,"6' 2""",193,True,False,False,False,L,Y,Defenseman,Defenseman,D
+637,2020,22,Edmonton Oilers,8476913,Devin,Shore,14,1994-07-19,26,Ajax,ON,CAN,CAN,"6' 1""",206,True,False,False,False,L,Y,Center,Forward,C
+638,2020,22,Edmonton Oilers,8476915,Jujhar,Khaira,16,1994-08-13,26,Surrey,BC,CAN,CAN,"6' 4""",212,True,False,False,False,L,Y,Left Wing,Forward,LW
+639,2020,22,Edmonton Oilers,8477498,Darnell,Nurse,25,1995-02-04,26,Hamilton,ON,CAN,CAN,"6' 4""",221,True,True,False,False,L,Y,Defenseman,Defenseman,D
+640,2020,22,Edmonton Oilers,8477934,Leon,Draisaitl,29,1995-10-27,25,Cologne,,DEU,DEU,"6' 2""",208,True,True,False,False,L,Y,Center,Forward,C
+641,2020,22,Edmonton Oilers,8478021,William,Lagesson,84,1996-02-22,25,Gothenburg,,SWE,SWE,"6' 2""",207,True,False,False,True,L,Y,Defenseman,Defenseman,D
+642,2020,22,Edmonton Oilers,8478402,Connor,McDavid,97,1997-01-13,24,Richmond Hill,ON,CAN,CAN,"6' 1""",193,True,False,True,False,L,Y,Center,Forward,C
+643,2020,22,Edmonton Oilers,8478451,Ethan,Bear,74,1997-06-26,24,Regina,SK,CAN,CAN,"5' 11""",197,True,False,False,False,R,Y,Defenseman,Defenseman,D
+644,2020,22,Edmonton Oilers,8479344,Jesse,Puljujarvi,13,1998-05-07,23,Alvkarleby,,SWE,FIN,"6' 4""",201,True,False,False,False,R,Y,Right Wing,Forward,RW
+645,2020,22,Edmonton Oilers,8479466,Patrick,Russell,52,1993-01-04,28,Holte,,DNK,DNK,"6' 1""",203,True,False,False,False,R,Y,Right Wing,Forward,RW
+646,2020,22,Edmonton Oilers,8479977,Kailer,Yamamoto,56,1998-09-29,22,Spokane,WA,USA,USA,"5' 8""",153,True,False,False,False,R,Y,Right Wing,Forward,RW
+647,2020,22,Edmonton Oilers,8480802,Ryan,McLeod,71,1999-09-21,21,Mississauga,ON,CAN,CAN,"6' 2""",207,True,False,False,True,L,Y,Center,Forward,C
+648,2020,22,Edmonton Oilers,8480803,Evan,Bouchard,75,1999-10-20,21,Oakville,ON,CAN,CAN,"6' 3""",194,True,False,False,True,R,Y,Defenseman,Defenseman,D
+649,2020,22,Edmonton Oilers,8480946,Dominik,Kahun,21,1995-07-02,26,Plana,,CZE,DEU,"5' 11""",175,True,False,False,False,L,Y,Center,Forward,C
+650,2020,22,Edmonton Oilers,8481598,Philip,Broberg,86,2001-06-25,20,Orebro,,SWE,SWE,"6' 3""",199,True,False,False,True,L,Y,Defenseman,Defenseman,D
+651,2020,22,Edmonton Oilers,8481638,Joakim,Nygard,10,1993-01-08,28,Stockholm,,SWE,SWE,"6' 0""",179,True,False,False,False,L,Y,Left Wing,Forward,LW
+652,2020,22,Edmonton Oilers,8481813,Gaetan,Haas,91,1992-01-31,29,Biel-Bienne,,CHE,CHE,"6' 0""",181,True,False,False,False,R,Y,Center,Forward,C
+653,2020,23,Vancouver Canucks,8474291,Jay,Beagle,83,1985-10-16,35,Calgary,AB,CAN,CAN,"6' 3""",210,True,False,False,False,R,I,Center,Forward,C
+654,2020,23,Vancouver Canucks,8477473,Justin,Bailey,95,1995-07-01,26,Buffalo,NY,USA,USA,"6' 4""",214,True,False,False,False,R,I,Right Wing,Forward,RW
+655,2020,23,Vancouver Canucks,8480012,Elias,Pettersson,40,1998-11-12,22,Sundsvall,,SWE,SWE,"6' 2""",176,True,False,False,False,L,I,Center,Forward,C
+656,2020,23,Vancouver Canucks,8477474,Madison,Bowey,4,1995-04-22,26,Winnipeg,MB,CAN,CAN,"6' 2""",202,True,False,False,False,R,Y,Defenseman,Defenseman,D
+657,2020,23,Vancouver Canucks,8471303,Alexander,Edler,23,1986-04-21,35,Ostersund,,SWE,SWE,"6' 3""",212,True,False,False,False,L,Y,Defenseman,Defenseman,D
+658,2020,23,Vancouver Canucks,8474091,Brandon,Sutter,20,1989-02-14,32,Huntington,NY,USA,CAN,"6' 3""",190,True,False,False,False,R,Y,Center,Forward,C
+659,2020,23,Vancouver Canucks,8474574,Tyler,Myers,57,1990-02-01,31,Houston,TX,USA,CAN,"6' 8""",229,True,False,False,False,R,Y,Defenseman,Defenseman,D
+660,2020,23,Vancouver Canucks,8474612,Travis,Hamonic,27,1990-08-16,30,St. Malo,MB,CAN,CAN,"6' 2""",205,True,False,False,False,R,Y,Defenseman,Defenseman,D
+661,2020,23,Vancouver Canucks,8474651,Braden,Holtby,49,1989-09-16,31,Lloydminster,SK,CAN,CAN,"6' 2""",214,True,False,False,False,L,Y,Goalie,Goalie,G
+662,2020,23,Vancouver Canucks,8474849,Antoine,Roussel,26,1989-11-21,31,Roubaix,,FRA,FRA,"5' 11""",199,True,False,False,False,L,Y,Left Wing,Forward,LW
+663,2020,23,Vancouver Canucks,8476329,Travis,Boyd,72,1993-09-14,27,Hopkins,MN,USA,USA,"6' 0""",190,True,False,False,False,R,Y,Center,Forward,C
+664,2020,23,Vancouver Canucks,8476344,Tyler,Graovac,44,1993-04-27,28,Brampton,ON,CAN,CAN,"6' 5""",208,True,False,False,False,L,Y,Center,Forward,C
+665,2020,23,Vancouver Canucks,8476468,J.T.,Miller,9,1993-03-14,28,East Palestine,OH,USA,USA,"6' 1""",218,True,False,False,False,L,Y,Center,Forward,C
+666,2020,23,Vancouver Canucks,8476871,Tanner,Pearson,70,1992-08-10,28,Kitchener,ON,CAN,CAN,"6' 1""",201,True,False,False,False,L,Y,Left Wing,Forward,LW
+667,2020,23,Vancouver Canucks,8476918,Jimmy,Vesey,24,1993-05-26,28,Boston,MA,USA,USA,"6' 3""",202,True,False,False,False,L,Y,Left Wing,Forward,LW
+668,2020,23,Vancouver Canucks,8477220,Nate,Schmidt,88,1991-07-16,29,St. Cloud,MN,USA,USA,"6' 0""",194,True,False,False,False,L,Y,Defenseman,Defenseman,D
+669,2020,23,Vancouver Canucks,8477353,Tyler,Motte,64,1995-03-10,26,St. Clair,MI,USA,USA,"5' 10""",192,True,False,False,False,L,Y,Center,Forward,C
+670,2020,23,Vancouver Canucks,8477500,Bo,Horvat,53,1995-04-05,26,London,ON,CAN,CAN,"6' 0""",215,True,False,False,False,L,Y,Center,Forward,C
+671,2020,23,Vancouver Canucks,8477937,Jake,Virtanen,18,1996-08-17,24,Langley,BC,CAN,CAN,"6' 1""",226,True,False,False,False,R,Y,Right Wing,Forward,RW
+672,2020,23,Vancouver Canucks,8477963,Jayce,Hawryluk,13,1996-01-01,25,Yorkton,SK,CAN,CAN,"5' 11""",196,True,False,False,False,R,Y,Center,Forward,C
+673,2020,23,Vancouver Canucks,8477967,Thatcher,Demko,35,1995-12-08,25,San Diego,CA,USA,USA,"6' 4""",192,True,False,False,False,L,Y,Goalie,Goalie,G
+674,2020,23,Vancouver Canucks,8478146,Matthew,Highmore,15,1996-02-27,25,Halifax,NS,CAN,CAN,"5' 11""",188,True,False,False,False,L,Y,Center,Forward,C
+675,2020,23,Vancouver Canucks,8478444,Brock,Boeser,6,1997-02-25,24,Burnsville,MN,USA,USA,"6' 1""",208,True,False,False,False,R,Y,Right Wing,Forward,RW
+676,2020,23,Vancouver Canucks,8478970,Jalen,Chatfield,63,1996-05-15,25,Ypsilanti,MI,USA,USA,"6' 1""",188,True,False,False,True,R,Y,Defenseman,Defenseman,D
+677,2020,23,Vancouver Canucks,8479355,Olli,Juolevi,48,1998-05-05,23,Helsinki,,FIN,FIN,"6' 2""",182,True,False,False,True,L,Y,Defenseman,Defenseman,D
+678,2020,23,Vancouver Canucks,8479367,William,Lockwood,,1998-06-20,23,Royal Oak,MI,USA,USA,"5' 11""",172,True,False,False,True,R,Y,Right Wing,Forward,RW
+679,2020,23,Vancouver Canucks,8479772,Zack,MacEwen,71,1996-07-08,25,Charlottetown,PE,CAN,CAN,"6' 3""",205,True,False,False,True,R,Y,Center,Forward,C
+680,2020,23,Vancouver Canucks,8479986,Kole,Lind,78,1998-10-16,22,Swift Current,SK,CAN,CAN,"6' 1""",178,True,False,False,True,R,Y,Right Wing,Forward,RW
+681,2020,23,Vancouver Canucks,8480056,Jack,Rathbone,3,1999-05-20,22,Boston,MA,USA,USA,"5' 10""",177,True,False,False,True,L,Y,Defenseman,Defenseman,D
+682,2020,23,Vancouver Canucks,8480800,Quinn,Hughes,43,1999-10-14,21,Orlando,FL,USA,USA,"5' 10""",180,True,False,False,False,L,Y,Defenseman,Defenseman,D
+683,2020,23,Vancouver Canucks,8481535,Nils,Hoglander,36,2000-12-20,20,BOCKTRäSK,,SWE,SWE,"5' 9""",185,True,False,False,True,L,Y,Left Wing,Forward,LW
+684,2020,23,Vancouver Canucks,8482063,Marc,Michaelis,56,1995-07-31,25,Mannheim,,DEU,DEU,"5' 11""",187,True,False,False,True,L,Y,Left Wing,Forward,LW
+685,2020,24,Anaheim Ducks,8477947,Sonny,Milano,12,1996-05-12,25,Massapequa,NY,USA,USA,"6' 0""",194,True,False,False,False,L,I,Left Wing,Forward,LW
+686,2020,24,Anaheim Ducks,8475842,Sam,Carrick,39,1992-02-04,29,Markham,ON,CAN,CAN,"6' 0""",205,True,False,False,False,R,Y,Center,Forward,C
+687,2020,24,Anaheim Ducks,8481533,Trevor,Zegras,46,2001-03-20,20,Bedford,NY,USA,USA,"6' 0""",182,True,False,False,True,L,Y,Center,Forward,C
+688,2020,24,Anaheim Ducks,8482142,Jamie,Drysdale,34,2002-04-08,19,Toronto,ON,CAN,CAN,"5' 11""",175,True,False,False,True,R,Y,Defenseman,Defenseman,D
+689,2020,24,Anaheim Ducks,8468011,Ryan,Miller,30,1980-07-17,40,East Lansing,MI,USA,USA,"6' 2""",170,True,False,False,False,L,Y,Goalie,Goalie,G
+690,2020,24,Anaheim Ducks,8470612,Ryan,Getzlaf,15,1985-05-10,36,Regina,SK,CAN,CAN,"6' 3""",228,True,False,True,False,R,Y,Center,Forward,C
+691,2020,24,Anaheim Ducks,8470655,David,Backes,21,1984-05-01,37,Minneapolis,MN,USA,USA,"6' 3""",215,True,False,False,False,R,Y,Right Wing,Forward,RW
+692,2020,24,Anaheim Ducks,8474031,Kevin,Shattenkirk,22,1989-01-29,32,New Rochelle,NY,USA,USA,"6' 0""",203,True,False,False,False,R,Y,Defenseman,Defenseman,D
+693,2020,24,Anaheim Ducks,8474641,Adam,Henrique,14,1990-02-06,31,Brantford,ON,CAN,CAN,"6' 0""",188,True,False,False,False,L,Y,Center,Forward,C
+694,2020,24,Anaheim Ducks,8474683,Derek,Grant,38,1990-04-20,31,Abbotsford,BC,CAN,CAN,"6' 3""",206,True,False,False,False,L,Y,Center,Forward,C
+695,2020,24,Anaheim Ducks,8475164,Jakob,Silfverberg,33,1990-10-13,30,Gävle,,SWE,SWE,"6' 0""",208,True,True,False,False,R,Y,Right Wing,Forward,RW
+696,2020,24,Anaheim Ducks,8475235,Nicolas,Deslauriers,20,1991-02-22,30,LaSalle,QC,CAN,CAN,"6' 3""",219,True,False,False,False,L,Y,Left Wing,Forward,LW
+697,2020,24,Anaheim Ducks,8475764,Cam,Fowler,4,1991-12-05,29,Windsor,ON,CAN,USA,"6' 1""",207,True,False,False,False,L,Y,Defenseman,Defenseman,D
+698,2020,24,Anaheim Ducks,8476312,Josh,Manson,42,1991-10-07,29,Hinsdale,IL,USA,CAN,"6' 3""",224,True,True,False,False,R,Y,Defenseman,Defenseman,D
+699,2020,24,Anaheim Ducks,8476407,Andy,Welinski,45,1993-04-27,28,Duluth,MN,USA,USA,"6' 1""",201,True,False,False,False,R,Y,Defenseman,Defenseman,D
+700,2020,24,Anaheim Ducks,8476434,John,Gibson,36,1993-07-14,28,Pittsburgh,PA,USA,USA,"6' 2""",207,True,False,False,False,L,Y,Goalie,Goalie,G
+701,2020,24,Anaheim Ducks,8476483,Rickard,Rakell,67,1993-05-05,28,Sundbyberg,,SWE,SWE,"6' 0""",196,True,False,False,False,R,Y,Left Wing,Forward,LW
+702,2020,24,Anaheim Ducks,8476854,Hampus,Lindholm,47,1994-01-20,27,Helsingborg,,SWE,SWE,"6' 3""",208,True,False,False,False,L,Y,Defenseman,Defenseman,D
+703,2020,24,Anaheim Ducks,8476932,Anthony,Stolarz,41,1994-01-20,27,Edison,NJ,USA,USA,"6' 5""",230,True,False,False,False,L,Y,Goalie,Goalie,G
+704,2020,24,Anaheim Ducks,8477240,Carter,Rowney,24,1989-05-10,32,Grande Prairie,AB,CAN,CAN,"6' 1""",208,True,False,False,False,R,Y,Center,Forward,C
+705,2020,24,Anaheim Ducks,8477938,Haydn,Fleury,51,1996-07-08,25,Carlyle,SK,CAN,CAN,"6' 3""",208,True,False,False,False,L,Y,Defenseman,Defenseman,D
+706,2020,24,Anaheim Ducks,8478046,Danton,Heinen,43,1995-07-05,26,Langley,BC,CAN,CAN,"6' 1""",188,True,False,False,False,L,Y,Left Wing,Forward,LW
+707,2020,24,Anaheim Ducks,8478491,Jacob,Larsson,32,1997-04-29,24,Ljungby,,SWE,SWE,"6' 2""",190,True,False,False,False,L,Y,Defenseman,Defenseman,D
+708,2020,24,Anaheim Ducks,8478873,Troy,Terry,61,1997-09-10,23,Denver,CO,USA,USA,"6' 0""",180,True,False,False,False,R,Y,Right Wing,Forward,RW
+709,2020,24,Anaheim Ducks,8479351,Sam,Steel,23,1998-02-03,23,Ardrossan,AB,CAN,CAN,"5' 11""",189,True,False,False,False,L,Y,Center,Forward,C
+710,2020,24,Anaheim Ducks,8479368,Max,Jones,49,1998-02-17,23,Rochester,MI,USA,USA,"6' 1""",220,True,False,False,False,L,Y,Left Wing,Forward,LW
+711,2020,24,Anaheim Ducks,8480031,Max,Comtois,53,1999-01-08,22,Longueuil,QC,CAN,CAN,"6' 2""",215,True,False,False,False,L,Y,Left Wing,Forward,LW
+712,2020,24,Anaheim Ducks,8480186,Alexander,Volkov,92,1997-08-02,23,Moscow,,RUS,RUS,"6' 1""",195,True,False,False,True,L,Y,Right Wing,Forward,RW
+713,2020,24,Anaheim Ducks,8480806,Isac,Lundestrom,48,1999-11-06,21,Gallivare,,SWE,SWE,"6' 0""",187,True,False,False,False,L,Y,Center,Forward,C
+714,2020,25,Dallas Stars,8471228,Alexander,Radulov,47,1986-07-05,35,Nizhny Tagil,,RUS,RUS,"6' 1""",205,True,False,False,False,L,I,Right Wing,Forward,RW
+715,2020,25,Dallas Stars,8471750,Ben,Bishop,30,1986-11-21,34,Denver,CO,USA,USA,"6' 7""",210,True,False,False,False,L,Y,Goalie,Goalie,G
+716,2020,25,Dallas Stars,8475730,Stephen,Johns,28,1992-04-18,29,Ellwood City,PA,USA,USA,"6' 4""",225,True,False,False,False,R,Y,Defenseman,Defenseman,D
+717,2020,25,Dallas Stars,8476166,Taylor,Fedun,42,1988-06-04,33,Edmonton,AB,CAN,CAN,"6' 1""",200,True,False,False,False,R,Y,Defenseman,Defenseman,D
+718,2020,25,Dallas Stars,8480769,Joel,L'Esperance,38,1995-08-18,25,Brighton,MI,USA,USA,"6' 2""",215,True,False,False,True,R,Y,Center,Forward,C
+719,2020,25,Dallas Stars,8470794,Joe,Pavelski,16,1984-07-11,37,Plover,WI,USA,USA,"5' 11""",195,True,False,False,False,R,Y,Center,Forward,C
+720,2020,25,Dallas Stars,8471260,Blake,Comeau,15,1986-02-18,35,Meadow Lake,SK,CAN,CAN,"6' 1""",200,True,False,False,False,R,Y,Left Wing,Forward,LW
+721,2020,25,Dallas Stars,8471284,Andrej,Sekera,5,1986-06-08,35,Bojnice,,SVK,SVK,"6' 0""",195,True,False,False,False,L,Y,Defenseman,Defenseman,D
+722,2020,25,Dallas Stars,8471418,Anton,Khudobin,35,1986-05-07,35,Ust-Kamenogorsk,,KAZ,RUS,"5' 11""",195,True,False,False,False,L,Y,Goalie,Goalie,G
+723,2020,25,Dallas Stars,8471699,Andrew,Cogliano,11,1987-06-14,34,Toronto,ON,CAN,CAN,"5' 10""",175,True,False,False,False,L,Y,Center,Forward,C
+724,2020,25,Dallas Stars,8473994,Jamie,Benn,14,1989-07-18,31,Victoria,BC,CAN,CAN,"6' 2""",210,True,False,True,False,L,Y,Left Wing,Forward,LW
+725,2020,25,Dallas Stars,8475222,Sami,Vatanen,45,1991-06-03,30,Jyväskylä,,FIN,FIN,"5' 10""",185,True,False,False,False,R,Y,Defenseman,Defenseman,D
+726,2020,25,Dallas Stars,8475413,Justin,Dowling,37,1990-10-01,30,Calgary,AB,CAN,CAN,"5' 10""",180,True,False,False,False,L,Y,Center,Forward,C
+727,2020,25,Dallas Stars,8475794,Tyler,Seguin,91,1992-01-31,29,Brampton,ON,CAN,CAN,"6' 1""",200,True,False,False,False,R,Y,Center,Forward,C
+728,2020,25,Dallas Stars,8475796,Mark,Pysyk,13,1992-01-11,29,Sherwood Park,AB,CAN,CAN,"6' 1""",196,True,False,False,False,R,Y,Defenseman,Defenseman,D
+729,2020,25,Dallas Stars,8475906,John,Klingberg,3,1992-08-14,28,Gothenburg,,SWE,SWE,"6' 3""",190,True,False,False,False,R,Y,Defenseman,Defenseman,D
+730,2020,25,Dallas Stars,8476467,Jamie,Oleksiak,2,1992-12-21,28,Toronto,ON,CAN,CAN,"6' 7""",255,True,False,False,False,L,Y,Defenseman,Defenseman,D
+731,2020,25,Dallas Stars,8476889,Radek,Faksa,12,1994-01-09,27,Vitkov,,CZE,CZE,"6' 3""",220,True,False,False,False,L,Y,Center,Forward,C
+732,2020,25,Dallas Stars,8476902,Esa,Lindell,23,1994-05-23,27,Vantaa,,FIN,FIN,"6' 3""",215,True,False,False,False,L,Y,Defenseman,Defenseman,D
+733,2020,25,Dallas Stars,8477450,Jason,Dickinson,18,1995-07-04,26,Georgetown,ON,CAN,CAN,"6' 2""",200,True,False,False,False,L,Y,Center,Forward,C
+734,2020,25,Dallas Stars,8477810,Joel,Hanley,44,1991-06-08,30,Keswick,ON,CAN,CAN,"5' 11""",190,True,False,False,False,L,Y,Defenseman,Defenseman,D
+735,2020,25,Dallas Stars,8478449,Roope,Hintz,24,1996-11-17,24,Tampere,,FIN,FIN,"6' 3""",220,True,False,False,False,L,Y,Left Wing,Forward,LW
+736,2020,25,Dallas Stars,8478495,Denis,Gurianov,34,1997-06-07,24,Togliatti,,RUS,RUS,"6' 3""",200,True,False,False,False,L,Y,Right Wing,Forward,RW
+737,2020,25,Dallas Stars,8478528,Tanner,Kero,64,1992-07-24,28,Hancock,MI,USA,USA,"6' 0""",180,True,False,False,False,L,Y,Center,Forward,C
+738,2020,25,Dallas Stars,8479587,Rhett,Gardner,49,1996-02-28,25,Moose Jaw,SK,CAN,CAN,"6' 3""",225,True,False,False,True,L,Y,Center,Forward,C
+739,2020,25,Dallas Stars,8479979,Jake,Oettinger,29,1998-12-18,22,Lakeville,MN,USA,USA,"6' 5""",225,True,False,False,True,L,Y,Goalie,Goalie,G
+740,2020,25,Dallas Stars,8480027,Jason,Robertson,21,1999-07-22,21,Arcadia,CA,USA,USA,"6' 3""",210,True,False,False,True,L,Y,Left Wing,Forward,LW
+741,2020,25,Dallas Stars,8480036,Miro,Heiskanen,4,1999-07-18,21,Espoo,,FIN,FIN,"6' 1""",190,True,False,False,False,L,Y,Defenseman,Defenseman,D
+742,2020,25,Dallas Stars,8481641,Joel,Kiviranta,25,1996-03-23,25,Vantaa,,FIN,FIN,"5' 11""",180,True,False,False,True,L,Y,Left Wing,Forward,LW
+743,2020,26,Los Angeles Kings,8477234,Troy,Grosenick,1,1989-08-27,31,Brookfield,WI,USA,USA,"6' 1""",185,True,False,False,False,L,Y,Goalie,Goalie,G
+744,2020,26,Los Angeles Kings,8478250,Vladimir,Tkachyov,,1995-10-05,25,Omsk,,RUS,RUS,"5' 10""",170,True,False,False,True,R,Y,Left Wing,Forward,LW
+745,2020,26,Los Angeles Kings,8480072,Lias,Andersson,24,1998-10-13,22,Smogen,,SWE,SWE,"6' 1""",190,True,False,False,False,L,Y,Center,Forward,C
+746,2020,26,Los Angeles Kings,8480221,Drake,Rymsha,43,1998-08-06,22,Huntington Woods,MI,USA,USA,"6' 0""",187,True,False,False,True,R,Y,Center,Forward,C
+747,2020,26,Los Angeles Kings,8480845,Rasmus,Kupari,89,2000-03-15,21,Kotka,,FIN,FIN,"6' 1""",183,True,False,False,True,R,Y,Center,Forward,C
+748,2020,26,Los Angeles Kings,8480857,Jacob,Ingham,35,2000-06-10,21,Barrie,ON,CAN,CAN,"6' 4""",186,True,False,False,True,L,Y,Goalie,Goalie,G
+749,2020,26,Los Angeles Kings,8470606,Dustin,Brown,23,1984-11-04,36,Ithaca,NY,USA,USA,"6' 0""",210,True,True,False,False,R,Y,Right Wing,Forward,RW
+750,2020,26,Los Angeles Kings,8471685,Anze,Kopitar,11,1987-08-24,33,Jesenice,,SVN,SVN,"6' 3""",225,True,False,True,False,L,Y,Center,Forward,C
+751,2020,26,Los Angeles Kings,8471734,Jonathan,Quick,32,1986-01-21,35,Milford,CT,USA,USA,"6' 1""",216,True,False,False,False,L,Y,Goalie,Goalie,G
+752,2020,26,Los Angeles Kings,8474563,Drew,Doughty,8,1989-12-08,31,London,ON,CAN,CAN,"6' 1""",202,True,True,False,False,R,Y,Defenseman,Defenseman,D
+753,2020,26,Los Angeles Kings,8476874,Olli,Maatta,6,1994-08-22,26,Jyväskylä,,FIN,FIN,"6' 2""",206,True,False,False,False,L,Y,Defenseman,Defenseman,D
+754,2020,26,Los Angeles Kings,8476960,Andreas,Athanasiou,22,1994-08-06,26,Woodbridge,ON,CAN,CAN,"6' 2""",188,True,False,False,False,L,Y,Center,Forward,C
+755,2020,26,Los Angeles Kings,8477073,Kurtis,MacDermid,56,1994-03-25,27,Sauble Beach,ON,CAN,CAN,"6' 5""",233,True,False,False,False,L,Y,Defenseman,Defenseman,D
+756,2020,26,Los Angeles Kings,8477361,Calvin,Petersen,40,1994-10-19,26,Waterloo,IA,USA,USA,"6' 1""",185,True,False,False,False,R,Y,Goalie,Goalie,G
+757,2020,26,Los Angeles Kings,8477960,Adrian,Kempe,9,1996-09-13,24,Kramfors,,SWE,SWE,"6' 2""",201,True,False,False,False,L,Y,Center,Forward,C
+758,2020,26,Los Angeles Kings,8477962,Brendan,Lemieux,48,1996-03-15,25,Denver,CO,USA,USA,"6' 1""",213,True,False,False,False,L,Y,Left Wing,Forward,LW
+759,2020,26,Los Angeles Kings,8478042,Viktor,Arvidsson,33,1993-04-08,28,Skellefteå,,SWE,SWE,"5' 9""",180,True,False,False,False,R,Y,Right Wing,Forward,RW
+760,2020,26,Los Angeles Kings,8478455,Austin,Wagner,27,1997-06-23,24,Calgary,AB,CAN,CAN,"6' 1""",185,True,False,False,False,L,Y,Left Wing,Forward,LW
+761,2020,26,Los Angeles Kings,8478846,Christian,Wolanin,21,1995-03-17,26,Quebec City,QC,CAN,CAN,"6' 2""",190,True,False,False,False,L,Y,Defenseman,Defenseman,D
+762,2020,26,Los Angeles Kings,8478911,Matt,Roy,3,1995-03-01,26,Detroit,MI,USA,USA,"6' 1""",200,True,False,False,False,R,Y,Defenseman,Defenseman,D
+763,2020,26,Los Angeles Kings,8479336,Carl,Grundstrom,91,1997-12-01,23,Umea,,SWE,SWE,"6' 0""",201,True,False,False,False,L,Y,Right Wing,Forward,RW
+764,2020,26,Los Angeles Kings,8479644,Matt,Luff,64,1997-05-05,24,Oakville,ON,CAN,CAN,"6' 2""",196,True,False,False,False,R,Y,Right Wing,Forward,RW
+765,2020,26,Los Angeles Kings,8479675,Trevor,Moore,12,1995-03-31,26,Thousand Oaks,CA,USA,USA,"5' 10""",185,True,False,False,False,L,Y,Center,Forward,C
+766,2020,26,Los Angeles Kings,8479994,Jaret,Anderson-Dolan,28,1999-09-12,21,Calgary,AB,CAN,CAN,"5' 11""",188,True,False,False,True,L,Y,Center,Forward,C
+767,2020,26,Los Angeles Kings,8479998,Mikey,Anderson,44,1999-05-25,22,Fridley,MN,USA,USA,"6' 0""",197,True,False,False,True,L,Y,Defenseman,Defenseman,D
+768,2020,26,Los Angeles Kings,8480014,Gabriel,Vilardi,13,1999-08-16,21,Kingston,ON,CAN,CAN,"6' 3""",201,True,False,False,True,R,Y,Center,Forward,C
+769,2020,26,Los Angeles Kings,8480113,Alex,Iafallo,19,1993-12-21,27,Eden,NY,USA,USA,"6' 0""",188,True,False,False,False,L,Y,Left Wing,Forward,LW
+770,2020,26,Los Angeles Kings,8480336,Sean,Walker,26,1994-11-13,26,Keswick,ON,CAN,CAN,"5' 11""",196,True,False,False,False,R,Y,Defenseman,Defenseman,D
+771,2020,26,Los Angeles Kings,8481481,Blake,Lizotte,46,1997-12-13,23,Lindstrom,MN,USA,USA,"5' 7""",172,True,False,False,False,L,Y,Center,Forward,C
+772,2020,26,Los Angeles Kings,8481600,Tobias,Bjornfot,33,2001-04-06,20,Upplands Vasby,,SWE,SWE,"6' 0""",202,True,False,False,True,L,Y,Defenseman,Defenseman,D
+773,2020,28,San Jose Sharks,8476442,Matt,Nieto,83,1992-11-05,28,Long Beach,CA,USA,USA,"5' 11""",185,True,False,False,False,L,I,Left Wing,Forward,LW
+774,2020,28,San Jose Sharks,8466139,Patrick,Marleau,12,1979-09-15,41,Aneroid,SK,CAN,CAN,"6' 2""",215,True,False,False,False,L,Y,Center,Forward,C
+775,2020,28,San Jose Sharks,8470613,Brent,Burns,88,1985-03-09,36,Barrie,ON,CAN,CAN,"6' 5""",230,True,True,False,False,R,Y,Defenseman,Defenseman,D
+776,2020,28,San Jose Sharks,8471709,Marc-Edouard,Vlasic,44,1987-03-30,34,Montreal,QC,CAN,CAN,"6' 1""",205,True,False,False,False,L,Y,Defenseman,Defenseman,D
+777,2020,28,San Jose Sharks,8474053,Logan,Couture,39,1989-03-28,32,Guelph,ON,CAN,CAN,"6' 1""",200,True,False,True,False,L,Y,Center,Forward,C
+778,2020,28,San Jose Sharks,8474578,Erik,Karlsson,65,1990-05-31,31,Landsbro,,SWE,SWE,"6' 0""",190,True,True,False,False,R,Y,Defenseman,Defenseman,D
+779,2020,28,San Jose Sharks,8474889,Martin,Jones,31,1990-01-10,31,North Vancouver,BC,CAN,CAN,"6' 4""",190,True,False,False,False,L,Y,Goalie,Goalie,G
+780,2020,28,San Jose Sharks,8475169,Evander,Kane,9,1991-08-02,29,Vancouver,BC,CAN,CAN,"6' 2""",210,True,False,False,False,L,Y,Left Wing,Forward,LW
+781,2020,28,San Jose Sharks,8475834,Marcus,Sorensen,20,1992-04-07,29,Sodertalje,,SWE,SWE,"5' 11""",175,True,False,False,False,L,Y,Left Wing,Forward,LW
+782,2020,28,San Jose Sharks,8476545,Kurtis,Gabriel,29,1993-04-20,28,Newmarket,ON,CAN,CAN,"6' 4""",200,True,False,False,False,R,Y,Right Wing,Forward,RW
+783,2020,28,San Jose Sharks,8476881,Tomas,Hertl,48,1993-11-12,27,Praha,,CZE,CZE,"6' 2""",215,True,True,False,False,L,Y,Center,Forward,C
+784,2020,28,San Jose Sharks,8477987,Ryan,Donato,16,1996-04-09,25,Boston,MA,USA,USA,"6' 0""",192,True,False,False,False,L,Y,Center,Forward,C
+785,2020,28,San Jose Sharks,8478099,Kevin,Labanc,62,1995-12-12,25,Brooklyn,NY,USA,USA,"5' 11""",185,True,False,False,False,R,Y,Right Wing,Forward,RW
+786,2020,28,San Jose Sharks,8478414,Timo,Meier,28,1996-10-08,24,Herisau,,CHE,CHE,"6' 0""",210,True,False,False,False,L,Y,Right Wing,Forward,RW
+787,2020,28,San Jose Sharks,8478868,Christian,Jaros,47,1996-04-02,25,Kosice,,SVK,SVK,"6' 3""",222,True,False,False,False,R,Y,Defenseman,Defenseman,D
+788,2020,28,San Jose Sharks,8478870,Rudolfs,Balcers,92,1997-04-08,24,Liepaja,,LVA,LVA,"5' 11""",180,True,False,False,False,L,Y,Left Wing,Forward,LW
+789,2020,28,San Jose Sharks,8479393,Noah,Gregor,73,1998-07-28,22,Beaumont,AB,CAN,CAN,"6' 0""",185,True,False,False,False,L,Y,Center,Forward,C
+790,2020,28,San Jose Sharks,8479571,Joachim,Blichfeld,86,1998-07-17,22,Frederikshavn,,DNK,DNK,"6' 2""",180,True,False,False,True,R,Y,Right Wing,Forward,RW
+791,2020,28,San Jose Sharks,8479580,Dylan,Gambrell,7,1996-08-26,24,Bonney Lake,WA,USA,USA,"6' 0""",185,True,False,False,False,R,Y,Center,Forward,C
+792,2020,28,San Jose Sharks,8479705,Jeffrey,Viel,63,1997-01-28,24,Rimouski,QC,CAN,CAN,"6' 0""",197,True,False,False,True,L,Y,Left Wing,Forward,LW
+793,2020,28,San Jose Sharks,8479983,Mario,Ferraro,38,1998-09-17,22,Toronto,ON,CAN,CAN,"5' 11""",185,True,False,False,False,L,Y,Defenseman,Defenseman,D
+794,2020,28,San Jose Sharks,8480053,Alexander,Chmelevski,55,1999-06-09,22,Huntington Beach,CA,USA,USA,"6' 0""",180,True,False,False,True,R,Y,Center,Forward,C
+795,2020,28,San Jose Sharks,8480160,Radim,Simek,51,1992-09-20,28,Mlada Boleslav,,CZE,CZE,"5' 11""",200,True,False,False,False,L,Y,Defenseman,Defenseman,D
+796,2020,28,San Jose Sharks,8481077,John,Leonard,43,1998-08-07,22,Westwood,NJ,USA,USA,"5' 11""",183,True,False,False,True,L,Y,Left Wing,Forward,LW
+797,2020,28,San Jose Sharks,8481812,Nikolai,Knyzhov,71,1998-03-20,23,Kemerovo,,RUS,RUS,"6' 2""",218,True,False,False,True,L,Y,Defenseman,Defenseman,D
+798,2020,28,San Jose Sharks,8482222,Alexander,Barabanov,94,1994-06-17,27,St. Petersburg,,RUS,RUS,"5' 10""",192,True,False,False,False,L,Y,Left Wing,Forward,LW
+799,2020,29,Columbus Blue Jackets,8476432,Boone,Jenner,38,1993-06-15,28,Dorchester,ON,CAN,CAN,"6' 2""",207,True,True,False,False,L,Y,Center,Forward,C
+800,2020,29,Columbus Blue Jackets,8478460,Zach,Werenski,8,1997-07-19,23,Grosse Pointe,MI,USA,USA,"6' 2""",218,True,False,False,False,L,Y,Defenseman,Defenseman,D
+801,2020,29,Columbus Blue Jackets,8474679,Gustav,Nyquist,14,1989-09-01,31,Halmstad,,SWE,SWE,"5' 11""",180,True,False,False,False,L,Y,Center,Forward,C
+802,2020,29,Columbus Blue Jackets,8471804,Nathan,Gerbe,24,1987-07-24,33,Oxford,MI,USA,USA,"5' 4""",176,True,False,False,False,L,Y,Center,Forward,C
+803,2020,29,Columbus Blue Jackets,8474584,Michael,Del Zotto,15,1990-06-24,31,Stouffville,ON,CAN,CAN,"6' 0""",195,True,False,False,False,L,Y,Defenseman,Defenseman,D
+804,2020,29,Columbus Blue Jackets,8474610,Zac,Dalpe,26,1989-11-01,31,Paris,ON,CAN,CAN,"6' 2""",197,True,False,False,False,R,Y,Center,Forward,C
+805,2020,29,Columbus Blue Jackets,8474715,Cam,Atkinson,13,1989-06-05,32,Riverside,CT,USA,USA,"5' 8""",176,True,False,False,False,R,Y,Right Wing,Forward,RW
+806,2020,29,Columbus Blue Jackets,8476449,Scott,Harrington,4,1993-03-10,28,Kingston,ON,CAN,CAN,"6' 2""",206,True,False,False,False,L,Y,Defenseman,Defenseman,D
+807,2020,29,Columbus Blue Jackets,8476870,Stefan,Matteau,23,1994-02-23,27,Chicago,IL,USA,USA,"6' 2""",208,True,False,False,False,L,Y,Center,Forward,C
+808,2020,29,Columbus Blue Jackets,8476914,Joonas,Korpisalo,70,1994-04-28,27,Pori,,FIN,FIN,"6' 3""",192,True,False,False,False,L,Y,Goalie,Goalie,G
+809,2020,29,Columbus Blue Jackets,8477416,Oliver,Bjorkstrand,28,1995-04-10,26,Herning,,DNK,DNK,"6' 0""",177,True,False,False,False,R,Y,Right Wing,Forward,RW
+810,2020,29,Columbus Blue Jackets,8477495,Seth,Jones,3,1994-10-03,26,Arlington,TX,USA,USA,"6' 4""",213,True,False,False,False,R,Y,Defenseman,Defenseman,D
+811,2020,29,Columbus Blue Jackets,8477503,Max,Domi,16,1995-03-02,26,Winnipeg,MB,CAN,CAN,"5' 10""",192,True,False,False,False,L,Y,Center,Forward,C
+812,2020,29,Columbus Blue Jackets,8477974,Ryan,MacInnis,49,1996-02-14,25,St. Louis,MO,USA,USA,"6' 4""",201,True,False,False,True,L,Y,Center,Forward,C
+813,2020,29,Columbus Blue Jackets,8478007,Elvis,Merzlikins,90,1994-04-13,27,Riga,,LVA,LVA,"6' 3""",185,True,False,False,False,L,Y,Goalie,Goalie,G
+814,2020,29,Columbus Blue Jackets,8478458,Jack,Roslovic,96,1997-01-29,24,Columbus,OH,USA,USA,"6' 1""",187,True,False,False,False,R,Y,Center,Forward,C
+815,2020,29,Columbus Blue Jackets,8478506,Gabriel,Carlsson,53,1997-01-02,24,Orebro,,SWE,SWE,"6' 5""",203,True,False,False,False,L,Y,Defenseman,Defenseman,D
+816,2020,29,Columbus Blue Jackets,8478567,Dean,Kukan,46,1993-07-08,28,Volketswil,,CHE,CHE,"6' 2""",186,True,False,False,False,L,Y,Defenseman,Defenseman,D
+817,2020,29,Columbus Blue Jackets,8478831,Kevin,Stenlund,11,1996-09-20,24,Stockholm,,SWE,SWE,"6' 4""",215,True,False,False,False,R,Y,Center,Forward,C
+818,2020,29,Columbus Blue Jackets,8478882,Vladislav,Gavrikov,44,1995-11-21,25,Yaroslavl,,RUS,RUS,"6' 1""",213,True,False,False,False,L,Y,Defenseman,Defenseman,D
+819,2020,29,Columbus Blue Jackets,8478949,Kole,Sherwood,88,1997-01-22,24,Columbus,OH,USA,USA,"6' 1""",212,True,False,False,True,R,Y,Right Wing,Forward,RW
+820,2020,29,Columbus Blue Jackets,8479339,Patrik,Laine,29,1998-04-19,23,TAMPERE,,FIN,FIN,"6' 5""",210,True,False,False,False,R,Y,Left Wing,Forward,LW
+821,2020,29,Columbus Blue Jackets,8479369,Andrew,Peeke,2,1998-03-17,23,Parkland,FL,USA,USA,"6' 3""",197,True,False,False,True,R,Y,Defenseman,Defenseman,D
+822,2020,29,Columbus Blue Jackets,8480074,Alexandre,Texier,42,1999-09-13,21,Saint-Martin-d'Hères,,FRA,FRA,"6' 1""",186,True,False,False,False,L,Y,Center,Forward,C
+823,2020,29,Columbus Blue Jackets,8480205,Emil,Bemstrom,52,1999-06-01,22,Nykoping,,SWE,SWE,"6' 0""",193,True,False,False,False,R,Y,Center,Forward,C
+824,2020,29,Columbus Blue Jackets,8480762,Eric,Robinson,50,1995-06-14,26,Bellmawr,NJ,USA,USA,"6' 2""",200,True,False,False,False,L,Y,Left Wing,Forward,LW
+825,2020,29,Columbus Blue Jackets,8482247,Mikko,Lehtonen,43,1994-01-16,27,Turku,,FIN,FIN,"6' 0""",196,True,False,False,False,L,Y,Defenseman,Defenseman,D
+826,2020,29,Columbus Blue Jackets,8482475,Yegor,Chinakhov,,2001-02-01,20,Omsk,,RUS,RUS,"6' 0""",178,True,False,False,True,L,Y,Right Wing,Forward,RW
+827,2020,30,Minnesota Wild,8470600,Ryan,Suter,20,1985-01-21,36,Madison,WI,USA,USA,"6' 1""",205,True,True,False,False,L,Y,Defenseman,Defenseman,D
+828,2020,30,Minnesota Wild,8470610,Zach,Parise,11,1984-07-28,36,Minneapolis,MN,USA,USA,"5' 11""",193,True,True,False,False,L,Y,Left Wing,Forward,LW
+829,2020,30,Minnesota Wild,8474009,Nick,Bonino,13,1988-04-20,33,Hartford,CT,USA,USA,"6' 1""",195,True,False,False,False,L,Y,Center,Forward,C
+830,2020,30,Minnesota Wild,8474013,Ian,Cole,28,1989-02-21,32,Ann Arbor,MI,USA,USA,"6' 1""",225,True,False,False,False,L,Y,Defenseman,Defenseman,D
+831,2020,30,Minnesota Wild,8474716,Jared,Spurgeon,46,1989-11-29,31,Edmonton,AB,CAN,CAN,"5' 9""",167,True,False,True,False,R,Y,Defenseman,Defenseman,D
+832,2020,30,Minnesota Wild,8475149,Marcus,Johansson,90,1990-10-06,30,Landskrona,,SWE,SWE,"6' 1""",203,True,False,False,False,L,Y,Center,Forward,C
+833,2020,30,Minnesota Wild,8475220,Marcus,Foligno,17,1991-08-10,29,Buffalo,NY,USA,CAN,"6' 3""",223,True,False,False,False,L,Y,Left Wing,Forward,LW
+834,2020,30,Minnesota Wild,8475660,Cam,Talbot,33,1987-07-05,34,Caledonia,ON,CAN,CAN,"6' 4""",193,True,False,False,False,L,Y,Goalie,Goalie,G
+835,2020,30,Minnesota Wild,8475692,Mats,Zuccarello,36,1987-09-01,33,Oslo,,NOR,NOR,"5' 8""",175,True,False,False,False,L,Y,Right Wing,Forward,RW
+836,2020,30,Minnesota Wild,8475760,Nick,Bjugstad,27,1992-07-17,28,Minneapolis,MN,USA,USA,"6' 6""",208,True,False,False,False,R,Y,Center,Forward,C
+837,2020,30,Minnesota Wild,8476390,Joseph,Cramarossa,56,1992-10-26,28,Toronto,ON,CAN,CAN,"6' 0""",188,True,False,False,False,L,Y,Center,Forward,C
+838,2020,30,Minnesota Wild,8476415,Kyle,Rau,37,1992-10-24,28,Eden Prairie,MN,USA,USA,"5' 8""",176,True,False,False,False,L,Y,Center,Forward,C
+839,2020,30,Minnesota Wild,8476437,Victor,Rask,49,1993-03-01,28,Leksand,,SWE,SWE,"6' 2""",195,True,False,False,False,L,Y,Center,Forward,C
+840,2020,30,Minnesota Wild,8476463,Jonas,Brodin,25,1993-07-12,28,Karlstad,,SWE,SWE,"6' 1""",194,True,False,False,False,L,Y,Defenseman,Defenseman,D
+841,2020,30,Minnesota Wild,8476779,Brad,Hunt,77,1988-08-24,32,Maple Ridge,BC,CAN,CAN,"5' 9""",177,True,False,False,False,L,Y,Defenseman,Defenseman,D
+842,2020,30,Minnesota Wild,8476856,Matt,Dumba,24,1994-07-25,26,Regina,SK,CAN,CAN,"6' 0""",185,True,False,False,False,R,Y,Defenseman,Defenseman,D
+843,2020,30,Minnesota Wild,8477202,Andrew,Hammond,35,1988-02-11,33,Surrey,BC,CAN,CAN,"6' 1""",231,True,False,False,False,L,Y,Goalie,Goalie,G
+844,2020,30,Minnesota Wild,8477366,Luke,Johnson,41,1994-09-19,26,Grand Forks,ND,USA,USA,"5' 11""",174,True,False,False,True,R,Y,Center,Forward,C
+845,2020,30,Minnesota Wild,8477369,Carson,Soucy,21,1994-07-27,26,Viking,AB,CAN,CAN,"6' 5""",211,True,False,False,False,L,Y,Defenseman,Defenseman,D
+846,2020,30,Minnesota Wild,8477451,Ryan,Hartman,38,1994-09-20,26,Hilton Head Island,SC,USA,USA,"6' 0""",192,True,False,False,False,R,Y,Right Wing,Forward,RW
+847,2020,30,Minnesota Wild,8477541,Dakota,Mermis,57,1994-01-05,27,Alton,IL,USA,USA,"6' 0""",196,True,False,False,False,L,Y,Defenseman,Defenseman,D
+848,2020,30,Minnesota Wild,8477942,Kevin,Fiala,22,1996-07-22,24,St. Gallen,,CHE,CHE,"5' 10""",198,True,False,False,False,L,Y,Left Wing,Forward,LW
+849,2020,30,Minnesota Wild,8478011,Louie,Belpedio,47,1996-05-14,25,Skokie,IL,USA,USA,"5' 11""",191,True,False,False,True,R,Y,Defenseman,Defenseman,D
+850,2020,30,Minnesota Wild,8478039,Kaapo,Kahkonen,34,1996-08-16,24,Helsinki,,FIN,FIN,"6' 2""",215,True,False,False,True,L,Y,Goalie,Goalie,G
+851,2020,30,Minnesota Wild,8478413,Jordan,Greenway,18,1997-02-16,24,Canton,NY,USA,USA,"6' 6""",241,True,False,False,False,L,Y,Left Wing,Forward,LW
+852,2020,30,Minnesota Wild,8478493,Joel,Eriksson Ek,14,1997-01-29,24,Karlstad,,SWE,SWE,"6' 3""",208,True,False,False,False,L,Y,Center,Forward,C
+853,2020,30,Minnesota Wild,8478864,Kirill,Kaprizov,97,1997-04-26,24,Novokuznetsk,,RUS,RUS,"5' 9""",201,True,False,False,True,L,Y,Left Wing,Forward,LW
+854,2020,30,Minnesota Wild,8479520,Brandon,Duhaime,65,1997-05-22,24,Coral Springs,FL,USA,USA,"6' 1""",203,True,False,False,True,L,Y,Right Wing,Forward,RW
+855,2020,30,Minnesota Wild,8480884,Calen,Addison,59,2000-04-11,21,Brandon,MB,CAN,CAN,"5' 11""",180,True,False,False,True,R,Y,Defenseman,Defenseman,D
+856,2020,30,Minnesota Wild,8480980,Connor,Dewar,52,1999-06-26,22,Gilbert Plains,MB,CAN,CAN,"5' 10""",182,True,False,False,True,L,Y,Center,Forward,C
+857,2020,30,Minnesota Wild,8481477,Nico,Sturm,7,1995-05-03,26,Augsburg,,DEU,DEU,"6' 3""",207,True,False,False,True,L,Y,Center,Forward,C
+858,2020,30,Minnesota Wild,8481545,Hunter,Jones,95,2000-09-21,20,Brantford,ON,CAN,CAN,"6' 4""",194,True,False,False,True,L,Y,Goalie,Goalie,G
+859,2020,30,Minnesota Wild,8481557,Matthew,Boldy,12,2001-04-05,20,Milford,MA,USA,USA,"6' 2""",195,True,False,False,True,L,Y,Left Wing,Forward,LW
+860,2020,52,Winnipeg Jets,8473412,Bryan,Little,18,1987-11-12,33,Edmonton,AB,CAN,CAN,"6' 0""",191,True,False,False,False,R,Y,Center,Forward,C
+861,2020,52,Winnipeg Jets,8476470,Nathan,Beaulieu,88,1992-12-05,28,Strathroy,ON,CAN,CAN,"6' 2""",200,True,False,False,False,L,Y,Defenseman,Defenseman,D
+862,2020,52,Winnipeg Jets,8470775,Nate,Thompson,11,1984-10-05,36,Anchorage,AK,USA,USA,"6' 1""",205,True,False,False,False,L,Y,Center,Forward,C
+863,2020,52,Winnipeg Jets,8471218,Blake,Wheeler,26,1986-08-31,34,Plymouth,MN,USA,USA,"6' 5""",225,True,False,True,False,R,Y,Right Wing,Forward,RW
+864,2020,52,Winnipeg Jets,8471669,Paul,Stastny,25,1985-12-27,35,Quebec City,QC,CAN,USA,"6' 0""",193,True,False,False,False,L,Y,Center,Forward,C
+865,2020,52,Winnipeg Jets,8473453,Trevor,Lewis,23,1987-01-08,34,Salt Lake City,UT,USA,USA,"6' 1""",202,True,False,False,False,R,Y,Center,Forward,C
+866,2020,52,Winnipeg Jets,8473618,Mathieu,Perreault,85,1988-01-05,33,Drummondville,QC,CAN,CAN,"5' 10""",188,True,False,False,False,L,Y,Left Wing,Forward,LW
+867,2020,52,Winnipeg Jets,8474818,Jordie,Benn,40,1987-07-26,33,Victoria,BC,CAN,CAN,"6' 2""",199,True,False,False,False,L,Y,Defenseman,Defenseman,D
+868,2020,52,Winnipeg Jets,8475762,Derek,Forbort,24,1992-03-04,29,Duluth,MN,USA,USA,"6' 4""",219,True,False,False,False,L,Y,Defenseman,Defenseman,D
+869,2020,52,Winnipeg Jets,8476316,Laurent,Brossoit,30,1993-03-23,28,Port Alberni,BC,CAN,CAN,"6' 3""",204,True,False,False,False,L,Y,Goalie,Goalie,G
+870,2020,52,Winnipeg Jets,8476331,Dylan,DeMelo,2,1993-05-01,28,London,ON,CAN,CAN,"6' 0""",191,True,False,False,False,R,Y,Defenseman,Defenseman,D
+871,2020,52,Winnipeg Jets,8476392,Adam,Lowry,17,1993-03-29,28,St. Louis,MO,USA,USA,"6' 5""",210,True,False,False,False,L,Y,Center,Forward,C
+872,2020,52,Winnipeg Jets,8476460,Mark,Scheifele,55,1993-03-15,28,Kitchener,ON,CAN,CAN,"6' 3""",207,True,True,False,False,R,Y,Center,Forward,C
+873,2020,52,Winnipeg Jets,8476945,Connor,Hellebuyck,37,1993-05-19,28,Commerce,MI,USA,USA,"6' 4""",207,True,False,False,False,L,Y,Goalie,Goalie,G
+874,2020,52,Winnipeg Jets,8476952,Dominic,Toninato,21,1994-03-09,27,Duluth,MN,USA,USA,"6' 2""",191,True,False,False,False,L,Y,Center,Forward,C
+875,2020,52,Winnipeg Jets,8477359,Tucker,Poolman,3,1993-06-08,28,Dubuque,IA,USA,USA,"6' 2""",199,True,False,False,False,R,Y,Defenseman,Defenseman,D
+876,2020,52,Winnipeg Jets,8477429,Andrew,Copp,9,1994-07-08,27,Ann Arbor,MI,USA,USA,"6' 1""",206,True,False,False,False,L,Y,Center,Forward,C
+877,2020,52,Winnipeg Jets,8477448,Marko,Dano,56,1994-11-30,26,Eisenstadt,,AUT,SVK,"5' 11""",201,True,False,False,False,L,Y,Center,Forward,C
+878,2020,52,Winnipeg Jets,8477480,Eric,Comrie,1,1995-07-06,26,Edmonton,AB,CAN,CAN,"6' 1""",175,True,False,False,True,L,Y,Goalie,Goalie,G
+879,2020,52,Winnipeg Jets,8477504,Josh,Morrissey,44,1995-03-28,26,Calgary,AB,CAN,CAN,"6' 0""",195,True,True,False,False,L,Y,Defenseman,Defenseman,D
+880,2020,52,Winnipeg Jets,8477940,Nikolaj,Ehlers,27,1996-02-14,25,Aalborg,,DNK,DNK,"6' 0""",172,True,False,False,False,L,Y,Left Wing,Forward,LW
+881,2020,52,Winnipeg Jets,8478031,Nelson,Nogier,62,1996-05-27,25,Saskatoon,SK,CAN,CAN,"6' 2""",191,True,False,False,True,R,Y,Defenseman,Defenseman,D
+882,2020,52,Winnipeg Jets,8478058,CJ,Suess,73,1994-03-17,27,St. Paul,MN,USA,USA,"5' 11""",190,True,False,False,False,L,Y,Left Wing,Forward,LW
+883,2020,52,Winnipeg Jets,8478398,Kyle,Connor,81,1996-12-09,24,Shelby Township,MI,USA,USA,"6' 1""",182,True,False,False,False,L,Y,Left Wing,Forward,LW
+884,2020,52,Winnipeg Jets,8478424,Jansen,Harkins,12,1997-05-23,24,Cleveland,OH,USA,USA,"6' 1""",182,True,False,False,False,L,Y,Center,Forward,C
+885,2020,52,Winnipeg Jets,8478891,Mason,Appleton,22,1996-01-15,25,Green Bay,WI,USA,USA,"6' 2""",193,True,False,False,False,R,Y,Center,Forward,C
+886,2020,52,Winnipeg Jets,8478915,Sami,Niku,8,1996-10-10,24,Haapavesi,,FIN,FIN,"6' 1""",176,True,False,False,False,L,Y,Defenseman,Defenseman,D
+887,2020,52,Winnipeg Jets,8479378,Logan,Stanley,64,1998-05-26,23,Waterloo,ON,CAN,CAN,"6' 7""",228,True,False,False,True,L,Y,Defenseman,Defenseman,D
+888,2020,52,Winnipeg Jets,8479400,Pierre-Luc,Dubois,13,1998-06-24,23,STE-AGATHE-DES-MONTS,QC,CAN,CAN,"6' 2""",205,True,False,False,False,L,Y,Left Wing,Forward,LW
+889,2020,52,Winnipeg Jets,8479574,Mikhail,Berdin,60,1998-03-01,23,Ufa,,RUS,RUS,"6' 2""",163,True,False,False,True,L,Y,Goalie,Goalie,G
+890,2020,52,Winnipeg Jets,8480005,Kristian,Vesalainen,93,1999-06-01,22,Helsinki,,FIN,FIN,"6' 3""",207,True,False,False,True,L,Y,Left Wing,Forward,LW
+891,2020,52,Winnipeg Jets,8480049,Dylan,Samberg,54,1999-01-24,22,Saginaw,MN,USA,USA,"6' 3""",190,True,False,False,True,L,Y,Defenseman,Defenseman,D
+892,2020,52,Winnipeg Jets,8480145,Neal,Pionk,4,1995-07-29,25,Omaha,NE,USA,USA,"6' 0""",186,True,False,False,False,R,Y,Defenseman,Defenseman,D
+893,2020,52,Winnipeg Jets,8480436,Cole,Kehler,,1997-12-17,23,Winkler,MB,CAN,CAN,"6' 4""",205,True,False,False,True,R,Y,Goalie,Goalie,G
+894,2020,52,Winnipeg Jets,8480443,Kristian,Reichel,87,1998-06-11,23,Most,,CZE,CZE,"6' 0""",168,True,False,False,True,R,Y,Center,Forward,C
+895,2020,52,Winnipeg Jets,8481019,David,Gustafsson,19,2000-04-11,21,Tingsryd,,SWE,SWE,"6' 2""",196,True,False,False,True,L,Y,Center,Forward,C
+896,2020,52,Winnipeg Jets,8481572,Ville,Heinola,14,2001-03-02,20,Honkajoki,,FIN,FIN,"5' 11""",178,True,False,False,True,L,Y,Defenseman,Defenseman,D
+897,2020,52,Winnipeg Jets,8481649,Joona,Luoto,46,1997-09-26,23,Tampere,,FIN,FIN,"6' 3""",192,True,False,False,True,L,Y,Left Wing,Forward,LW
+898,2020,53,Arizona Coyotes,8480890,Jan,Jenik,73,2000-09-15,20,Nymburk,,CZE,CZE,"6' 1""",161,True,False,False,True,L,Y,Right Wing,Forward,RW
+899,2020,53,Arizona Coyotes,8471274,Alex,Goligoski,33,1985-07-30,35,Grand Rapids,MN,USA,USA,"5' 11""",185,True,False,False,False,L,Y,Defenseman,Defenseman,D
+900,2020,53,Arizona Coyotes,8471769,Niklas,Hjalmarsson,4,1987-06-06,34,Eksjo,,SWE,SWE,"6' 3""",197,True,True,False,False,L,Y,Defenseman,Defenseman,D
+901,2020,53,Arizona Coyotes,8473544,Derick,Brassard,16,1987-09-22,33,Hull,QC,CAN,CAN,"6' 1""",202,True,False,False,False,L,Y,Center,Forward,C
+902,2020,53,Arizona Coyotes,8473548,Phil,Kessel,81,1987-10-02,33,Madison,WI,USA,USA,"6' 0""",202,True,False,False,False,R,Y,Right Wing,Forward,RW
+903,2020,53,Arizona Coyotes,8474218,Jason,Demers,55,1988-06-09,33,Dorval,QC,CAN,CAN,"6' 1""",195,True,False,False,False,R,Y,Defenseman,Defenseman,D
+904,2020,53,Arizona Coyotes,8475171,Oliver,Ekman-Larsson,23,1991-07-17,29,Karlskrona,,SWE,SWE,"6' 2""",200,True,False,True,False,L,Y,Defenseman,Defenseman,D
+905,2020,53,Arizona Coyotes,8475311,Darcy,Kuemper,35,1990-05-05,31,Saskatoon,SK,CAN,CAN,"6' 5""",215,True,False,False,False,L,Y,Goalie,Goalie,G
+906,2020,53,Arizona Coyotes,8475728,Johan,Larsson,22,1992-07-25,28,Lau,,SWE,SWE,"5' 11""",204,True,False,False,False,L,Y,Left Wing,Forward,LW
+907,2020,53,Arizona Coyotes,8475752,Tyler,Pitlick,17,1991-11-01,29,Minneapolis,MN,USA,USA,"6' 2""",200,True,False,False,False,R,Y,Center,Forward,C
+908,2020,53,Arizona Coyotes,8477293,Antti,Raanta,32,1989-05-12,32,Rauma,,FIN,FIN,"6' 0""",195,True,False,False,False,L,Y,Goalie,Goalie,G
+909,2020,53,Arizona Coyotes,8477401,John,Hayden,15,1995-02-14,26,Chicago,IL,USA,USA,"6' 3""",223,True,False,False,False,R,Y,Center,Forward,C
+910,2020,53,Arizona Coyotes,8477851,Jordan,Oesterle,82,1992-06-25,29,Dearborn Heights,MI,USA,USA,"6' 0""",182,True,False,False,False,L,Y,Defenseman,Defenseman,D
+911,2020,53,Arizona Coyotes,8477951,Nick,Schmaltz,8,1996-02-23,25,Madison,WI,USA,USA,"6' 0""",177,True,False,False,False,R,Y,Center,Forward,C
+912,2020,53,Arizona Coyotes,8477989,Christian,Dvorak,18,1996-02-02,25,Palos,IL,USA,USA,"6' 0""",195,True,False,False,False,L,Y,Center,Forward,C
+913,2020,53,Arizona Coyotes,8478047,Michael,Bunting,58,1995-09-17,25,Scarborough,ON,CAN,CAN,"5' 11""",197,True,False,False,True,L,Y,Left Wing,Forward,LW
+914,2020,53,Arizona Coyotes,8478211,Dryden,Hunt,28,1995-11-24,25,Cranbrook,BC,CAN,CAN,"6' 0""",193,True,False,False,False,L,Y,Left Wing,Forward,LW
+915,2020,53,Arizona Coyotes,8478432,Christian,Fischer,36,1997-04-15,24,Chicago,IL,USA,USA,"6' 2""",214,True,False,False,False,R,Y,Right Wing,Forward,RW
+916,2020,53,Arizona Coyotes,8478474,Lawson,Crouse,67,1997-06-23,24,Mt. Brydges,ON,CAN,CAN,"6' 4""",220,True,False,False,False,L,Y,Left Wing,Forward,LW
+917,2020,53,Arizona Coyotes,8478499,Adin,Hill,31,1996-05-11,25,Comox,BC,CAN,CAN,"6' 6""",202,True,False,False,False,L,Y,Goalie,Goalie,G
+918,2020,53,Arizona Coyotes,8478856,Conor,Garland,83,1996-03-11,25,Scituate,MA,USA,USA,"5' 10""",165,True,False,False,False,R,Y,Right Wing,Forward,RW
+919,2020,53,Arizona Coyotes,8479343,Clayton,Keller,9,1998-07-29,22,Chesterfield,MO,USA,USA,"5' 10""",170,True,False,False,False,L,Y,Right Wing,Forward,RW
+920,2020,53,Arizona Coyotes,8479345,Jakob,Chychrun,6,1998-03-31,23,Boca Raton,FL,USA,USA,"6' 2""",210,True,False,False,False,L,Y,Defenseman,Defenseman,D
+921,2020,53,Arizona Coyotes,8480913,Jordan,Gross,79,1995-05-09,26,Maple Grove,MN,USA,USA,"5' 10""",190,True,False,False,True,R,Y,Defenseman,Defenseman,D
+922,2020,53,Arizona Coyotes,8480950,Ilya,Lyubushkin,46,1994-04-06,27,Moscow,,RUS,RUS,"6' 2""",201,True,False,False,False,R,Y,Defenseman,Defenseman,D
+923,2020,54,Vegas Golden Knights,8470594,Marc-Andre,Fleury,29,1984-11-28,36,Sorel,QC,CAN,CAN,"6' 2""",185,True,False,False,False,L,Y,Goalie,Goalie,G
+924,2020,54,Vegas Golden Knights,8471817,Ryan,Reaves,75,1987-01-20,34,Winnipeg,MB,CAN,CAN,"6' 2""",225,True,False,False,False,R,Y,Right Wing,Forward,RW
+925,2020,54,Vegas Golden Knights,8474157,Max,Pacioretty,67,1988-11-20,32,New Canaan,CT,USA,USA,"6' 2""",215,True,False,False,False,L,Y,Left Wing,Forward,LW
+926,2020,54,Vegas Golden Knights,8474166,Alec,Martinez,23,1987-07-26,33,Rochester Hills,MI,USA,USA,"6' 1""",209,True,False,False,False,L,Y,Defenseman,Defenseman,D
+927,2020,54,Vegas Golden Knights,8474207,Nick,Holden,22,1987-05-15,34,St. Albert,AB,CAN,CAN,"6' 4""",214,True,False,False,False,L,Y,Defenseman,Defenseman,D
+928,2020,54,Vegas Golden Knights,8474565,Alex,Pietrangelo,7,1990-01-18,31,King City,ON,CAN,CAN,"6' 3""",210,True,False,False,False,R,Y,Defenseman,Defenseman,D
+929,2020,54,Vegas Golden Knights,8475188,Brayden,McNabb,3,1991-01-21,30,Davidson,SK,CAN,CAN,"6' 4""",216,True,False,False,False,L,Y,Defenseman,Defenseman,D
+930,2020,54,Vegas Golden Knights,8475191,Reilly,Smith,19,1991-04-01,30,Mimico,ON,CAN,CAN,"6' 1""",182,True,False,False,False,L,Y,Right Wing,Forward,RW
+931,2020,54,Vegas Golden Knights,8475215,Robin,Lehner,90,1991-07-24,29,Gothenburg,,SWE,SWE,"6' 4""",250,True,False,False,False,L,Y,Goalie,Goalie,G
+932,2020,54,Vegas Golden Knights,8475913,Mark,Stone,61,1992-05-13,29,Winnipeg,MB,CAN,CAN,"6' 3""",202,True,False,True,False,R,Y,Right Wing,Forward,RW
+933,2020,54,Vegas Golden Knights,8476448,William,Karlsson,71,1993-01-08,28,Marsta,,SWE,SWE,"6' 0""",191,True,False,False,False,L,Y,Center,Forward,C
+934,2020,54,Vegas Golden Knights,8476539,Jonathan,Marchessault,81,1990-12-27,30,Cap-Rouge,QC,CAN,CAN,"5' 9""",180,True,False,False,False,R,Y,Center,Forward,C
+935,2020,54,Vegas Golden Knights,8476905,Chandler,Stephenson,20,1994-04-22,27,Saskatoon,SK,CAN,CAN,"6' 0""",199,True,False,False,False,L,Y,Center,Forward,C
+936,2020,54,Vegas Golden Knights,8477406,Mattias,Janmark,26,1992-12-08,28,Danderyd,,SWE,SWE,"6' 1""",195,True,False,False,False,L,Y,Center,Forward,C
+937,2020,54,Vegas Golden Knights,8477447,Shea,Theodore,27,1995-08-03,25,Langley,BC,CAN,CAN,"6' 2""",195,True,False,False,False,L,Y,Defenseman,Defenseman,D
+938,2020,54,Vegas Golden Knights,8477478,William,Carrier,28,1994-12-20,26,LaSalle,QC,CAN,CAN,"6' 2""",218,True,False,False,False,L,Y,Left Wing,Forward,LW
+939,2020,54,Vegas Golden Knights,8477887,Patrick,Brown,38,1992-05-29,29,Bloomfield Hills,MI,USA,USA,"6' 1""",210,True,False,False,False,R,Y,Center,Forward,C
+940,2020,54,Vegas Golden Knights,8477931,Tomas,Nosek,92,1992-09-01,28,Pardubice,,CZE,CZE,"6' 2""",205,True,False,False,False,L,Y,Left Wing,Forward,LW
+941,2020,54,Vegas Golden Knights,8477949,Alex,Tuch,89,1996-05-10,25,Syracuse,NY,USA,USA,"6' 4""",220,True,False,False,False,R,Y,Right Wing,Forward,RW
+942,2020,54,Vegas Golden Knights,8478106,Dylan,Sikura,15,1995-06-01,26,Aurora,ON,CAN,CAN,"5' 11""",170,True,False,False,False,L,Y,Center,Forward,C
+943,2020,54,Vegas Golden Knights,8478434,Keegan,Kolesar,55,1997-04-08,24,Brandon,MB,CAN,CAN,"6' 2""",217,True,False,False,True,R,Y,Right Wing,Forward,RW
+944,2020,54,Vegas Golden Knights,8478462,Nicolas,Roy,10,1997-02-05,24,Amos,QC,CAN,CAN,"6' 4""",205,True,False,False,False,R,Y,Center,Forward,C
+945,2020,54,Vegas Golden Knights,8479639,Dylan,Coghlan,52,1998-02-19,23,Duncan,BC,CAN,CAN,"6' 2""",206,True,False,False,True,R,Y,Defenseman,Defenseman,D
+946,2020,54,Vegas Golden Knights,8479980,Nicolas,Hague,14,1998-12-05,22,Kitchener,ON,CAN,CAN,"6' 6""",230,True,False,False,False,L,Y,Defenseman,Defenseman,D
+947,2020,54,Vegas Golden Knights,8479996,Cody,Glass,9,1999-04-01,22,Winnipeg,MB,CAN,CAN,"6' 3""",206,True,False,False,False,R,Y,Center,Forward,C
+948,2020,54,Vegas Golden Knights,8480313,Logan,Thompson,36,1997-02-25,24,Calgary,AB,CAN,CAN,"6' 4""",201,True,False,False,True,R,Y,Goalie,Goalie,G
+949,2020,54,Vegas Golden Knights,8480727,Zach,Whitecloud,2,1996-11-28,24,Brandon,MB,CAN,CAN,"6' 2""",211,True,False,False,True,R,Y,Defenseman,Defenseman,D
