@@ -209,7 +209,17 @@ height_pred_y = nhl_output[['height']]
 
 kmeans_per_k = [KMeans(n_clusters=k, random_state=42).fit(height_pred_x) for k in range(1, 10)]
 inertias = [model.inertia_ for model in kmeans_per_k]
-plot_inertias(inertias)
+plt.figure(figsize=(8, 3.5))
+plt.plot(range(1, 10), inertias, "bo-")
+plt.title("Inertia vs. Number of Clusters: Height Prediction")
+plt.xlabel("$k$", fontsize=14)
+plt.ylabel("Inertia", fontsize=14)
+plt.annotate('Elbow',
+             xy=(2, inertias[1]),
+             xytext=(0.55, 0.55),
+             textcoords='figure fraction',
+             fontsize=16,
+             arrowprops=dict(facecolor='black', shrink=0.1))
 
 x_train, x_test, y_train, y_test = train_test_split(height_pred_x, height_pred_y, test_size=0.2, random_state=42)
 
@@ -222,14 +232,23 @@ cluster_1 = x_train[y_pred == 1]
 
 # score each cluster
 lr_reg = lr.fit(cluster_0, y_train[y_pred == 0])
-print('Cluster 0 R^2: Height', lr.score(cluster_0, y_train[y_pred == 0]))
+dtr_reg = dtr.fit(cluster_0, y_train[y_pred == 0])
+rfr_reg = rfr.fit(cluster_0, y_train[y_pred == 0].values.ravel())
+print('Cluster 0 Linear Regression: Height', lr.score(cluster_0, y_train[y_pred == 0]))
+print('Cluster 0 Decision Tree Regression: Height', dtr.score(cluster_0, y_train[y_pred == 0]))
+print('Cluster 0 Random Forest Regression: Height', rfr.score(cluster_0, y_train[y_pred == 0].values.ravel()))
+
 lr_reg = lr.fit(cluster_1, y_train[y_pred == 1])
-print('Cluster 1 R^2: Height', lr.score(cluster_1, y_train[y_pred == 1]))
+dtr_reg = dtr.fit(cluster_1, y_train[y_pred == 1])
+rfr_reg = rfr.fit(cluster_1, y_train[y_pred == 1].values.ravel())
+
+print('Cluster 1 Linear Regression: Height', lr.score(cluster_1, y_train[y_pred == 1]))
+print('Cluster 1 Decision Tree Regression: Height', dtr.score(cluster_1, y_train[y_pred == 1]))
+print('Cluster 1 Random Forest Regression: Height', rfr.score(cluster_1, y_train[y_pred == 1].values.ravel()))
 
 lr_reg = lr.fit(x_train, y_train)
 dtr_reg = dtr.fit(x_train, y_train)
 rfr_reg = rfr.fit(x_train, y_train.values.ravel())
-
 
 print('Linear Regression R^2: Height ', lr_reg.score(x_test, y_test))
 print('Decision Tree Regression R^2: Height ', dtr_reg.score(x_test, y_test))
@@ -240,17 +259,42 @@ weight_pred_y = nhl_output[['weight']]
 
 kmeans_per_k = [KMeans(n_clusters=k, random_state=42).fit(weight_pred_x) for k in range(1, 10)]
 inertias = [model.inertia_ for model in kmeans_per_k]
-plot_inertias(inertias)
+
+plt.figure(figsize=(8, 3.5))
+plt.plot(range(1, 10), inertias, "bo-")
+plt.title("Inertia vs. Number of Clusters: Weight Prediction")
+plt.xlabel("$k$", fontsize=14)
+plt.ylabel("Inertia", fontsize=14)
+plt.annotate('Elbow',
+             xy=(2, inertias[1]),
+             xytext=(0.55, 0.55),
+             textcoords='figure fraction',
+             fontsize=16,
+             arrowprops=dict(facecolor='black', shrink=0.1))
+
 
 x_train, x_test, y_train, y_test = train_test_split(weight_pred_x, weight_pred_y, test_size=0.2, random_state=42)
 
 kmeans = KMeans(n_clusters=2, random_state=42)
 y_pred = kmeans.fit_predict(x_train, y_train)
 
+cluster_0 = x_train[y_pred == 0]
+cluster_1 = x_train[y_pred == 1]
+
 lr_reg = lr.fit(cluster_0, y_train[y_pred == 0])
-print('Cluster 0 R^2: Weight', lr.score(cluster_0, y_train[y_pred == 0]))
+dtr_reg = dtr.fit(cluster_0, y_train[y_pred == 0])
+rfr_reg = rfr.fit(cluster_0, y_train[y_pred == 0].values.ravel())
+print('Cluster 0 Linear Regression: Weight', lr.score(cluster_0, y_train[y_pred == 0]))
+print('Cluster 0 Decision Tree Regression: Weight', dtr.score(cluster_0, y_train[y_pred == 0]))
+print('Cluster 0 Random Forest Regression: Weight', rfr.score(cluster_0, y_train[y_pred == 0].values.ravel()))
+
 lr_reg = lr.fit(cluster_1, y_train[y_pred == 1])
-print('Cluster 1 R^2: Weight', lr.score(cluster_1, y_train[y_pred == 1]))
+dtr_reg = dtr.fit(cluster_1, y_train[y_pred == 1])
+rfr_reg = rfr.fit(cluster_1, y_train[y_pred == 1].values.ravel())
+
+print('Cluster 1 Linear Regression: Weight', lr.score(cluster_1, y_train[y_pred == 1]))
+print('Cluster 1 Decision Tree Regression: Weight', dtr.score(cluster_1, y_train[y_pred == 1]))
+print('Cluster 1 Random Forest Regression: Weight', rfr.score(cluster_1, y_train[y_pred == 1].values.ravel()))
 
 # apply the linear regression
 lm_reg = lr.fit(x_train, y_train)
@@ -260,3 +304,5 @@ rfr_reg = rfr.fit(x_train, y_train.values.ravel())
 print('Linear Regression R^2: Weight ', lm_reg.score(x_test, y_test))
 print('Decision Tree Regression R^2: Weight ', dtr_reg.score(x_test, y_test))
 print('Random Forest Regression R^2: Weight ', rfr_reg.score(x_test, y_test))
+
+plt.show()
